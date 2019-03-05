@@ -1,0 +1,11 @@
+"0","wdi %>%
+  filter(year==2016) %>%
+  left_join(yrs) %>%
+  select(country, bar.schl.15up, ny.gdp.pcap.kd, cntry.code) %>%
+  ggplot(aes(x = (ny.gdp.pcap.kd), y = bar.schl.15up)) +
+  geom_point() +
+  #geom_label(aes(label = cntry.code)) +
+  geom_smooth()
+"
+"2","Joining, by = ""country""
+"

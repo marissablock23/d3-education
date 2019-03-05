@@ -1,0 +1,87 @@
+---
+title: "educ-constraint"
+author: "Marissa Block"
+date: "2/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(here)
+library(treemapify)
+library(RColorBrewer)
+library(haven)
+library(readxl)
+library(sf)
+library(extrafont)
+library(ggrepel)
+library(ggridges)
+library(waffle)
+
+# Load Data
+
+```
+
+
+# Education as a Binding Constraint
+
+
+## Benchmarking
+```{r}
+
+## Quantity of Schooling
+# Filter to 2010 years of schooling
+yrs <- edstats %>%
+  filter(year==2010) %>%
+  select(country, bar.schl.15up)
+
+wdi %>%
+  filter(year==2016) %>%
+  left_join(yrs) %>%
+  select(country, bar.schl.15up, ny.gdp.pcap.kd, cntry.code) %>%
+  ggplot(aes(x = (ny.gdp.pcap.kd), y = bar.schl.15up)) +
+  geom_point() +
+  #geom_label(aes(label = cntry.code)) +
+  geom_smooth()
+
+## Quality of Schooling
+wdi %>%
+  select(country, cntry.code, year, ny.gdp.pcap.kd) %>%
+  filter(year==2017) %>%
+  left_join(edstats) %>%
+  select(country, ny.gdp.pcap.kd, cntry.code, hd.hci.hlos) %>%
+  ggplot(aes(x = log(ny.gdp.pcap.kd), y = hd.hci.hlos)) +
+  geom_point() +
+  geom_label(aes(label=cntry.code)) +
+  geom_smooth()
+```
+
+## Test 1: Returns to Schooling
+
+
+```{r}
+# First, filter to get overall returns for most recent year in which data is available
+returns.ovr <- returns %>%
+  group_by(country) %>%
+  filter(!is.na(overall)) %>%
+  filter(year == max(year)) %>%
+  rename(year.return = "year")
+
+returns.ovr %>%
+  select(country, overall) %>%
+  arrange(overall) %>%
+  mutate(country2 = factor(country, levels = .$country)) %>%
+  ggplot(aes(country, overall)) +
+    geom_segment(aes(x = 0, xend = return, y = country2, yend = country2)) +
+    geom_point()
+  
+
+
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

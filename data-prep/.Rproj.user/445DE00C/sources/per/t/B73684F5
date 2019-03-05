@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550951210360.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3050963701",
+    "id" : "B73684F5",
+    "lastKnownWriteTime" : 1551505678,
+    "last_content_update" : 1551505678695,
+    "path" : "~/Documents/Data-Viz/educ/educ-constraint-output.Rmd",
+    "project_path" : "educ-constraint-output.Rmd",
+    "properties" : {
+        "cursorPosition" : "71,30",
+        "last_setup_crc32" : "B2FFE386bb338d19",
+        "scrollLine" : "61"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550951259891.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "458479890",
+    "id" : "58D06F40",
+    "lastKnownWriteTime" : 1551587199,
+    "last_content_update" : 1551587199725,
+    "path" : "~/Documents/Data-Viz/educ/prep.educ.R",
+    "project_path" : "prep.educ.R",
+    "properties" : {
+        "cursorPosition" : "145,78",
+        "scrollLine" : "127",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
