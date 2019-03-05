@@ -1,0 +1,42 @@
+body {
+  align-items: center;
+  justify-content: center; }
+
+h1.title {
+  font-size: 20px; }
+
+svg {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; }
+
+.text {
+  font-family: "Avenir Next";
+  font-size: 12px; }
+
+.title {
+  font-weight: bold;
+  font-size: 16px;
+  justify-content: center; }
+
+.subtitle {
+  font-style: italic;
+  font-size: 12px; }
+
+.source {
+  font-size: 8px; }
+
+.eastasia {
+  fill: #1b9e77; }
+
+.europe {
+  fill: #d95f02; }
+
+.lat {
+  fill: #7570b3; }
+
+.mena {
+  fill: #e7298a; }
+
+.ssa {
+  fill: #66a61e; }

@@ -1,0 +1,1121 @@
+country,year,Region,inc,yrs.sch,overall,primary,secondary,higher,Prim..10,Sec..11,Higher..12,primary.soc,secondary.soc,higher.soc,male,female,private,public,source
+Albania,2012,Europe and Central Asia,Middle,11.32,8.049999999999999,NA,NA,9.975000000000001,NA,NA,NA,NA,NA,NA,5.9,10.19,NA,NA,Miluka (2015)
+Albania,2002,Europe and Central Asia,Middle,NA,NA,NA,2.25,11.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gjipali and Kristo (2011)
+Albania,2004,Europe and Central Asia,Middle,9.372,5.8,1.5,3.3,4.8,NA,NA,NA,NA,NA,NA,4.7,8.5,NA,NA,"Peet, Fink and Fawzi (2015)"
+Algeria,2001,Middle East and North Africa,Middle,6.35,2.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Argentina,1980,Latin America and Caribbean,High,7.3,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Argentina,1985,Latin America and Caribbean,High,8.99,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.1,10.3,NA,NA,Psacharopoulos (1994)
+Argentina,1985,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.6,7,Kugler and Psacharopoulos (1989)
+Argentina,1989,Latin America and Caribbean,High,9.1,10.3,NA,NA,NA,10.1,14.2,14.9,8.4,7.1,7.6,10.7,11.2,11.1,8.9,Psacharopoulos (1994)
+Argentina,1990,Latin America and Caribbean,High,8.37,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Argentina,2003,Latin America and Caribbean,High,9.1,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lopez Boo (2010)
+Argentina,1993,Latin America and Caribbean,High,8.64,8.6,8.1,8.2,9.7,NA,NA,NA,NA,NA,NA,9,8.5,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,1995,Latin America and Caribbean,High,8.64,9.6,7.9,8.2,12.5,NA,NA,NA,NA,NA,NA,9.8,9.4,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,1992,Latin America and Caribbean,High,8.37,8.6,10.7,8.5,9.2,NA,NA,NA,NA,NA,NA,9.1,8.1,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,1994,Latin America and Caribbean,High,8.64,9.6,9.4,8.6,11.2,NA,NA,NA,NA,NA,NA,10,9.1,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,1996,Latin America and Caribbean,High,8.64,9.9,8.3,8.6,12.1,NA,NA,NA,NA,NA,NA,10,9.8,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,1999,Latin America and Caribbean,High,8.73,10.3,8,8.8,12.6,NA,NA,NA,NA,NA,NA,10.3,10.5,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,1998,Latin America and Caribbean,High,8.73,10.6,8.2,8.9,13,NA,NA,NA,NA,NA,NA,10.9,10.4,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,2001,Latin America and Caribbean,High,8.73,11.5,12.6,9.2,13.6,NA,NA,NA,NA,NA,NA,11.4,11.8,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,2002,Latin America and Caribbean,High,8.73,11.4,10.6,9.2,13.8,NA,NA,NA,NA,NA,NA,12,10.8,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,1997,Latin America and Caribbean,High,8.73,10.4,9.1,9.3,12.2,NA,NA,NA,NA,NA,NA,10.7,10.19,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Argentina,2000,Latin America and Caribbean,High,8.73,11.3,8.4,10,13.3,NA,NA,NA,NA,NA,NA,11.4,11.5,NA,NA,"Giovagnoli, Fiszbein and Patrinos (2005)"
+Australia,1969,Advanced Economies,High,NA,NA,NA,NA,NA,NA,14,13.9,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+Australia,1976,Advanced Economies,High,NA,NA,NA,NA,NA,NA,8.1,21.1,NA,NA,16.3,NA,NA,NA,NA,Psacharopoulos (1985); Psacharopoulos (1994)
+Australia,1980,Advanced Economies,High,11.2,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Miller, Mulvey and Martin (1995)"
+Australia,1981,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,6.7,McNabb and Richardson (1989)
+Australia,1981,Advanced Economies,High,11.2,6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Australia,1982,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,6.7,McNabb and Richardson (1989)
+Australia,1985,Advanced Economies,High,11.2,10.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,5.2,NA,NA,"Trostel, Walker and Woolley (2002); Rummery, Vella and Verbeek (1999)"
+Australia,1987,Advanced Economies,High,9.7,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Australia,1989,Advanced Economies,High,11.2,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohn and Addison (1998)
+Australia,1990,Advanced Economies,High,11.2,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Australia,1991,Advanced Economies,High,11.2,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Miller, Mulvey and Martin (2006)"
+Australia,1994,Advanced Economies,High,11.2,9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Australia,1995,Advanced Economies,High,11.2,5.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Harmon, Oosterbeek and Walker (2003)"
+Australia,2000,Advanced Economies,High,11.1,5.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Miller, Mulvey and Martin (2006)"
+Australia,2003,Advanced Economies,High,11.3,12.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Leigh and Ryan (2008)
+Australia,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,16.299999999999997,8.9,NA,17.75,13.399999999999999,NA,NA,NA,NA,OECD (2013)
+Australia,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,15.95,9.45,NA,21.2,10.649999999999999,NA,NA,NA,NA,OECD (2015)
+Australia,2010,Advanced Economies,High,12.1,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mariotti and Meinecke (2011)
+Austria,1980,Advanced Economies,High,7.9,11.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Austria,1981,Advanced Economies,High,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.4,11.3,NA,NA,Fersterer and Winter-Ebmer (2003)
+Austria,1981,Advanced Economies,High,7.9,11.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Austria,1983,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.87,NA,NA,NA,Hofer and Pichelmann (1997)
+Austria,1983,Advanced Economies,High,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.9,10.6,NA,NA,Fersterer and Winter-Ebmer (2003)
+Austria,1983,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.63,NA,NA,NA,Hofer and Pichelmann (1997)
+Austria,1985,Advanced Economies,High,8.1,7.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.5,8.8,NA,NA,Fersterer and Winter-Ebmer (2003); Kaboski (2003)
+Austria,1987,Advanced Economies,High,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,7.6,NA,NA,Fersterer and Winter-Ebmer (2003)
+Austria,1987,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.44,NA,NA,NA,Hofer and Pichelmann (1997)
+Austria,1989,Advanced Economies,High,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.3,8.5,NA,NA,Fersterer and Winter-Ebmer (2003)
+Austria,1989,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.6,NA,NA,NA,Hofer and Pichelmann (1997)
+Austria,1991,Advanced Economies,High,8.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.7,7.9,NA,NA,Fersterer and Winter-Ebmer (2003)
+Austria,1991,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.37,NA,NA,NA,Hofer and Pichelmann (1997)
+Austria,1993,Advanced Economies,High,8.6,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,7.3,NA,NA,Fersterer and Winter-Ebmer (2003); Martins and Pereira (2004)
+Austria,1993,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.22,NA,NA,NA,Hofer and Pichelmann (1997)
+Austria,1995,Advanced Economies,High,8.8,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,6.7,NA,NA,Fersterer and Winter-Ebmer (2003); Kaboski (2003)
+Austria,1997,Advanced Economies,High,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,6.6,NA,NA,Fersterer and Winter-Ebmer (2003)
+Austria,2008,Advanced Economies,High,9.5,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Glocker and Steiner (2011)
+Austria,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,11.85,10.399999999999999,NA,8.5,8.2,NA,NA,NA,NA,OECD (2013)
+Austria,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.35,9.9,NA,8.8,7.1,NA,NA,NA,NA,OECD (2015)
+Austria,1981,Advanced Economies,High,NA,NA,NA,11.3,4.2,NA,NA,NA,NA,NA,NA,8.69,NA,NA,NA,Hofer and Pichelmann (1997)
+Azerbaijan,1995,Europe and Central Asia,Middle,NA,NA,NA,NA,13.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Azerbaijan,1995,Europe and Central Asia,Middle,9.817,3.7,5.5,4.2,4,NA,NA,NA,NA,NA,NA,3.8,4.5,NA,NA,"Peet, Fink and Fawzi (2015)"
+Bahamas,1970,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,26.1,NA,NA,20.6,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Bangladesh,1999,South Asia,Middle,4.3,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,13.2,NA,NA,Asadullah (2006)
+Bangladesh,2000,South Asia,Middle,4.5,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Asadullah (2006)
+Bangladesh,2006,South Asia,Middle,5.2,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Taposh and Lin (2009)
+Barbados,1999,Latin America and Caribbean,High,NA,NA,NA,4.8,12.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Griffith (2001)
+Belarus,1999,Europe and Central Asia,Middle,NA,5.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yemtsov, Cnobloch, Mete (2006)"
+Belarus,2000,Europe and Central Asia,Middle,NA,5.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yemtsov, Cnobloch, Mete (2006)"
+Belarus,2002,Europe and Central Asia,Middle,9.3,6.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yemtsov, Cnobloch, Mete (2006)"
+Belarus,1996,Europe and Central Asia,Middle,NA,NA,0.026,0.034,0.11800000000000002,NA,NA,NA,NA,NA,NA,10.1,11.9,NA,NA,Pastore and Verashchagina (2006)
+Belarus,2001,Europe and Central Asia,Middle,NA,NA,0.025,0.04285714285714286,0.11600000000000002,NA,NA,NA,NA,NA,NA,9.4,11.7,NA,NA,Pastore and Verashchagina (2006)
+Belgium,1960,Advanced Economies,High,NA,NA,NA,NA,NA,NA,21.2,8.7,NA,17.1,6.7,NA,NA,NA,NA,Psacharopoulos (1994)
+Belgium,1997,Advanced Economies,High,9.9,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Belgium,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,10.7,NA,NA,14.5,NA,NA,NA,NA,OECD (2013)
+Belgium,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,OECD (2015)
+Belgium,1992,Advanced Economies,High,NA,NA,NA,2,3.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nonneman and Cortens (1997)
+Belize,2005,Latin America and Caribbean,Middle,9.3403,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hausman and Klinger (2007)
+Bolivia,1980,Latin America and Caribbean,Middle,5.5,12.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Bolivia,1981,Latin America and Caribbean,Middle,5.7,12.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (1996b)
+Bolivia,1988,Latin America and Caribbean,Middle,6.9,9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (1996b)
+Bolivia,1989,Latin America and Caribbean,Middle,10.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.3,7.7,8.7,6.7,Psacharopoulos (1994)
+Bolivia,1989,Latin America and Caribbean,Middle,7.1,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (1996b)
+Bolivia,1990,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,20,6,19,13,6,13,NA,NA,NA,NA,"Psacharopoulos, Ariera and Mattson (1997)"
+Bolivia,1991,Latin America and Caribbean,Middle,7.4,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (1996b)
+Bolivia,1992,Latin America and Caribbean,Middle,7.5,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (1996b)
+Bolivia,1993,Latin America and Caribbean,Middle,7.6,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Bolivia,1995,Latin America and Caribbean,Middle,7.8,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Bolivia,2000,Latin America and Caribbean,Middle,8.3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Jimenez, Casazola and Aguilar (2006)"
+Bolivia,2002,Latin America and Caribbean,Middle,8.3,10.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Patrinos, Ridao and Sakellariou (2009)"
+Bolivia,1990,Latin America and Caribbean,Middle,7.3,10.05,19,8,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Mattson (1998)
+Bosnia & Herzegovina,2002,Europe and Central Asia,Middle,8.725999999999999,8.1,12.5,6.4,8.1,NA,NA,NA,NA,NA,NA,6.7,11.1,NA,NA,"Peet, Fink and Fawzi (2015)"
+Botswana,1975,Sub-Saharan Africa,Middle,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16.4,18.2,NA,NA,Psacharopoulos (1994)
+Botswana,1979,Sub-Saharan Africa,Middle,3.3,19.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Botswana,1980,Sub-Saharan Africa,Middle,3.1,12.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Botswana,1983,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,99,76,38,42,41,15,NA,NA,NA,NA,Psacharopoulos (1994)
+Botswana,1995,Sub-Saharan Africa,Middle,8.2,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Siphambe (2000)
+Botswana,2004,Sub-Saharan Africa,Middle,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15.4,15.2,NA,NA,Siphambe (2008)
+Botswana,1994,Sub-Saharan Africa,Middle,8.1,12,20,40,5,NA,NA,NA,NA,NA,NA,12,18,NA,NA,Siphambe (2000)
+Brazil,1970,Latin America and Caribbean,Middle,3.3,19.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1981)
+Brazil,1970,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,24.7,13.9,NA,NA,NA,NA,NA,19.3,14.9,Psacharopoulos (1985)
+Brazil,1980,Latin America and Caribbean,Middle,3,14.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,14.7,15.6,NA,NA,Psacharopoulos (1994)
+Brazil,1980,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,11,16,NA,NA,NA,NA,NA,NA,NA,Dougherty and Jimenez (1991)
+Brazil,1989,Latin America and Caribbean,Middle,5.3,14.7,NA,NA,NA,36.6,5.1,28.2,35.6,5.1,21.4,15.4,14.2,15,11.4,Psacharopoulos (1994)
+Brazil,1990,Latin America and Caribbean,Middle,4.7,14.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Brazil,1998,Latin America and Caribbean,Middle,6.4,12.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Brazil,2001,Latin America and Caribbean,Middle,6.4,15.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Patrinos, Ridao and Sakellariou (2009)"
+Brazil,1997,Latin America and Caribbean,Middle,7.002,11.1,10.8,8.8,12.6,NA,NA,NA,NA,NA,NA,10.8,11.6,NA,NA,"Peet, Fink and Fawzi (2015)"
+Bulgaria,1985,Europe and Central Asia,Middle,8.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5.7,NA,NA,"Trostel, Walker and Woolley (2002)"
+Bulgaria,1990,Europe and Central Asia,Middle,8.4,1.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Jones and Simon (2005)
+Bulgaria,1991,Europe and Central Asia,Middle,8.5,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Jones and Simon (2005)
+Bulgaria,1992,Europe and Central Asia,Middle,8.6,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Jones and Simon (2005)
+Bulgaria,1993,Europe and Central Asia,Middle,8.7,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Bulgaria,1995,Europe and Central Asia,Middle,8.9,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Bulgaria,1997,Europe and Central Asia,Middle,9,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,6.8,NA,NA,Rutkowski (2001)
+Bulgaria,1999,Europe and Central Asia,Middle,9.2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Bulgaria,2000,Europe and Central Asia,Middle,9.3,4.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Bulgaria,2002,Europe and Central Asia,Middle,10.2,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Bulgaria,2003,Europe and Central Asia,Middle,9.7066,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2008)"
+Bulgaria,1999,Europe and Central Asia,Middle,10.1035,4.1,5.3,4.9,4.6,NA,NA,NA,NA,NA,NA,6.7,11.1,NA,NA,"Peet, Fink and Fawzi (2015)"
+Burkina Faso,1980,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,25.9,60.6,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+Burkina Faso,1980,Sub-Saharan Africa,Low,0.7,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Burkina Faso,1982,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,20.1,14.9,21.3,NA,NA,NA,NA,Psacharopoulos (1994)
+Burkina Faso,1994,Sub-Saharan Africa,Low,NA,NA,9.9,16.4,11.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kazianga (2004)
+Burundi,2006,Sub-Saharan Africa,Low,NA,NA,11,18,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Cambodia,2007,East Asia and Pacific,Low,7.6,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lall (2008)
+Cambodia,2004,East Asia and Pacific,Low,4.2,7.15,4.1,-0.1999999999999997,1.625,NA,NA,NA,NA,NA,NA,7.2,7.1,NA,NA,Lall and Sakellariou (2010)
+Cambodia,2007,East Asia and Pacific,Low,4.6,6.699999999999999,3.6750000000000007,-0.01666666666666668,1.0999999999999996,NA,NA,NA,NA,NA,NA,6.6,6.8,NA,NA,Lall and Sakellariou (2010)
+Cambodia,1997,East Asia and Pacific,Low,3.8,2.5,0.425,0.05833333333333336,0.6749999999999999,NA,NA,NA,NA,NA,NA,3.3,1.7,NA,NA,Lall and Sakellariou (2010)
+Cameroon,1995,Sub-Saharan Africa,Middle,5,5.96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Cameroon,1994,Sub-Saharan Africa,Middle,NA,NA,5.2,26.3,27.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Amin and Awung (2005)
+Canada,1960,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,17.4,NA,NA,14.9,NA,NA,NA,NA,Stager (1989)
+Canada,1971,Advanced Economies,High,9.1,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1981)
+Canada,1980,Advanced Economies,High,10.2,4.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Canada,1981,Advanced Economies,High,10,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Canada,1985,Advanced Economies,High,9.9,8.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Canada,1985,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,14,NA,NA,12.1,NA,NA,NA,NA,Stager (1989)
+Canada,1986,Advanced Economies,High,10,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Canada,1989,Advanced Economies,High,10.2,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.9,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Canada,1990,Advanced Economies,High,10.3,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Canada,1994,Advanced Economies,High,NA,NA,NA,NA,NA,NA,7.8,13,NA,NA,NA,NA,NA,NA,NA,Cohn (1997)
+Canada,1995,Advanced Economies,High,10.7,3.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Canada,1997,Advanced Economies,High,10.8,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Canada,1998,Advanced Economies,High,10.9,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Canada,2001,Advanced Economies,High,11,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Taposh and Lin (2009)
+Canada,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.65,12.25,NA,4.95,8.65,NA,NA,NA,NA,OECD (2013)
+Canada,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,11.15,12.85,NA,6.85,7.35,NA,NA,NA,NA,OECD (2015)
+Chile,1960,Advanced Economies,High,5.2,11.2,NA,NA,NA,33.1,12.5,11.6,17.2,10.6,6.8,NA,NA,NA,NA,Riveros (1990)
+Chile,1974,Advanced Economies,High,6.5,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Chile,1975,Advanced Economies,High,6.6,9.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Chile,1980,Advanced Economies,High,7,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Chile,1985,Advanced Economies,High,7.7,15.1,NA,NA,NA,27.6,11,10.3,12.4,9.2,6.9,NA,NA,NA,NA,Riveros (1990)
+Chile,1987,Advanced Economies,High,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13.7,12.6,NA,NA,Psacharopoulos (1994)
+Chile,1989,Advanced Economies,High,8.5,12,NA,NA,NA,9.7,12.9,20.7,8.1,11.1,14,12.1,13.2,11.4,11.2,Psacharopoulos (1994)
+Chile,1990,Advanced Economies,High,8.4,12.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Chile,2003,Advanced Economies,High,9.7,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Patrinos, Ridao and Sakellariou (2009)"
+Chile,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,14.8,NA,8,15.5,NA,NA,NA,NA,OECD (2015)
+Chile,1972,Advanced Economies,High,6.3,12.8,27.7,10.1,8.9,NA,NA,NA,12.4,7.7,4.2,NA,NA,NA,NA,Riveros (1990)
+Chile,1965,Advanced Economies,High,5.7,12.6,27.9,10.6,8.4,NA,NA,NA,15.7,8.8,4.4,NA,NA,NA,NA,Riveros (1990)
+Chile,1978,Advanced Economies,High,6.8,15.7,27.4,11.1,9.9,NA,NA,NA,11.9,9.8,6.7,NA,NA,NA,NA,Riveros (1990)
+Chile,1982,Advanced Economies,High,7.4,15.1,27.8,11.2,10.1,NA,NA,NA,12.1,9,6.8,NA,NA,NA,NA,Riveros (1990)
+Chile,1976,Advanced Economies,High,6.7,13.3,27.9,12.2,10.4,NA,NA,NA,11.5,9.7,6.9,NA,NA,NA,NA,Riveros (1990)
+Chile,1968,Advanced Economies,High,5.9,13.7,31.6,12.3,11.3,NA,NA,NA,16.4,10,7.3,NA,NA,NA,NA,Riveros (1990)
+China,1975,East Asia and Pacific,Middle,4.1,1.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fleisher and Wang (2005)
+China,1978,East Asia and Pacific,Middle,4.8,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Zhao and Zhou (2002)
+China,1985,East Asia and Pacific,Middle,3,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,5.6,NA,NA,Psacharopoulos (1994)
+China,1986,East Asia and Pacific,Middle,5.4,3.74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Zhao and Zhou (2002)
+China,1993,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,18,13.4,15.1,14.4,12.9,11.3,NA,NA,NA,NA,Hossain (1997)
+China,1995,East Asia and Pacific,Middle,6.3,7.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,9.699,NA,NA,Yang (2005)
+China,2002,East Asia and Pacific,Middle,11.6,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.5,8.8,NA,NA,Xiu and Gunderson (2013)
+China,2002,East Asia and Pacific,Middle,NA,9.74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ding, Yang, and Ha (2013)"
+China,2004,East Asia and Pacific,Middle,NA,10.51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ding, Yang, and Ha (2013)"
+China,2006,East Asia and Pacific,Middle,NA,10.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ding, Yang, and Ha (2013)"
+China,2008,East Asia and Pacific,Middle,NA,10.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ding, Yang, and Ha (2013)"
+China,2009,East Asia and Pacific,Middle,NA,10.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ding, Yang, and Ha (2013)"
+China,1991,East Asia and Pacific,Middle,5.7,4.3,NA,3.233333333333333,3.975,NA,NA,NA,NA,NA,NA,3.7,6.4,NA,NA,Zhang et al (2005)
+China,1992,East Asia and Pacific,Middle,5.8,4.7,NA,3.266666666666667,5.025,NA,NA,NA,NA,NA,NA,4,6.4,NA,NA,Zhang et al (2005)
+China,1988,East Asia and Pacific,Middle,5.5,4,NA,3.6666666666666665,3.05,NA,NA,NA,NA,NA,NA,3.2,6.1,NA,NA,Zhang et al (2005)
+China,1990,East Asia and Pacific,Middle,5.6,4.7,NA,3.8333333333333335,4.15,NA,NA,NA,NA,NA,NA,4.1,6.7,NA,NA,Zhang et al (2005)
+China,1993,East Asia and Pacific,Middle,5.9,5.2,NA,3.8333333333333335,5.1,NA,NA,NA,NA,NA,NA,4.5,7,NA,NA,Zhang et al (2005)
+China,1989,East Asia and Pacific,Middle,5.5,4.6,NA,3.8666666666666667,3.6,NA,NA,NA,NA,NA,NA,4.2,6.8,NA,NA,Zhang et al (2005)
+China,1994,East Asia and Pacific,Middle,6,7.3,NA,4.833333333333333,7.175,NA,NA,NA,NA,NA,NA,6.6,9.5,NA,NA,Zhang et al (2005)
+China,1995,East Asia and Pacific,Middle,NA,NA,NA,5.1000000000000005,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Zhang et al (2005)
+China,1996,East Asia and Pacific,Middle,6.4,6.8,NA,5.2,6.3,NA,NA,NA,NA,NA,NA,6.4,9.4,NA,NA,Zhang et al (2005)
+China,1998,East Asia and Pacific,Middle,6.7,8.1,NA,5.3999999999999995,8.025,NA,NA,NA,NA,NA,NA,7.1,11.9,NA,NA,Zhang et al (2005)
+China,1997,East Asia and Pacific,Middle,6.5,6.7,NA,5.766666666666667,5.575,NA,NA,NA,NA,NA,NA,5.7,10.7,NA,NA,Zhang et al (2005)
+China,2000,East Asia and Pacific,Middle,6.9,10.1,NA,6.833333333333333,9.675,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Zhang et al (2005)
+China,1999,East Asia and Pacific,Middle,6.8,9.9,NA,7,9.525,NA,NA,NA,NA,NA,NA,9.2,15,NA,NA,Zhang et al (2005)
+China,2001,East Asia and Pacific,Middle,7,10.2,NA,7.133333333333333,9.325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Zhang et al (2005)
+Colombia,1965,Latin America and Caribbean,Middle,3.4,17.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Colombia,1973,Latin America and Caribbean,Middle,4.2,20.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,18.1,20.8,NA,NA,Psacharopoulos (1994)
+Colombia,1974,Latin America and Caribbean,Middle,4.3,12.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Colombia,1975,Latin America and Caribbean,Middle,4.4,12.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Colombia,1975,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14.6,13.4,Psacharopoulos (1985)
+Colombia,1976,Latin America and Caribbean,Middle,7.2,11.69,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.4,14.42,NA,NA,Sanchez and Nunez (2003)
+Colombia,1977,Latin America and Caribbean,Middle,7.3,11.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.88,13.61,NA,NA,Sanchez and Nunez (2003)
+Colombia,1978,Latin America and Caribbean,Middle,7.4,10.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.28,13.33,NA,NA,Sanchez and Nunez (2003)
+Colombia,1978,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.7,12.9,Psacharopoulos (1985)
+Colombia,1979,Latin America and Caribbean,Middle,7.6,9.94,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.88,12.34,NA,NA,Sanchez and Nunez (2003)
+Colombia,1980,Latin America and Caribbean,Middle,7.6,9.53,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.53,11.74,NA,NA,Sanchez and Nunez (2003)
+Colombia,1981,Latin America and Caribbean,Middle,8,8.83,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.98,10.91,NA,NA,Sanchez and Nunez (2003)
+Colombia,1982,Latin America and Caribbean,Middle,8,9.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.45,10.89,NA,NA,Sanchez and Nunez (2003)
+Colombia,1983,Latin America and Caribbean,Middle,8,9.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.53,11.17,NA,NA,Sanchez and Nunez (2003)
+Colombia,1984,Latin America and Caribbean,Middle,8.2,9.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.28,11.56,NA,NA,Sanchez and Nunez (2003)
+Colombia,1984,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.6,9.5,"Psacharopoulos, Arriagada and Velez (1992)"
+Colombia,1985,Latin America and Caribbean,Middle,8.5,9.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.39,11.15,NA,NA,Sanchez and Nunez (2003)
+Colombia,1986,Latin America and Caribbean,Middle,8.6,8.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.93,11.06,NA,NA,Sanchez and Nunez (2003)
+Colombia,1987,Latin America and Caribbean,Middle,8.6,8.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.94,11,NA,NA,Sanchez and Nunez (2003)
+Colombia,1988,Latin America and Caribbean,Middle,8.9,8.87,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.1,10.87,NA,NA,Sanchez and Nunez (2003)
+Colombia,1988,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11.3,Psacharopoulos and Velez (1992)
+Colombia,1989,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,27.7,14.7,21.7,20,11.4,14,NA,NA,13.7,11.9,Psacharopoulos (1994)
+Colombia,1989,Latin America and Caribbean,Middle,9,8.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.25,10.93,NA,NA,Sanchez and Nunez (2003)
+Colombia,1990,Latin America and Caribbean,Middle,9.1,9.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.43,10.92,NA,NA,Sanchez and Nunez (2003)
+Colombia,1991,Latin America and Caribbean,Middle,9.2,9.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.57,10.87,NA,NA,Sanchez and Nunez (2003)
+Colombia,1992,Latin America and Caribbean,Middle,9.2,9.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.91,11.11,NA,NA,Sanchez and Nunez (2003)
+Colombia,1993,Latin America and Caribbean,Middle,9.2,9.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.9,10.79,NA,NA,Sanchez and Nunez (2003)
+Colombia,1994,Latin America and Caribbean,Middle,9.4,9.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.67,10.93,NA,NA,Sanchez and Nunez (2003)
+Colombia,1995,Latin America and Caribbean,Middle,9.3,9.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.05,10.99,NA,NA,Sanchez and Nunez (2003)
+Colombia,1996,Latin America and Caribbean,Middle,9.5,9.97,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.68,11.31,NA,NA,Sanchez and Nunez (2003)
+Colombia,1997,Latin America and Caribbean,Middle,9.7,10.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.08,12.26,NA,NA,Sanchez and Nunez (2003)
+Colombia,1998,Latin America and Caribbean,Middle,9.5,11.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.02,12.75,NA,NA,Sanchez and Nunez (2003)
+Colombia,1999,Latin America and Caribbean,Middle,9.6,12.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.4,11.89,NA,NA,Tenjo et al. (2015)
+Colombia,2000,Latin America and Caribbean,Middle,9.8,12.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,13.2,12.4,NA,NA,Tenjo et al. (2015)
+Colombia,2001,Latin America and Caribbean,Middle,9.9,13.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,13.900000000000002,13,NA,NA,Tenjo et al. (2015)
+Colombia,2002,Latin America and Caribbean,Middle,10.2,13.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,13.8,12.9,NA,NA,Tenjo et al. (2015)
+Colombia,2003,Latin America and Caribbean,Middle,10.2,12.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.9,12.8,NA,NA,Tenjo et al. (2015)
+Colombia,2004,Latin America and Caribbean,Middle,10.3,12.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.8,12.5,NA,NA,Tenjo et al. (2015)
+Colombia,2005,Latin America and Caribbean,Middle,10.5,12.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.8,12.4,NA,NA,Tenjo et al. (2015)
+Colombia,2007,Latin America and Caribbean,Middle,10.7,12.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.3,12.9,NA,NA,Tenjo et al. (2015)
+Colombia,2008,Latin America and Caribbean,Middle,11.1,12.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.1,12.3,NA,NA,Tenjo et al. (2015)
+Colombia,2009,Latin America and Caribbean,Middle,10.9,12.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.1,12.5,NA,NA,Tenjo et al. (2015)
+Colombia,2010,Latin America and Caribbean,Middle,11.1,12.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.9,12.6,NA,NA,Tenjo et al. (2015)
+Colombia,2011,Latin America and Caribbean,Middle,11.3,11.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.9,12.7,NA,NA,Tenjo et al. (2015)
+Colombia,2012,Latin America and Caribbean,Middle,11.4,11.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.9,11.89,NA,NA,Tenjo et al. (2015)
+Colombia,2013,Latin America and Caribbean,Middle,11.6,11.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.8,11.7,NA,NA,Tenjo et al. (2015)
+Colombia,2014,Latin America and Caribbean,Middle,11.7,11.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.5,12.2,NA,NA,Tenjo et al. (2015)
+Costa Rica,1974,Latin America and Caribbean,Middle,5.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14.7,14.7,NA,NA,Psacharopoulos (1994)
+Costa Rica,1980,Latin America and Caribbean,Middle,6.1,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Costa Rica,1982,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.2,8.1,Gindling (1991)
+Costa Rica,1983,Latin America and Caribbean,Middle,6.4,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Costa Rica,1985,Latin America and Caribbean,Middle,6.7,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Costa Rica,1986,Latin America and Caribbean,Middle,6.8,20.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,van der Gaag and Vijverberg (1989)
+Costa Rica,1988,Latin America and Caribbean,Middle,6.9,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Costa Rica,1989,Latin America and Caribbean,Middle,6.9,10.9,NA,NA,NA,12.2,17.6,12.9,11.2,14.4,9,10.5,13.5,9.3,8.5,Psacharopoulos (1994)
+Costa Rica,1991,Latin America and Caribbean,Middle,7.1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Costa Rica,1992,Latin America and Caribbean,Middle,8.1,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Cote d'Ivoire,1984,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.8,11.2,Komenan (1987)
+Cote d'Ivoire,1984,Sub-Saharan Africa,Middle,2.4,NA,NA,NA,NA,25.7,30.7,25.1,NA,NA,NA,11.1,22.6,NA,NA,Psacharopoulos (1994)
+Cote d'Ivoire,1985,Sub-Saharan Africa,Middle,2.4,20.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Cote d'Ivoire,1986,Sub-Saharan Africa,Middle,6.9,20.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Cote d'Ivoire,1987,Sub-Saharan Africa,Middle,2.5,13.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,13.6,12.1,NA,NA,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
+Cote d'Ivoire,1987,Sub-Saharan Africa,Middle,2.96425,6.8,26.3,3.2,13.7,NA,NA,NA,NA,NA,NA,5.7,10.1,NA,NA,"Peet, Fink and Fawzi (2015)"
+Cote d'Ivoire,1987,Sub-Saharan Africa,Middle,NA,NA,15,22,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Schultz (2004)
+Croatia,1996,East Asia and Pacific,High,9.1,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,5.099,NA,NA,Vujcic and Sosic (2009); Sosic (2013)
+Croatia,2001,East Asia and Pacific,High,8.3,10.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sosic (2013)
+Croatia,2004,East Asia and Pacific,High,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,7.8,NA,NA,Vujcic and Sosic (2009)
+Curacao,2001,Latin America and Caribbean,High,NA,NA,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,de Bruijn (2010)
+Cyprus,1975,Europe and Central Asia,High,6.7,12.5,NA,NA,NA,NA,11.6,8.6,NA,10.5,9.7,NA,NA,NA,NA,Psacharopoulos (1981)
+Cyprus,1979,Europe and Central Asia,High,NA,NA,NA,NA,NA,15.4,7,5.6,7.7,6.8,7.6,NA,NA,NA,NA,Psacharopoulos (1994)
+Cyprus,1984,Europe and Central Asia,High,9.5,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.9,12.7,NA,NA,Psacharopoulos (1994)
+Cyprus,1994,Europe and Central Asia,High,9.6,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Czech Republic,1984,Advanced Economies,High,NA,NA,NA,NA,1.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Czech Republic,1984,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.4,NA,NA,NA,Chase (1998)
+Czech Republic,1988,Advanced Economies,High,10.7,4.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,5.099,NA,NA,Flanagan (1998)
+Czech Republic,1989,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,NA,NA,NA,"Munich, Svejnar and Terrell (2005)"
+Czech Republic,1992,Advanced Economies,High,NA,NA,NA,NA,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Czech Republic,1992,Advanced Economies,High,11.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,8,NA,NA,Vecernik (2001)
+Czech Republic,1993,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,NA,NA,NA,Chase (1998)
+Czech Republic,1994,Advanced Economies,High,11.8,3.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Czech Republic,1995,Advanced Economies,High,12,4.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Czech Republic,1995,Advanced Economies,High,11.7424,NA,NA,NA,10.725000000000001,NA,NA,NA,NA,NA,NA,8.1,NA,NA,NA,"Filer, Jurajda, Planovsky (1999)"
+Czech Republic,1995,Advanced Economies,High,NA,NA,NA,NA,11.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Filer, Jurajda, Planovksy (1999)"
+Czech Republic,1996,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,NA,NA,NA,"Munich, Svejnar and Terrell (2005)"
+Czech Republic,1996,Advanced Economies,High,12.2,5.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.3,9.4,NA,NA,Vecernik (2001)
+Czech Republic,1996,Advanced Economies,High,11.7424,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.5,NA,NA,NA,"Filer, Jurajda, Planovsky (1999)"
+Czech Republic,1997,Advanced Economies,High,12.3,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Czech Republic,1997,Advanced Economies,High,11.7424,NA,NA,NA,11.05,NA,NA,NA,NA,NA,NA,9,NA,NA,NA,"Filer, Jurajda, Planovsky (1999)"
+Czech Republic,1999,Advanced Economies,High,12.4,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Czech Republic,2001,Advanced Economies,High,12.6,8.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Czech Republic,2002,Advanced Economies,High,12.7,6.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Czech Republic,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,22.25,18.950000000000003,NA,9.5,15.649999999999999,NA,NA,NA,NA,OECD (2013)
+Czech Republic,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,14.2,19.9,NA,22.6,15.25,NA,NA,NA,NA,OECD (2015)
+Denmark,1964,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,10,NA,NA,7.8,NA,NA,NA,NA,Psacharopoulos (1994)
+Denmark,1980,Advanced Economies,High,8.1,4.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Denmark,1984,Advanced Economies,High,8.7,2.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Christensen and Westergard-Nielsen (1999)
+Denmark,1990,Advanced Economies,High,9.4,4.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.08,3.42,NA,NA,Christensen and Westergard-Nielsen (1999)
+Denmark,1995,Advanced Economies,High,10,6.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,4.9,NA,NA,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
+Denmark,1997,Advanced Economies,High,9.6651,12.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Polachek (2008)
+Denmark,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.85,8.5,NA,6.5,2.85,NA,NA,NA,NA,OECD (2013)
+Denmark,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,14.35,7.9,NA,8.65,3.85,NA,NA,NA,NA,OECD (2015)
+Djibouti,1996,Middle East and North Africa,Middle,2.9,11.6,10,10.8,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anos-Casero and Seshan (2006)
+Dominica,1999,Latin America and Caribbean,Middle,NA,NA,15.1,10.98,15.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Reilly and Bellony (2009)
+Dominican Republic,1989,Latin America and Caribbean,Middle,6,9.4,NA,NA,NA,85.1,15.1,19.4,NA,NA,NA,7.8,12,NA,NA,Psacharopoulos (1994)
+Dominican Republic,1990,Latin America and Caribbean,Middle,6,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Dominican Republic,1995,Latin America and Caribbean,Middle,6.3,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Dominican Republic,2003,Latin America and Caribbean,Middle,NA,NA,NA,7,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (2005)
+Ecuador,1985,Latin America and Caribbean,Middle,6.6,9.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Ecuador,1987,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.5,7.4,Gomez-Castellano and Psacharopoulos (1990)
+Ecuador,1987,Latin America and Caribbean,Middle,9.6,11.8,NA,NA,NA,17.1,17.2,12.7,14.7,12.7,9.9,9.8,11.5,11.3,7.1,Psacharopoulos (1994)
+Ecuador,1995,Latin America and Caribbean,Middle,7.1,11.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Ecuador,2002,Latin America and Caribbean,Middle,8.300666666666666,6.5,6.6,6.3,6.7,NA,NA,NA,NA,NA,NA,5.9,7.6,NA,NA,"Peet, Fink and Fawzi (2015)"
+Egypt,1997,Middle East and North Africa,Middle,5.9,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Egypt,2001,Middle East and North Africa,Middle,5.2,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Egypt,2006,Middle East and North Africa,Middle,11.1,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Salehi, Tunali, Assaad (2009)"
+Egypt,2011,Middle East and North Africa,Middle,8.8,3.4,2.1,3,9.2,NA,NA,NA,NA,NA,NA,2.9,4.8,NA,NA,Rizk (2016)
+Egypt,2006,Middle East and North Africa,Middle,NA,NA,0,5,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Egypt,1988,Middle East and North Africa,Middle,5.8,5.46,2.450000000000001,8.95,12.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wahba (2000)
+El Salvador,1985,Latin America and Caribbean,Middle,4.3,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+El Salvador,1988,Latin America and Caribbean,Middle,4.5,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+El Salvador,1990,Latin America and Caribbean,Middle,4.7,7.6,NA,NA,NA,18.9,14.5,9.5,16.4,13.3,8,9.6,9.8,9.4,6.2,Psacharopoulos (1994); Funkhouser (1996)
+El Salvador,1992,Latin America and Caribbean,Middle,4.7,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Eritrea,2002,Sub-Saharan Africa,Low,11,10.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kifle (2007)
+Estonia,1989,Advanced Economies,High,9.2,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kroncke and Smith (1999)
+Estonia,1994,Advanced Economies,High,10.4,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kroncke and Smith (1999)
+Estonia,1995,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,14,2.2,10.3,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Estonia,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,21.4,20.25,NA,1.05,9.1,NA,NA,NA,NA,OECD (2013)
+Estonia,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,21.85,17.05,NA,6.6499999999999995,5.55,NA,NA,NA,NA,OECD (2015)
+Estonia,2000,Advanced Economies,High,NA,NA,NA,1.575,15.299999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hazans (2003)
+Ethiopia,1972,Sub-Saharan Africa,Low,6,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Ethiopia,1996,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,24.7,24.2,26.6,14.9,14.4,11.9,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Ethiopia,1997,Sub-Saharan Africa,Low,6,3.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Ethiopia,2011,Sub-Saharan Africa,Low,2.1,12.5,17.3,12.9,12.7,NA,NA,NA,NA,NA,NA,13,10.7,NA,NA,"Peet, Fink and Fawzi (2015)"
+Finland,1980,Advanced Economies,High,7.6,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Asplund (1999)
+Finland,1985,Advanced Economies,High,7.4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Finland,1987,Advanced Economies,High,7.4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.4,6.4,NA,NA,Asplund (1999)
+Finland,1989,Advanced Economies,High,7.4,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.4,7.8,NA,NA,Asplund (1999)
+Finland,1991,Advanced Economies,High,7.5,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.8,8.699,NA,NA,Asplund (1999)
+Finland,1993,Advanced Economies,High,7.9,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.8,8.3,NA,NA,Asplund (1999)
+Finland,1995,Advanced Economies,High,9.1,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Finland,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,7.8,10.350000000000001,NA,6.55,6.75,NA,NA,NA,NA,OECD (2013)
+Finland,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,6.1000000000000005,8.35,NA,20.6,6.05,NA,NA,NA,NA,OECD (2015)
+France,1962,Advanced Economies,High,NA,NA,NA,NA,NA,NA,11.5,9.3,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+France,1964,Advanced Economies,High,4.6,10.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1981)
+France,1975,Advanced Economies,High,5.8,6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+France,1976,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Jarousse (1985)
+France,1977,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.5,7.9,Jarrousse and Mingat (1986)
+France,1977,Advanced Economies,High,6.2,10,NA,NA,NA,NA,14.8,20,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+France,1993,Advanced Economies,High,8,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+France,1994,Advanced Economies,High,8.4,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+France,1995,Advanced Economies,High,8.8,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.5,8.1,NA,NA,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
+France,2001,Advanced Economies,High,10.66,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+France,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,9.35,9.5,NA,6.550000000000001,6.85,NA,NA,NA,NA,OECD (2013)
+Gambia,1997,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,37.1,12.7,NA,33.5,12.1,NA,NA,NA,NA,NA,EdInvest (1999)
+Gambia,2003,Sub-Saharan Africa,Low,3.2,6.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Foltz and Gajigo (2012)
+Georgia,1997,Europe and Central Asia,Middle,11.1,4.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Botchorishvili (2007)
+Georgia,1999,Europe and Central Asia,Middle,12.2,0.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Botchorishvili (2007)
+Georgia,2002,Europe and Central Asia,Middle,12.1,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Botchorishvili (2007)
+Georgia,2006,Europe and Central Asia,Middle,12.1,6.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.2,5.099,NA,NA,Botchorishvili (2007)
+Germany,1964,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,4.6,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+Germany,1974,Advanced Economies,High,6.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13.1,11.2,NA,NA,Psacharopoulos (1994)
+Germany,1978,Advanced Economies,High,7,NA,NA,NA,NA,NA,6.5,10.5,NA,NA,NA,13.6,11.7,NA,NA,Psacharopoulos (1994)
+Germany,1986,Advanced Economies,High,7.1,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ichino and Winter-Ebmer (1999)
+Germany,1987,Advanced Economies,High,10.1,4.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Germany,1988,Advanced Economies,High,8.5,7.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohn and Addison (1998)
+Germany,1989,Advanced Economies,High,8.6,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Pischke and Wachter (2005)
+Germany,1995,Advanced Economies,High,9.4,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.9,9.8,NA,NA,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
+Germany,2001,Advanced Economies,High,10.1,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Jochman and Pohlmeier (2004)
+Germany,2006,Advanced Economies,High,12.6,6.9,NA,NA,NA,NA,7.05,8,NA,10.15,7.6,NA,NA,NA,NA,Kamhöfer and Schmitz (2013)
+Germany,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,6.7,8.5,NA,15.7,6.6,NA,NA,NA,NA,OECD (2013)
+Germany,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,OECD (2015)
+Ghana,1967,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,24.5,17,37,18,13,16.5,NA,NA,NA,NA,Psacharopoulos (1994)
+Ghana,1989,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.1,7.4,Glewwe (1991)
+Ghana,1989,Sub-Saharan Africa,Low,10,8.53,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,4.2,NA,NA,Psacharopoulos and Patrinos (2004); Glewwe (1996)
+Ghana,1991,Sub-Saharan Africa,Low,5.7,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cogneau (2003)
+Ghana,1992,Sub-Saharan Africa,Low,5.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.3,10.6,NA,NA,World Bank (1996a)
+Ghana,1995,Sub-Saharan Africa,Low,6,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Jones (2001)
+Ghana,1999,Sub-Saharan Africa,Low,6.4,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Ghana,2006,Sub-Saharan Africa,Low,6.2,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.7,8.6,NA,NA,Fasih et al (2012)
+Ghana,2007,Sub-Saharan Africa,Low,5.6905,4.2,4.4,2.9,5,NA,NA,NA,NA,NA,NA,7,5.3,NA,NA,"Peet, Fink and Fawzi (2015)"
+Ghana,2006,Sub-Saharan Africa,Low,8.16,7.9,11.7,8.466666666666667,15.350000000000003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baffour (2015)
+Ghana,1998,Sub-Saharan Africa,Low,NA,NA,8.4,9.8,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Schultz (2004)
+Ghana,2005,Sub-Saharan Africa,Low,NA,NA,10,12,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Great Britain,1841,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,24.5,NA,NA,NA,NA,NA,NA,Mitch (1984)
+Great Britain,1871,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,NA,Mitch (1984)
+Great Britain,1970,Advanced Economies,High,7.9,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Great Britain,1971,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,NA,NA,NA,NA,Glennerster and Low (1990)
+Great Britain,1971,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,NA,NA,Psacharopoulos (1985)
+Great Britain,1972,Advanced Economies,High,10.5,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Layard (1979)
+Great Britain,1975,Advanced Economies,High,13,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.7,6.3,Psacharopoulos (1994)
+Great Britain,1980,Advanced Economies,High,8.4,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Great Britain,1983,Advanced Economies,High,NA,6.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harmon and Walker (1995)
+Great Britain,1984,Advanced Economies,High,8.6,13.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Harmon and Walker (1999)
+Great Britain,1985,Advanced Economies,High,8.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,8.3,NA,NA,Silles (2007)
+Great Britain,1986,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,8.6,7.5,6.5,NA,NA,NA,NA,Cohn and Addison (1998)
+Great Britain,1986,Advanced Economies,High,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,8.199,NA,NA,Silles (2007)
+Great Britain,1987,Advanced Economies,High,11.8,6.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,8.4,NA,NA,Silles (2007); Banerjee and Duflo (2005)
+Great Britain,1991,Advanced Economies,High,9.1,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.7,11.9,NA,NA,McGuinness and Bennett (2009)
+Great Britain,1992,Advanced Economies,High,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.5,8.1,NA,NA,Silles (2007)
+Great Britain,1993,Advanced Economies,High,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,7.5,NA,NA,Silles (2007)
+Great Britain,1994,Advanced Economies,High,9.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,8.199,NA,NA,Silles (2007)
+Great Britain,1995,Advanced Economies,High,9.4,8.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,7.9,NA,NA,Silles (2007); Martins and Pereira (2004)
+Great Britain,1996,Advanced Economies,High,9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,8.3,NA,NA,Silles (2007)
+Great Britain,1997,Advanced Economies,High,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,7.8,NA,NA,Silles (2007)
+Great Britain,1998,Advanced Economies,High,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,8.4,NA,NA,Silles (2007)
+Great Britain,2000,Advanced Economies,High,9.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,8,NA,NA,Silles (2007)
+Great Britain,2001,Advanced Economies,High,10.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,9.199,NA,NA,Silles (2007)
+Great Britain,2002,Advanced Economies,High,8.9,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,11.1,NA,NA,McGuinness and Bennett (2009)
+Great Britain,2003,Advanced Economies,High,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,8.3,NA,NA,Silles (2007)
+Great Britain,2004,Advanced Economies,High,10.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,9,NA,NA,Silles (2007)
+Great Britain,2005,Advanced Economies,High,11.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,8,NA,NA,Silles (2007)
+Great Britain,2006,Advanced Economies,High,11.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,8.699,NA,NA,Silles (2007)
+Great Britain,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,11.6,7.85,NA,21.049999999999997,12.95,NA,NA,NA,NA,OECD (2013)
+Great Britain,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,11,12.2,NA,45.599999999999994,30.3,NA,NA,NA,NA,OECD (2015)
+Greece,1960,Advanced Economies,High,7.4,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1982)
+Greece,1962,Advanced Economies,High,NA,NA,NA,NA,NA,NA,7.2,14,NA,6.3,13.7,NA,NA,NA,NA,Psacharopoulos (1985)
+Greece,1964,Advanced Economies,High,6.4,8.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Greece,1974,Advanced Economies,High,6.8,5.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Greece,1975,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,6.4,Lambropoulos and Psacharopoulos (1992)
+Greece,1975,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15.1,15.9,Lambropoulos and Psacharopoulos (1992)
+Greece,1977,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,7.3,Lambropoulos and Psacharopoulos (1992)
+Greece,1977,Advanced Economies,High,NA,NA,NA,NA,NA,NA,6,5.5,NA,5.5,4.5,NA,NA,7,6.2,Psacharopoulos (1985)
+Greece,1977,Advanced Economies,High,6.9,5.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,4.5,NA,NA,Psacharopoulos (1994)
+Greece,1981,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13.7,10.7,Lambropoulos and Psacharopoulos (1992)
+Greece,1981,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,4,Lambropoulos and Psacharopoulos (1992)
+Greece,1985,Advanced Economies,High,7.9,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohn and Addison (1998)
+Greece,1985,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.2,7.4,Lambropoulos and Psacharopoulos (1992)
+Greece,1985,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,3.3,Lambropoulos and Psacharopoulos (1992)
+Greece,1987,Advanced Economies,High,10,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Greece,1993,Advanced Economies,High,8.5,7.6,NA,NA,NA,NA,8.3,8.1,NA,6.5,5.7,6.9,9,NA,NA,Magoula and Psacharopoulos (1999)
+Greece,1994,Advanced Economies,High,8.6,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,8.6,NA,NA,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
+Greece,1995,Advanced Economies,High,8.7,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Greece,2001,Advanced Economies,High,10.89,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Greece,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,5.949999999999999,8.55,NA,5.4,11.649999999999999,NA,NA,NA,NA,OECD (2013)
+Guatemala,1975,Latin America and Caribbean,Middle,2,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Guatemala,1977,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.7,10.6,Psacharopoulos (1985)
+Guatemala,1977,Latin America and Caribbean,Middle,2.5,12.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Guatemala,1985,Latin America and Caribbean,Middle,3.2,12.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Guatemala,1986,Latin America and Caribbean,Middle,3.4,9.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Guatemala,1989,Latin America and Caribbean,Middle,4.3,14.9,NA,NA,NA,33.8,17.9,22.2,NA,NA,NA,14.2,16.3,14.1,8.7,Psacharopoulos (1994)
+Guatemala,2000,Latin America and Caribbean,Middle,4.1,12.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Guatemala,2000,Latin America and Caribbean,Middle,4.509,9.4,6.4,8.6,9.8,NA,NA,NA,NA,NA,NA,4.9,5.5,NA,NA,"Peet, Fink and Fawzi (2015)"
+Guatemala,2000,Latin America and Caribbean,Middle,NA,NA,13.3,22.5,15.8,NA,NA,NA,11.2,19,13.1,NA,NA,NA,NA,Laguna and Porta (2004)
+Guyana,1997,Latin America and Caribbean,Low,NA,NA,NA,4,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (2005)
+Honduras,1986,Latin America and Caribbean,Middle,4.5,12.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bedi (1997)
+Honduras,1989,Latin America and Caribbean,Middle,6.5,11.5,NA,NA,NA,20.8,23.3,25.9,18.2,19.7,18.9,17.2,19.8,17.4,12.3,Psacharopoulos (1994); Funkhouser (1996)
+Honduras,1990,Latin America and Caribbean,Middle,4.9,10.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Honduras,1991,Latin America and Caribbean,Middle,5,9.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Hong Kong,1976,East Asia and Pacific,High,NA,NA,NA,NA,NA,NA,18.5,25.2,6.7,15,12.4,NA,NA,NA,NA,Psacharopoulos (1994)
+Hong Kong,1976,East Asia and Pacific,High,6.9,6.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1989)
+Hong Kong,1981,East Asia and Pacific,High,9.1,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Hong Kong,1981,East Asia and Pacific,High,NA,NA,12.7,9.842857142857142,13.5,NA,NA,NA,6.5,11.314285714285717,9.3,NA,NA,NA,NA,Yeung (1999)
+Hong Kong,1986,East Asia and Pacific,High,NA,NA,12.6,11.585714285714285,27.4,NA,NA,NA,5.6,10.04,9.9,NA,NA,NA,NA,Yeung (1999)
+Hong Kong,1996,East Asia and Pacific,High,NA,NA,8.6,13.900000000000002,18.3,NA,NA,NA,6.3,9.502857142857142,10,NA,NA,NA,NA,Yeung (1999)
+Hong Kong,1991,East Asia and Pacific,High,NA,NA,13.2,16,16.7,NA,NA,NA,5.6,10.562857142857142,12.1,NA,NA,NA,NA,Yeung (1999)
+Hungary,1985,Advanced Economies,High,9,4.34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Hungary,1986,Advanced Economies,High,9,5.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1987,Advanced Economies,High,11.3,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1988,Advanced Economies,High,8.9,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1989,Advanced Economies,High,8.9,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1990,Advanced Economies,High,8.8,5.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1991,Advanced Economies,High,9.1,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1992,Advanced Economies,High,NA,NA,NA,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Hungary,1992,Advanced Economies,High,9.4,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.1,9.6,NA,NA,"Flabbi, Paternostro and Tiongson (2007); Campos and Jolliffe (2007)"
+Hungary,1993,Advanced Economies,High,NA,NA,NA,NA,NA,NA,8.2,13.4,NA,6,2.6,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Hungary,1993,Advanced Economies,High,9.7,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1994,Advanced Economies,High,10.1,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1995,Advanced Economies,High,10.4,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1996,Advanced Economies,High,10.6,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1997,Advanced Economies,High,10.8,10.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1998,Advanced Economies,High,11,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,1999,Advanced Economies,High,11.1,10.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,2000,Advanced Economies,High,11.2,10.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.5,10.5,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,2001,Advanced Economies,High,11.3,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,2002,Advanced Economies,High,11.4,11.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Hungary,2004,Advanced Economies,High,11.6,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Campos and Jolliffe (2007)
+Hungary,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,20.65,21.6,NA,10.2,21.799999999999997,NA,NA,NA,NA,OECD (2013)
+Hungary,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,14.15,20.799999999999997,NA,26.549999999999997,20.5,NA,NA,NA,NA,OECD (2015)
+Iceland,2003,Advanced Economies,High,NA,NA,NA,NA,NA,NA,7.2,5,NA,7.9,5.6,NA,NA,NA,NA,OECD (2006)
+India,1954,South Asia,Middle,1,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopulos (1989)
+India,1965,South Asia,Middle,NA,NA,NA,NA,NA,17.3,18.8,16.2,13.4,15.5,10.3,NA,NA,NA,NA,Psacharopoulos (1985)
+India,1970,South Asia,Middle,1.6,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1989)
+India,1978,South Asia,Middle,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,3.6,NA,NA,Psacharopoulos (1994)
+India,1980,South Asia,Middle,16.8,6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+India,1994,South Asia,Middle,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.454545181131953,11.11,NA,NA,World Bank (2011)
+India,1995,South Asia,Middle,NA,NA,NA,NA,NA,2.6,17.6,18.2,NA,NA,NA,NA,NA,NA,NA,Kingdon (1998)
+India,1995,South Asia,Middle,4.1,10.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kingdon (1998)
+India,2000,South Asia,Middle,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.004559441682455,11.66,NA,NA,World Bank (2011)
+India,2005,South Asia,Middle,5.6,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.66692982018421,10.78,NA,NA,World Bank (2011); Agrawal (2011)
+India,2008,South Asia,Middle,5.1,10.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.040317394140464,11.22,NA,NA,World Bank (2011)
+India,1993,South Asia,Middle,NA,NA,5.095,2.45,4.415,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dutta (2006)
+India,1999,South Asia,Middle,NA,NA,5.375,3.14,6.109999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dutta (2006)
+India,1983,South Asia,Middle,NA,NA,6.62,3.3449999999999998,6.075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dutta (2006)
+India,1983,South Asia,Middle,NA,NA,5.8,10,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kijima (2006)
+India,1999,South Asia,Middle,NA,NA,6.6,10.2,14.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kijima (2006)
+India,1987,South Asia,Middle,NA,NA,6,11,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kijima (2006)
+India,1993,South Asia,Middle,NA,NA,5.4,11,11.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kijima (2006)
+India,1983,South Asia,Middle,NA,NA,8.2,13.7,11.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Duraisamy (2002)
+India,1993,South Asia,Middle,NA,NA,7.9,13.8,11.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Duraisamy (2002)
+Indonesia,1978,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,16.2,14.8,NA,NA,NA,NA,Psacharopoulos (1985)
+Indonesia,1981,East Asia and Pacific,Middle,5,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Indonesia,1989,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,5,NA,NA,NA,NA,McMahon and Boediono (1992)
+Indonesia,1989,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,5,NA,NA,NA,NA,Psacharopoulos (1994)
+Indonesia,1995,East Asia and Pacific,Middle,4.6,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Duflo (2001)
+Indonesia,2003,East Asia and Pacific,Middle,6.4,11.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Duflo (2001)
+Indonesia,2007,East Asia and Pacific,Middle,8.6,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sohn (2013)
+Indonesia,1945,East Asia and Pacific,Middle,NA,NA,3.4,5,4.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1950,East Asia and Pacific,Middle,NA,NA,3.7,5.8,5.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1955,East Asia and Pacific,Middle,NA,NA,3.8,7.1,7.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1960,East Asia and Pacific,Middle,NA,NA,3.9,8.2,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1965,East Asia and Pacific,Middle,NA,NA,3.9,9,9.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1970,East Asia and Pacific,Middle,NA,NA,4.1,9.5,10.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1975,East Asia and Pacific,Middle,NA,NA,4.2,9.9,11.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1980,East Asia and Pacific,Middle,NA,NA,3.8,10.6,11.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1986,East Asia and Pacific,Middle,NA,NA,4,11,11.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1985,East Asia and Pacific,Middle,NA,NA,3.6,11.2,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1988,East Asia and Pacific,Middle,NA,NA,4.3,11.7,10.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1990,East Asia and Pacific,Middle,NA,NA,3.7,12.2,11.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1994,East Asia and Pacific,Middle,NA,NA,3.7,12.2,11.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1992,East Asia and Pacific,Middle,NA,NA,3.4,12.7,12.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1996,East Asia and Pacific,Middle,NA,NA,3.4,12.9,12.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1998,East Asia and Pacific,Middle,NA,NA,9.6,16,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,2000,East Asia and Pacific,Middle,NA,NA,9.1,18,15.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,2002,East Asia and Pacific,Middle,NA,NA,4.5,20.8,20.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1890,East Asia and Pacific,Middle,NA,NA,20.8,22.1,28.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1900,East Asia and Pacific,Middle,NA,NA,18.8,31.2,22.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1910,East Asia and Pacific,Middle,NA,NA,16.9,40.7,15.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1930,East Asia and Pacific,Middle,NA,NA,22.3,50.2,15.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1920,East Asia and Pacific,Middle,NA,NA,15.1,50.9,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Indonesia,1940,East Asia and Pacific,Middle,NA,NA,22.7,59.4,11.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Van Leeuwen (2007)
+Iran,1972,Middle East and North Africa,Middle,NA,NA,NA,NA,NA,NA,NA,NA,34,11.5,15,NA,NA,NA,NA,Psacharopoulos (1985)
+Iran,1976,Middle East and North Africa,Middle,2.7,11.6,NA,NA,NA,NA,21.2,18.5,15.2,17.6,13.6,NA,NA,NA,NA,Psacharopoulos (1994)
+Iran,1987,Middle East and North Africa,Middle,4.4,6.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Salehi, Tunali, Assaad (2009)"
+Iran,2001,Middle East and North Africa,Middle,7.3,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Salehi, Tunali, Assaad (2009)"
+Iran,2006,Middle East and North Africa,Middle,9,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Salehi, Tunali, Assaad (2009)"
+Iraq,2006,Middle East and North Africa,Middle,6.194,0.7,2.2,1.5,0.9,NA,NA,NA,NA,NA,NA,0.5,3,NA,NA,"Peet, Fink and Fawzi (2015)"
+Ireland,1985,Advanced Economies,High,10,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Ireland,1987,Advanced Economies,High,10.1,10.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Ireland,1994,Advanced Economies,High,10.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,13.7,NA,NA,"Harmon, Oosterbeek and Walker (2003)"
+Ireland,1994,Advanced Economies,High,10.3,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Ireland,1995,Advanced Economies,High,10.7,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Trostel, Walker and Woolley (2002)"
+Ireland,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,20.85,17,NA,6.15,15.35,NA,NA,NA,NA,OECD (2013)
+Israel,1958,Advanced Economies,High,NA,NA,NA,NA,NA,27,6.9,8,16.5,6.9,6.6,NA,NA,NA,NA,Psacharopoulos (1994)
+Israel,1979,Advanced Economies,High,11.2,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Israel,1985,Advanced Economies,High,10.5,7.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Israel,1990,Advanced Economies,High,10.8,7.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Israel,1995,Advanced Economies,High,11.1,6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6.9,NA,NA,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
+Israel,2001,Advanced Economies,High,11.95,12.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Israel,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.2,10.8,NA,3.1,9.2,NA,NA,NA,NA,OECD (2013)
+Israel,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,11.05,12.1,NA,5.1499999999999995,9.45,NA,NA,NA,NA,OECD (2015)
+Italy,1969,Advanced Economies,High,NA,NA,NA,NA,NA,NA,17.3,18.3,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Italy,1977,Advanced Economies,High,6.2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,5,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1977,Advanced Economies,High,6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1978,Advanced Economies,High,6.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,4.4,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1979,Advanced Economies,High,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.4,4.4,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1980,Advanced Economies,High,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,4.5,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1981,Advanced Economies,High,6.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.4,4.2,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1982,Advanced Economies,High,6.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,4,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1983,Advanced Economies,High,7,5.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3.52,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1984,Advanced Economies,High,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,3.7,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1985,Advanced Economies,High,7.2,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.55,3.92,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1986,Advanced Economies,High,7.3,4.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,3.8,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1987,Advanced Economies,High,7.4,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,4,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1989,Advanced Economies,High,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,3.6,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1991,Advanced Economies,High,7.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,4.599,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1993,Advanced Economies,High,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,6.9,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1994,Advanced Economies,High,8.2,4.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Brunello and Miniaci (1997)
+Italy,1995,Advanced Economies,High,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,6.1,NA,NA,"Brunello, Comi and Lucifora (1999)"
+Italy,1995,Advanced Economies,High,8.3,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,7.7,NA,NA,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
+Italy,2001,Advanced Economies,High,9.94,15.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Italy,2008,Advanced Economies,High,NA,NA,NA,NA,NA,NA,8.25,7.5,NA,5.6,9.05,NA,NA,NA,NA,OECD (2013)
+Italy,2010,Advanced Economies,High,NA,NA,NA,NA,NA,NA,8.05,9.5,NA,6.55,8.6,NA,NA,NA,NA,OECD (2015)
+Italy,1993,Advanced Economies,High,NA,NA,3.88,10.533333333333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Brunello and Miniaci (1997)
+Jamaica,1989,Latin America and Caribbean,Middle,7.1,28.8,NA,NA,NA,20.4,15.7,NA,17.7,7.9,NA,12.3,21.5,24.9,16,Psacharopoulos (1994)
+Japan,1967,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,10.5,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+Japan,1970,Advanced Economies,High,7.8,7.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1981)
+Japan,1970,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19.3,6.5,Psacharopoulos (1985)
+Japan,1976,Advanced Economies,High,11.1,6.5,NA,NA,NA,13.4,10.4,8.8,9.6,8.6,6.9,NA,NA,NA,NA,Psacharopoulos (1994)
+Japan,1978,Advanced Economies,High,9,4.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohn and Addison (1998)
+Japan,1980,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,8.3,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+Japan,1988,Advanced Economies,High,9.7,13.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohn and Addison (1998)
+Japan,1995,Advanced Economies,High,10.6,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Trostel, Walker and Woolley (2002)"
+Japan,2007,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,7.6,NA,NA,7.300000000000001,NA,NA,NA,NA,OECD (2013)
+Jordan,2001,Middle East and North Africa,Middle,7.69,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Kazakhstan,1996,Europe and Central Asia,Middle,NA,NA,NA,NA,14.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Kazakhstan,2001,Europe and Central Asia,Middle,9.9,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11.5,NA,NA,Arabsheibani and Mussurov (2006)
+Kenya,1970,Sub-Saharan Africa,Middle,3.5,16.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Kenya,1980,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,NA,16,NA,NA,10,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Kenya,1980,Sub-Saharan Africa,Middle,3.4,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Kenya,1986,Sub-Saharan Africa,Middle,4.1,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dabalen (1998)
+Kenya,1995,Sub-Saharan Africa,Middle,6.2,13.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Kenya,1993,Sub-Saharan Africa,Middle,NA,NA,25,7,35,NA,NA,NA,13,6,17,NA,NA,NA,NA,Appleton (2000)
+Kenya,1978,Sub-Saharan Africa,Middle,NA,NA,9,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1993,Sub-Saharan Africa,Middle,NA,NA,4,12,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1995,Sub-Saharan Africa,Middle,NA,NA,2,12,69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1993,Sub-Saharan Africa,Middle,NA,NA,5,13,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1986,Sub-Saharan Africa,Middle,NA,NA,7,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1986,Sub-Saharan Africa,Middle,NA,NA,5,16,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1994,Sub-Saharan Africa,Middle,NA,NA,10.5,16.25,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kabubo-Mariara (2003)
+Kenya,1986,Sub-Saharan Africa,Middle,NA,NA,22,17,31,NA,NA,NA,13,14,10,NA,NA,NA,NA,Appleton (2000)
+Kenya,1978,Sub-Saharan Africa,Middle,NA,NA,24,23,13,NA,NA,NA,13,20,2,NA,NA,NA,NA,Appleton (2000)
+Kenya,1978,Sub-Saharan Africa,Middle,NA,NA,10,34,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1986,Sub-Saharan Africa,Middle,NA,NA,13,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Kenya,1978,Sub-Saharan Africa,Middle,NA,NA,18,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Wambugu (2002)
+Korea,1967,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,5,NA,NA,NA,NA,Psacharopoulos (1985)
+Korea,1975,Advanced Economies,High,7.1,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Korea,1976,Advanced Economies,High,7.2,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.3,1.7,NA,NA,Psacharopoulos (1994)
+Korea,1980,Advanced Economies,High,8.1,11.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,17.2,5,NA,NA,Psacharopoulos (1994)
+Korea,1982,Advanced Economies,High,8.3,11.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.3,8.9,NA,NA,Choi (1993); Psacharopoulos and Patrinos (2004)
+Korea,1986,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.1,17.9,NA,8.8,15.5,NA,NA,NA,NA,Ryoo (1988)
+Korea,1986,Advanced Economies,High,8,10.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Korea,1998,Advanced Economies,High,10.9,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lee and Lee (2006)
+Korea,2002,Advanced Economies,High,11.1,7.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,8.1,NA,NA,"Kwack, Lee and Choi (2007)"
+Korea,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,11.7,12.3,NA,1.75,11.95,NA,NA,NA,NA,OECD (2013)
+Korea,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,3.65,5.85,NA,-0.7,-0.04999999999999999,NA,NA,NA,NA,OECD (2015)
+Kuwait,1983,Middle East and North Africa,High,8.9,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Kuwait,1985,Middle East and North Africa,High,5.5,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Kuwait,1996,Middle East and North Africa,High,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8.3,NA,NA,Shahin and Dibeh (2000)
+Kuwait,2010,Middle East and North Africa,High,12.9,4.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,5.7,NA,NA,Alqattan (2012)
+Kyrgyzstan,1996,Europe and Central Asia,Middle,9.99925,4,-3.9,1.1,2.8,NA,NA,NA,NA,NA,NA,4.3,3.9,NA,NA,"Peet, Fink and Fawzi (2015)"
+Kyrgyzstan,1993,Europe and Central Asia,Middle,NA,NA,NA,3.2,3.025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anderson and Pomfret (2000)
+Kyrgyzstan,1997,Europe and Central Asia,Middle,NA,NA,NA,6.500000000000001,5.1000000000000005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Anderson and Pomfret (2000)
+Latvia,1995,Europe and Central Asia,High,9,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Latvia,1996,Europe and Central Asia,High,9.1,4.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Latvia,1998,Europe and Central Asia,High,9.1,5.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Latvia,1999,Europe and Central Asia,High,9.2,8.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Latvia,2000,Europe and Central Asia,High,9.3,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Latvia,2001,Europe and Central Asia,High,9.3,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Latvia,2002,Europe and Central Asia,High,9.3,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Latvia,2012,Europe and Central Asia,High,15.4,7.69,NA,NA,9.825000000000001,NA,NA,NA,NA,NA,NA,8,10,NA,NA,"Vilerts, Krasnopjorovs, Brekis (2015)"
+Latvia,1997,Europe and Central Asia,High,NA,NA,NA,0.9916666666666667,9.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hazans (2005)
+Latvia,2000,Europe and Central Asia,High,NA,NA,NA,1.175,13.624999999999998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hazans (2003)
+Latvia,2002,Europe and Central Asia,High,NA,NA,NA,1.3666666666666665,10.575000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hazans (2005)
+Lebanon,2002,Middle East and North Africa,Middle,NA,NA,5.63,2.56,-1.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dah and Hammami (2002)
+Lesotho,1980,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,15.5,26.7,36.5,10.7,18.6,10.2,NA,NA,NA,NA,Psacharopoulos (1994)
+Lesotho,1993,Sub-Saharan Africa,Middle,5.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.6,16.5,NA,NA,Psacharopoulos and Patrinos (2004)
+Liberia,1983,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,99,30.5,17,41,17,8,NA,NA,NA,NA,Psacharopoulos (1994)
+Lithuania,2000,Europe and Central Asia,High,NA,NA,NA,1.125,16.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hazans (2003)
+Luxembourg,2010,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.2,NA,NA,10.1,NA,NA,NA,NA,NA,OECD (2015)
+Madagascar,1993,Sub-Saharan Africa,Low,6.1,15.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cogneau (2003)
+Malawi,1978,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,15.1,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+Malawi,1982,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,15.7,16.8,46.6,14.7,15.2,11.5,NA,NA,NA,NA,Psacharopoulos (1994)
+Malawi,2005,Sub-Saharan Africa,Low,4.4,10,NA,NA,NA,NA,NA,NA,11.4,12.8,35,9.7,11.35,NA,NA,Chirwa and Matita (2009)
+Malawi,2012,Sub-Saharan Africa,Low,4.2,8.8,8.1,8.133333333333333,35.075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gondwe (2015)
+Malawi,2010,Sub-Saharan Africa,Low,5.266,12.1,9.8,9.2,12.8,NA,NA,NA,NA,NA,NA,11.8,13.2,NA,NA,"Peet, Fink and Fawzi (2015)"
+Malaysia,1970,East Asia and Pacific,Middle,4.2,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopulos (1989)
+Malaysia,1978,East Asia and Pacific,Middle,5.8,9.4,NA,NA,NA,NA,32.6,34.5,NA,NA,NA,5.3,8.199,NA,NA,Psacharopoulos (1994)
+Malaysia,1984,East Asia and Pacific,Middle,6.7,10.52,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.34,10.5,NA,NA,Milanovic (2006)
+Malaysia,1989,East Asia and Pacific,Middle,6.9,10.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.8,10.54,NA,NA,Milanovic (2006)
+Malaysia,1997,East Asia and Pacific,Middle,8.3,10.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.43,10.7,NA,NA,Milanovic (2006)
+Malaysia,2002,East Asia and Pacific,Middle,9.2,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ismail (2007)
+Malaysia,2004,East Asia and Pacific,Middle,9.6,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ismail (2007)
+Malaysia,2007,East Asia and Pacific,Middle,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.1,14.5,NA,NA,Kenayathulla (2013)
+Maldives,1998,South Asia,Middle,4.3,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.599177087909983,7.678,NA,NA,World Bank (2011)
+Maldives,2004,South Asia,Middle,4.7,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2980898614699745,12.68,NA,NA,World Bank (2011)
+Mali,2007,Sub-Saharan Africa,Low,NA,NA,11,40,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Malta,2001,Middle East and North Africa,High,8.32,25.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Mexico,1963,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,32,23,29,25,17,23,NA,NA,NA,NA,Psacharopoulos (1985)
+Mexico,1963,Latin America and Caribbean,Middle,2.9,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carnoy (1967)
+Mexico,1984,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,6.7,Psacharopoulos et. al. (1996)
+Mexico,1984,Latin America and Caribbean,Middle,6.6,11.6,NA,NA,NA,21.6,15.1,21.7,19,9.6,12.9,14.1,15,15.4,8,Psacharopoulos (1994)
+Mexico,1989,Latin America and Caribbean,Middle,7.5,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,14.5,17.1,NA,NA,Metzger and Patrinos (2005)
+Mexico,1992,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,18.9,20.1,15.7,11.8,14.6,11.1,NA,NA,NA,NA,Cohn and Addison (1998)
+Mexico,1992,Latin America and Caribbean,Middle,7.6,14.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos et. al. (1996)
+Mexico,1997,Latin America and Caribbean,Middle,7.7,35.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Mexico,1998,Latin America and Caribbean,Middle,7.8,13.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Mexico,2000,Latin America and Caribbean,Middle,8.2,13.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.6,15.4,NA,NA,Metzger and Patrinos (2005)
+Mexico,2002,Latin America and Caribbean,Middle,8.2,13.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.7,14.7,NA,NA,Metzger and Patrinos (2005)
+Moldova,1998,Europe and Central Asia,Middle,8.9,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2008)"
+Moldova,2003,Europe and Central Asia,Middle,9.1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2008)"
+Mongolia,2002,East Asia and Pacific,Middle,7.8,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Patrinos, Ridao and Sakellariou (2009)"
+Morocco,1970,Middle East and North Africa,Middle,2.9,15.8,NA,NA,NA,NA,NA,NA,50.5,10,13,NA,NA,NA,NA,Psacharopoulos (1994)
+Morocco,2000,Middle East and North Africa,Middle,3.8945,4.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Muller and Nordman (2004)
+Morocco,2001,Middle East and North Africa,Middle,3.94,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Namibia,2003,Sub-Saharan Africa,Middle,5.9,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Godana and Ashipala (2006)
+Nepal,1998,South Asia,Low,2.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.36534904389724,8.164,NA,NA,World Bank (2011)
+Nepal,1999,South Asia,Low,3,9.7,NA,NA,NA,16.6,8.5,12,15.7,8.1,9.1,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Nepal,2008,South Asia,Low,4,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.3943587625264735,8.264,NA,NA,World Bank (2011)
+Netherlands,1962,Advanced Economies,High,6.2,11,NA,NA,NA,NA,NA,NA,NA,5.2,5.5,NA,NA,NA,NA,"Hartog, Odink, Smits (1999)"
+Netherlands,1965,Advanced Economies,High,NA,NA,NA,NA,NA,NA,8.5,10.4,NA,5.2,5.5,NA,NA,NA,NA,Psacharopoulos (1994)
+Netherlands,1965,Advanced Economies,High,7.3,10.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hartog, Odink, Smits (1999)"
+Netherlands,1972,Advanced Economies,High,8.2,9.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hartog, Odink, Smits (1999)"
+Netherlands,1979,Advanced Economies,High,9.5,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hartog, Odink, Smits (1999)"
+Netherlands,1983,Advanced Economies,High,9.5,7.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Netherlands,1985,Advanced Economies,High,9.9,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hartog, Odink, Smits (1999)"
+Netherlands,1988,Advanced Economies,High,10.1,5.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohn and Addison (1998)
+Netherlands,1989,Advanced Economies,High,10.2,7.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hartog, Odink, Smits (1999)"
+Netherlands,1994,Advanced Economies,High,10.5,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hartog, Odink, Smits (1999)"
+Netherlands,1995,Advanced Economies,High,10.6,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Netherlands,1996,Advanced Economies,High,10.7,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,5.099,NA,NA,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
+Netherlands,2006,Advanced Economies,High,10.8,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Canton (2009)
+Netherlands,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,7.45,NA,NA,6.800000000000001,NA,NA,NA,NA,OECD (2013)
+Netherlands,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,5.45,9.05,NA,10.8,NA,NA,NA,NA,NA,OECD (2015)
+New Zealand,1991,Advanced Economies,High,NA,NA,NA,NA,NA,NA,13.8,11.9,NA,12.4,9.5,NA,NA,NA,NA,Maani (1996)
+New Zealand,1995,Advanced Economies,High,12,3.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Trostel, Walker and Woolley (2002)"
+New Zealand,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,8.649999999999999,6.800000000000001,NA,5.05,5.65,NA,NA,NA,NA,OECD (2013)
+New Zealand,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,8.3,7.6,NA,7.65,5.699999999999999,NA,NA,NA,NA,OECD (2015)
+Nicaragua,1978,Latin America and Caribbean,Middle,3.4,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Behrman, Wolfe and Blau (1985)"
+Nicaragua,1980,Latin America and Caribbean,Middle,3.8,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Nicaragua,1985,Latin America and Caribbean,Middle,4.1,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Nicaragua,1987,Latin America and Caribbean,Middle,6.5,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Nicaragua,1993,Latin America and Caribbean,Middle,4.8,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Funkhouser (1996)
+Nicaragua,1995,Latin America and Caribbean,Middle,5,12.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Nicaragua,1996,Latin America and Caribbean,Middle,5.1,13.8,NA,NA,NA,NA,NA,NA,13.6,10.4,14.7,NA,NA,NA,NA,Belli and Ayadi (1998)
+Nicaragua,1998,Latin America and Caribbean,Middle,5.4,10.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Laguna (2003)
+Nicaragua,2001,Latin America and Caribbean,Middle,5.4,11.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.5,12.2,NA,NA,Laguna and Porta (2004)
+Nicaragua,1997,Latin America and Caribbean,Middle,5.888666666666666,7.1,4.1,6.1,7.5,NA,NA,NA,NA,NA,NA,7.2,6.7,NA,NA,"Peet, Fink and Fawzi (2015)"
+Nicaragua,2001,Latin America and Caribbean,Middle,NA,NA,6.3,9.3,18.6,NA,NA,NA,5.2,9.5,11.4,NA,NA,NA,NA,Belli and Ayadi (1998)
+Niger,2011,Sub-Saharan Africa,Low,2.415,11.1,5.5,11.4,14.7,NA,NA,NA,NA,NA,NA,9.4,14.9,NA,NA,"Peet, Fink and Fawzi (2015)"
+Nigeria,1966,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,30,14,34,23,12.8,17,NA,NA,NA,NA,Psacharopoulos (1994)
+Nigeria,1985,Sub-Saharan Africa,Middle,2.9,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oyelere (2010)
+Nigeria,1992,Sub-Saharan Africa,Middle,3.8,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oyelere (2010)
+Nigeria,1996,Sub-Saharan Africa,Middle,3.5,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oyelere (2010)
+Nigeria,1997,Sub-Saharan Africa,Middle,4.2,2.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oyelere (2010)
+Nigeria,1998,Sub-Saharan Africa,Middle,4.1,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oyelere (2010)
+Nigeria,1999,Sub-Saharan Africa,Middle,4.1,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,5.3,NA,NA,Aromolaran (2006)
+Nigeria,2000,Sub-Saharan Africa,Middle,4.7,3.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oyelere (2011)
+Nigeria,2005,Sub-Saharan Africa,Middle,5.1,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oyelere (2011)
+Nigeria,2011,Sub-Saharan Africa,Middle,6.2965,5.7,4.8,5,5.8,NA,NA,NA,NA,NA,NA,5.1,6.5,NA,NA,"Peet, Fink and Fawzi (2015)"
+Nigeria,2010,Sub-Saharan Africa,Middle,NA,NA,6,12,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Northern Ireland,1995,Advanced Economies,High,10.6,17.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Trostel, Walker and Woolley (2002)"
+Norway,1966,Advanced Economies,High,NA,NA,NA,NA,NA,NA,7.4,7.7,NA,7.2,7.5,NA,NA,NA,NA,Psacharopoulos (1994)
+Norway,1980,Advanced Economies,High,9,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,4.9,NA,NA,Barth and Roed (1999)
+Norway,1983,Advanced Economies,High,9.6,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,5.5,NA,NA,Barth and Roed (1999)
+Norway,1987,Advanced Economies,High,9.9,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,6.2,NA,NA,Barth and Roed (1999)
+Norway,1989,Advanced Economies,High,10.2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,3.9,NA,NA,Barth and Roed (1999)
+Norway,1991,Advanced Economies,High,10.4,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,5.3,NA,NA,Barth and Roed (1999)
+Norway,1995,Advanced Economies,High,11,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,5,NA,NA,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
+Norway,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,6.533333333333334,7.2,NA,6.4,4.95,NA,NA,NA,NA,OECD (2013)
+Norway,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,8.65,NA,7.1,4.45,NA,NA,NA,NA,OECD (2015)
+Pakistan,1975,South Asia,Middle,NA,NA,NA,NA,NA,20,11,27,NA,NA,NA,NA,NA,7.6,7.4,Psacharopoulos (1985)
+Pakistan,1979,South Asia,Middle,NA,NA,NA,NA,NA,4,5.6,6.3,NA,NA,NA,NA,NA,NA,NA,Khan and Irfan (1985)
+Pakistan,1979,South Asia,Middle,8.6,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Pakistan,1980,South Asia,Middle,2.2,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Pakistan,1985,South Asia,Middle,2.5,4.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Pakistan,1991,South Asia,Middle,2.9,15.4,NA,NA,NA,8.4,13.7,31.2,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Pakistan,2000,South Asia,Middle,3.9,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.703303055604019,8.545,NA,NA,World Bank (2011)
+Pakistan,2005,South Asia,Middle,4.9,5.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Farooq (2011)
+Pakistan,2006,South Asia,Middle,5,6.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.251578451782287,9.809,NA,NA,World Bank (2011)
+Pakistan,2008,South Asia,Middle,5.5,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.99513271842637,9.11,NA,NA,World Bank (2011)
+Pakistan,2009,South Asia,Middle,5.6,6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.845471807825376,8.918,NA,NA,World Bank (2011)
+Pakistan,1991,South Asia,Middle,4.745,9.8,3.2,4.4,6.4,NA,NA,NA,NA,NA,NA,8.7,11.3,NA,NA,"Peet, Fink and Fawzi (2015)"
+Pakistan,1995,South Asia,Middle,3.4,7.2,2.7,4.6,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nasir and Nazli (2000)
+Pakistan,2001,South Asia,Middle,4,6.2,3,10.479999999999999,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Jamal, Toor and Khan (2003)"
+Palestine,1982,Middle East and North Africa,Middle,7.8,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1983,Middle East and North Africa,Middle,8,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1984,Middle East and North Africa,Middle,8.1,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1985,Middle East and North Africa,Middle,8.2,3.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1986,Middle East and North Africa,Middle,8.4,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1987,Middle East and North Africa,Middle,8.4,2.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1988,Middle East and North Africa,Middle,8.4,1.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1989,Middle East and North Africa,Middle,8.5,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1990,Middle East and North Africa,Middle,8.5,1.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angrist (1995)
+Palestine,1991,Middle East and North Africa,Middle,8.7,1.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Daoud (2005)
+Palestine,1999,Middle East and North Africa,Middle,8.4,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.4,0.6,NA,NA,Daoud (2005)
+Palestine,2001,Middle East and North Africa,Middle,8.7,2.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,0,NA,NA,Daoud (2005)
+Palestine,2004,Middle East and North Africa,Middle,11.7,5.4,2.9,1,10.2,NA,NA,NA,NA,NA,NA,5,11.1,NA,NA,Tansel and Daoud (2014)
+Palestine,2008,Middle East and North Africa,Middle,11.6,4.1,1.9,1.2,8,NA,NA,NA,NA,NA,NA,3.6,10.5,NA,NA,Tansel and Daoud (2014)
+Palestine,2011,Middle East and North Africa,Middle,11.19,5.1,4.1,6.5,7,NA,NA,NA,NA,NA,NA,4.4,7.3,NA,NA,Rizk (2016)
+Panama,1980,Latin America and Caribbean,Middle,6.7,12.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Panama,1983,Latin America and Caribbean,Middle,6.9,12.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Panama,1985,Latin America and Caribbean,Middle,7.3,12.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Panama,1989,Latin America and Caribbean,Middle,7.6,13.7,NA,NA,NA,5.7,21,21,NA,NA,NA,12.6,17.1,12.2,11,Psacharopoulos (1994)
+Panama,1990,Latin America and Caribbean,Middle,9.2,13.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Panama,2009,Latin America and Caribbean,Middle,10.8,10.9,3.6,7.3,12.3,NA,NA,NA,NA,NA,NA,10.7,13.5,NA,NA,"Freire, Nunez and Teijeiro (2015)"
+Panama,2001,Latin America and Caribbean,Middle,8.7,12.8,3.8,8.5,14.4,NA,NA,NA,NA,NA,NA,12.3,15.8,NA,NA,"Freire, Nunez and Teijeiro (2015)"
+Panama,2003,Latin America and Caribbean,Middle,8.596333333333332,10.7,11.4,9.1,11,NA,NA,NA,NA,NA,NA,9.8,12.5,NA,NA,"Peet, Fink and Fawzi (2015)"
+Panama,2004,Latin America and Caribbean,Middle,8.8,12.6,3.4,9.3,15.1,NA,NA,NA,NA,NA,NA,12.4,15,NA,NA,"Freire, Nunez and Teijeiro (2015)"
+Papua New Guinea,1979,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,29.4,17.6,11.4,19.9,13.9,1,NA,NA,NA,NA,McGavin (1991)
+Papua New Guinea,1985,East Asia and Pacific,Middle,2.6,11.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.9,12.8,NA,NA,Gibson and Fatai (2006)
+Papua New Guinea,1987,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,37.2,41.6,23,12.8,19.4,8.4,NA,NA,NA,NA,Psacharopoulos (1994)
+Papua New Guinea,1987,East Asia and Pacific,Middle,2.6,11.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gibson and Fatai (2006)
+Paraguay,1990,Latin America and Caribbean,Middle,6.1,11.6,NA,NA,NA,23.7,14.6,13.7,20.3,12.7,10.8,10.3,12.1,11.9,8.3,"Psacharopoulos (1994); Patrinos, Velez and Psacharopoulos (1994)"
+Peru,1972,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,19.8,16.3,NA,NA,NA,NA,Psacharopoulos (1985)
+Peru,1985,Latin America and Caribbean,Middle,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,9.3,NA,NA,NA,NA,Bellew and Moock (1990)
+Peru,1985,Latin America and Caribbean,Middle,6.6,11.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.5,12.4,NA,NA,Psacharopoulos (1994)
+Peru,1990,Latin America and Caribbean,Middle,10.1,8.1,NA,NA,NA,13.2,6.6,40,NA,NA,NA,8.5,6.5,9,9,Psacharopoulos (1994)
+Peru,1991,Latin America and Caribbean,Middle,7.2,5.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Peru,2001,Latin America and Caribbean,Middle,7.3,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Trivelli (2006)
+Peru,1991,Latin America and Caribbean,Middle,6.915333333333334,6.9,8.1,7,7.2,NA,NA,NA,NA,NA,NA,7.2,6.3,NA,NA,"Peet, Fink and Fawzi (2015)"
+Philippines,1971,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,9,6.5,9.5,7,6.5,8.5,NA,NA,NA,NA,Psacharopoulos (1985)
+Philippines,1980,East Asia and Pacific,Middle,6.2,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Philippines,1982,East Asia and Pacific,Middle,6.4,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Philippines,1985,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,18.2,13.8,14,11.9,12.9,13.3,NA,NA,NA,NA,Tan and Paqueo (1989)
+Philippines,1985,East Asia and Pacific,Middle,6.6,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maluccio (1998)
+Philippines,1988,East Asia and Pacific,Middle,9,8,NA,NA,NA,18.3,10.5,11.6,13.3,8.9,10.5,12.4,12.4,8.6,6.4,Psacharopoulos (1994)
+Philippines,1994,East Asia and Pacific,Middle,7.5,7.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maluccio (1998)
+Philippines,1995,East Asia and Pacific,Middle,7.6,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Philippines,1998,East Asia and Pacific,Middle,7.8,12.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Schady (2003)
+Philippines,1999,East Asia and Pacific,Middle,NA,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sakellariou (2006)
+Philippines,2000,East Asia and Pacific,Middle,8.3,12.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Poland,1985,Advanced Economies,High,8.5,2.87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Poland,1986,Advanced Economies,High,11.1,2.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Poland,1987,Advanced Economies,High,8.9,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rutkowski (1997)
+Poland,1991,Advanced Economies,High,9.1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,1992,Advanced Economies,High,NA,NA,NA,NA,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Poland,1992,Advanced Economies,High,9.3,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,1993,Advanced Economies,High,9.6,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,1993,Advanced Economies,High,NA,NA,NA,NA,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Poland,1994,Advanced Economies,High,9.7,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,1994,Advanced Economies,High,NA,NA,NA,NA,9.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Poland,1995,Advanced Economies,High,9.9,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,1995,Advanced Economies,High,NA,NA,NA,NA,10.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Poland,1996,Advanced Economies,High,9.9,7.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.8,6.7,NA,NA,Rutkowski (2001)
+Poland,1996,Advanced Economies,High,NA,NA,NA,NA,10.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Poland,1997,Advanced Economies,High,10,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,1998,Advanced Economies,High,10,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,1999,Advanced Economies,High,10,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,2001,Advanced Economies,High,10.2,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,2002,Advanced Economies,High,10.3,10.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Poland,2008,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.4,21.65,NA,3.8,12.95,NA,NA,NA,NA,OECD (2013)
+Poland,2010,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.15,26.6,NA,6.85,13.85,NA,NA,NA,NA,OECD (2015)
+Portugal,1977,Advanced Economies,High,3.8,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.5,8.4,8,4.9,Psacharopoulos (1994)
+Portugal,1982,Advanced Economies,High,4.7,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Portugal,1985,Advanced Economies,High,9.5,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.4,10.4,8.1,7.2,Psacharopoulos (1994)
+Portugal,1986,Advanced Economies,High,5.5,7.48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vieira (1999)
+Portugal,1991,Advanced Economies,High,6,15.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Griffin and Cox Edwards (1993)
+Portugal,1992,Advanced Economies,High,6.1,8.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vieira (1999)
+Portugal,1994,Advanced Economies,High,6.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.7,9.699,NA,NA,"Harmon, Oosterbeek and Walker (2003)"
+Portugal,1995,Advanced Economies,High,6.7,12.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Portugal,2000,Advanced Economies,High,7.4,2.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,García-Mainar and Montuenga-Gómez (2003)
+Portugal,2001,Advanced Economies,High,8.26,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Portugal,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,12.15,15.55,NA,4.35,11.75,NA,NA,NA,NA,OECD (2013)
+Portugal,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,13.6,19.6,NA,5.7,11.25,NA,NA,NA,NA,OECD (2015)
+Portugal,1994,Advanced Economies,High,NA,NA,NA,5.05,12.075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,García-Mainar and Montuenga-Gómez (2003)
+Puerto Rico,1959,Advanced Economies,High,NA,NA,NA,NA,NA,68.2,52.1,29,24,34.1,15.5,NA,NA,NA,NA,Psacharopoulos (1994)
+Puerto Rico,1989,Advanced Economies,High,12.2,15.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Griffin and Cox Edwards (1993)
+Romania,1950,Europe and Central Asia,Middle,4.4,9.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1955,Europe and Central Asia,Middle,4.7,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1960,Europe and Central Asia,Middle,5.2,8.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1965,Europe and Central Asia,Middle,5.6,8.61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1970,Europe and Central Asia,Middle,6.7,9.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1975,Europe and Central Asia,Middle,7.7,9.91,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1980,Europe and Central Asia,Middle,8.2,10.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1985,Europe and Central Asia,Middle,8.8,10.88,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1990,Europe and Central Asia,Middle,9.3,11.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1994,Europe and Central Asia,Middle,9.6,11.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1995,Europe and Central Asia,Middle,9.7,11.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1996,Europe and Central Asia,Middle,9.7,11.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1997,Europe and Central Asia,Middle,9.8,11.89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1998,Europe and Central Asia,Middle,9.8,11.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,1999,Europe and Central Asia,Middle,9.9,12.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,2000,Europe and Central Asia,Middle,10,12.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Andren, Earle and Sapatoru (2005)"
+Romania,2003,Europe and Central Asia,Middle,10.3,4.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ion Zgreaban (2013)
+Romania,2009,Europe and Central Asia,Middle,10.7,11.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.8,13,NA,NA,Ion Zgreaban (2013)
+Russia,1985,Europe and Central Asia,High,8.6,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Russia,1990,Europe and Central Asia,High,9.5,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Russia,1991,Europe and Central Asia,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,NA,NA,NA,Brainerd (1998)
+Russia,1991,Europe and Central Asia,High,9.5,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,5.4,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1991,Europe and Central Asia,High,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1992,Europe and Central Asia,High,NA,NA,NA,NA,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Russia,1992,Europe and Central Asia,High,9.6,3.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,5.4,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1992,Europe and Central Asia,High,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1993,Europe and Central Asia,High,9.7,4.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,7.4,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1993,Europe and Central Asia,High,9.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1994,Europe and Central Asia,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,NA,NA,NA,Brainerd (1998)
+Russia,1994,Europe and Central Asia,High,NA,NA,NA,NA,9.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Clark (2003)
+Russia,1994,Europe and Central Asia,High,NA,NA,NA,NA,13.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Russia,1994,Europe and Central Asia,High,9.8,5.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,9.6,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1994,Europe and Central Asia,High,9.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1995,Europe and Central Asia,High,NA,NA,NA,NA,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Clark (2003)
+Russia,1995,Europe and Central Asia,High,NA,NA,NA,NA,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Russia,1995,Europe and Central Asia,High,9.9,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1996,Europe and Central Asia,High,NA,NA,NA,NA,7.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Clark (2003)
+Russia,1996,Europe and Central Asia,High,NA,NA,NA,NA,8.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Russia,1996,Europe and Central Asia,High,10.1,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,7.7,NA,NA,"Flabbi, Paternostro and Tiongson (2007); Gorodnichenko and Klara (2005)"
+Russia,1997,Europe and Central Asia,High,10.3,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,1998,Europe and Central Asia,High,NA,NA,NA,NA,9.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Clark (2003)
+Russia,1998,Europe and Central Asia,High,10.5,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.4,10.19,NA,NA,"Flabbi, Paternostro and Tiongson (2007); Gorodnichenko and Klara (2005)"
+Russia,1999,Europe and Central Asia,High,10.7,8.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,2000,Europe and Central Asia,High,10.9,9.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.5,10.3,NA,NA,"Flabbi, Paternostro and Tiongson (2007); Gorodnichenko and Klara (2005)"
+Russia,2001,Europe and Central Asia,High,11,7.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Russia,2002,Europe and Central Asia,High,11.1,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Rwanda,2001,Sub-Saharan Africa,Low,3.2,17.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lassibillie and Tan (2005)
+Rwanda,1999,Sub-Saharan Africa,Low,3.1,17.5,22.95,16.799999999999997,21.175000000000004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lassibille and Tan (2005)
+Rwanda,2005,Sub-Saharan Africa,Low,NA,NA,15,45,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Senegal,1985,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,33.7,21.3,NA,23,8.9,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Serbia,1976,Europe and Central Asia,Middle,6.5,6.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,6.6,NA,NA,Bevc (1993)
+Serbia,1986,Europe and Central Asia,Middle,7.6,4.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,4.8,NA,NA,Bevc (1993)
+Serbia,2013,Europe and Central Asia,Middle,10.06,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Popov (2013)
+Serbia,2004,Europe and Central Asia,Middle,9.049,7.3,7.5,5.6,6.9,NA,NA,NA,NA,NA,NA,6.1,9.8,NA,NA,"Peet, Fink and Fawzi (2015)"
+Sierra Leone,1971,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,20,22,9.5,NA,NA,NA,NA,Psacharopoulos (1994)
+Singapore,1974,East Asia and Pacific,High,8.5,13.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Singapore,1998,East Asia and Pacific,High,9,13.1,NA,NA,NA,22.2,12.9,18.7,16.7,10.1,13.9,11.1,15.2,NA,NA,Sakellariou (2003)
+Singapore,2000,East Asia and Pacific,High,9.2,13.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Low et al (2004)
+Slovakia,1984,Advanced Economies,High,NA,NA,NA,NA,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Slovakia,1984,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,NA,NA,NA,Chase (1998)
+Slovakia,1992,Advanced Economies,High,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Slovakia,1993,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,NA,NA,NA,Chase (1998)
+Slovakia,1995,Advanced Economies,High,11.2,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovakia,1995,Advanced Economies,High,11.7259,NA,NA,NA,9.5,NA,NA,NA,NA,NA,NA,6.3,NA,NA,NA,"Filer, Jurajda, Planovsky (1999)"
+Slovakia,1996,Advanced Economies,High,11.7259,NA,NA,NA,10.625000000000002,NA,NA,NA,NA,NA,NA,7.4,NA,NA,NA,"Filer, Jurajda, Planovsky (1999)"
+Slovakia,1997,Advanced Economies,High,11.7259,NA,NA,NA,11.124999999999998,NA,NA,NA,NA,NA,NA,8.1,NA,NA,NA,"Filer, Jurajda, Planovsky (1999)"
+Slovakia,1998,Advanced Economies,High,11.2,6.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovakia,1999,Advanced Economies,High,11.2,5.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovakia,2002,Advanced Economies,High,11.2,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovakia,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,41.5,20,NA,11.25,12.7,NA,NA,NA,NA,OECD (2013)
+Slovakia,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,29.5,17.700000000000003,NA,18.9,12.55,NA,NA,NA,NA,OECD (2015)
+Slovenia,1991,Advanced Economies,High,10.8,6.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,1992,Advanced Economies,High,10.9,5.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,1993,Advanced Economies,High,11,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,1995,Advanced Economies,High,11.1,9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,1996,Advanced Economies,High,11.1,11.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,1997,Advanced Economies,High,11.2,9.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,1998,Advanced Economies,High,11.2,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,2000,Advanced Economies,High,11.3,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,2002,Advanced Economies,High,11.4,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flabbi, Paternostro and Tiongson (2007)"
+Slovenia,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,13.2,17.75,NA,8.35,14.4,NA,NA,NA,NA,OECD (2013)
+Slovenia,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,10.25,16.75,NA,10.05,12.65,NA,NA,NA,NA,OECD (2015)
+Somalia,1983,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,59.9,13,33.2,20.6,10.4,19.9,NA,NA,NA,NA,Psacharopoulos (1994)
+South Africa,1980,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,NA,NA,NA,22.1,17.7,11.8,NA,NA,NA,NA,Psacharopoulos (1994)
+South Africa,1990,Sub-Saharan Africa,Middle,6.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.3,0.8,NA,NA,Psacharopoulos and Patrinos (2004)
+South Africa,1993,Sub-Saharan Africa,Middle,8.1,10.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+South Africa,1994,Sub-Saharan Africa,Middle,8.2,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+South Africa,1995,Sub-Saharan Africa,Middle,8.3,26.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Keswell and Poswell (2004)
+South Africa,1997,Sub-Saharan Africa,Middle,8.5,17.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Keswell and Poswell (2004)
+South Africa,2000,Sub-Saharan Africa,Middle,7.7,20.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Keswell and Poswell (2004)
+South Africa,1993,Sub-Saharan Africa,Middle,7.277,10.7,4.2,8.5,11.2,NA,NA,NA,NA,NA,NA,10.9,10.5,NA,NA,"Peet, Fink and Fawzi (2015)"
+South Africa,2008,Sub-Saharan Africa,Middle,9.2,18.7,7.6,15.4,33.5,NA,NA,NA,6.3,11.9,21.7,18.1,21.2,NA,NA,Salisbury (2016)
+South Africa,2010,Sub-Saharan Africa,Middle,NA,NA,6,23,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Spain,1980,Advanced Economies,High,6.8,12.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Spain,1985,Advanced Economies,High,6.9,7.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohn and Addison (1998)
+Spain,1990,Advanced Economies,High,7,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alba-Ramirez and Segundo (1995)
+Spain,1991,Advanced Economies,High,7.5,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Spain,1991,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,7.4,8.5,13.5,NA,NA,NA,NA,Lassibille and Navarro (1998)
+Spain,1994,Advanced Economies,High,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.2,8.4,NA,NA,"Harmon, Oosterbeek and Walker (2003)"
+Spain,1995,Advanced Economies,High,8.1,8.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Spain,2000,Advanced Economies,High,8.9,1.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,García-Mainar and Montuenga-Gómez (2003)
+Spain,2001,Advanced Economies,High,9.86,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arbak (2012)
+Spain,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,23.049999999999997,11.149999999999999,NA,5,5.9,NA,NA,NA,NA,OECD (2013)
+Spain,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,12.9,9.8,NA,9.6,6.5,NA,NA,NA,NA,OECD (2015)
+Spain,1994,Advanced Economies,High,NA,NA,NA,3.6,4.674999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,García-Mainar and Montuenga-Gómez (2003)
+Spain,1981,Advanced Economies,High,NA,NA,NA,4.3,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vila and Mora (1998)
+Spain,1991,Advanced Economies,High,NA,NA,NA,6,7.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vila and Mora (1998)
+Sri Lanka,1981,South Asia,Middle,4.5,7,NA,NA,NA,NA,12.6,16.1,NA,NA,NA,6.9,7.9,NA,NA,Psacharopoulos (1994)
+Sri Lanka,2000,South Asia,Middle,10.2,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.384248550425571,10.2,NA,NA,World Bank (2011)
+Sri Lanka,2008,South Asia,Middle,11.1,8.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.136331257215245,11.63,NA,NA,World Bank (2011)
+Sri Lanka,1995,South Asia,Middle,NA,NA,NA,2.4,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Himaz (2008)
+Sri Lanka,2000,South Asia,Middle,NA,NA,NA,2.4,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Himaz (2008)
+St. Lucia,2004,Latin America and Caribbean,Middle,NA,NA,3.5,7.3,20.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bellony and Reilly (2010)
+St. Lucia,1996,Latin America and Caribbean,Middle,NA,NA,1.9,10.3,22.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bellony and Reilly (2010)
+Sudan,1974,Sub-Saharan Africa,Middle,NA,NA,NA,NA,NA,NA,13,15,NA,8,4,NA,NA,NA,NA,Psacharopoulos (1994)
+Sudan,1989,Sub-Saharan Africa,Middle,2.1,9.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cohen and House (1994)
+Sudan,2008,Sub-Saharan Africa,Middle,3.2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2.2,NA,NA,Nour (2011)
+Sudan,2000,Sub-Saharan Africa,Middle,2.8,6.1,4.37,0.73,15.02,NA,NA,NA,NA,NA,NA,5.96,6.29,NA,NA,Ali (2002)
+Sudan,2009,Sub-Saharan Africa,Middle,7.68,4.9,3.1,13.3,13,NA,NA,NA,NA,NA,NA,4.5,6.6,NA,NA,Rizk (2016)
+Sudan,2009,Sub-Saharan Africa,Middle,NA,NA,10,20,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Suriname,1992,Latin America and Caribbean,Middle,NA,9.851285714285712,NA,NA,NA,NA,NA,NA,NA,10.768666666666666,NA,11.38375,7.808,NA,NA,Horowitz and Schenzler (1999)
+Sweden,1967,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,10.3,NA,10.5,9.2,NA,NA,NA,NA,Psacharopoulos (1994)
+Sweden,1968,Advanced Economies,High,8,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.9,8.699,NA,NA,Arai and Kjellstrom (1999)
+Sweden,1974,Advanced Economies,High,12.4,4.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,5.5,NA,NA,Arai and Kjellstrom (1999)
+Sweden,1980,Advanced Economies,High,9.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,4.3,NA,NA,Arai and Kjellstrom (1999)
+Sweden,1981,Advanced Economies,High,9.9,3.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,4.099,NA,NA,Arai and Kjellstrom (1999)
+Sweden,1984,Advanced Economies,High,10.2,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arai and Kjellstrom (1999)
+Sweden,1990,Advanced Economies,High,10.6,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Isacsson (1999)
+Sweden,1991,Advanced Economies,High,10.6,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4,NA,NA,Arai and Kjellstrom (1999); Banerjee and Duflo (2005)
+Sweden,1995,Advanced Economies,High,10.8,5.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Sweden,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,13.65,7.05,NA,14.1,3.6,NA,NA,NA,NA,OECD (2013)
+Sweden,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,18.3,7.800000000000001,NA,20.95,1.7,NA,NA,NA,NA,OECD (2015)
+Sweden,2001,Advanced Economies,High,NA,NA,NA,5,4.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gustavsson (2006)
+Switzerland,1982,Advanced Economies,High,11.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,9.1,NA,NA,Weber and Wolter (1999)
+Switzerland,1987,Advanced Economies,High,11,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Switzerland,1991,Advanced Economies,High,10,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.3,7.5,NA,NA,Weber and Wolter (1999)
+Switzerland,1992,Advanced Economies,High,10,9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.2,7.8,NA,NA,Weber and Wolter (1999); Martins and Pereira (2004)
+Switzerland,1993,Advanced Economies,High,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.8,7.9,NA,NA,Weber and Wolter (1999)
+Switzerland,1995,Advanced Economies,High,9.8,9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.1,9,NA,NA,Weber and Wolter (1999); Martins and Pereira (2004)
+Switzerland,1998,Advanced Economies,High,9.6,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Martins and Pereira (2004)
+Switzerland,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.55,2.75,NA,NA,NA,NA,OECD (2015)
+Taiwan,1970,East Asia and Pacific,High,NA,NA,NA,NA,NA,NA,17.6,18.4,NA,26.5,15,NA,NA,NA,NA,Psacharopoulos (1985)
+Taiwan,1972,East Asia and Pacific,High,9,6,NA,NA,NA,50,12.7,15.8,27,12.3,17.7,NA,NA,NA,NA,Psacharopoulos (1994)
+Taiwan,1979,East Asia and Pacific,High,6.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.25,5.71,NA,NA,"Bourguignon, Fournier and Gurgand (2001)"
+Taiwan,1983,East Asia and Pacific,High,7.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.02,6.79,NA,NA,"Bourguignon, Fournier and Gurgand (2001)"
+Taiwan,1987,East Asia and Pacific,High,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.62,6.63,NA,NA,"Bourguignon, Fournier and Gurgand (2001)"
+Taiwan,1991,East Asia and Pacific,High,8.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,7.94,NA,NA,"Bourguignon, Fournier and Gurgand (2001)"
+Taiwan,1994,East Asia and Pacific,High,8.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.82,8.22,NA,NA,"Bourguignon, Fournier and Gurgand (2001)"
+Taiwan,1995,East Asia and Pacific,High,8.8,8.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Taiwan,1998,East Asia and Pacific,High,10.1,19.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Taiwan,1981,East Asia and Pacific,High,NA,NA,-4.85,2.983333333333333,7.625000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1994,East Asia and Pacific,High,NA,NA,-6.5,3.233333333333333,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1982,East Asia and Pacific,High,NA,NA,-5.6,3.3666666666666667,8.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1990,East Asia and Pacific,High,NA,NA,-6.05,3.383333333333333,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1991,East Asia and Pacific,High,NA,NA,-5.6,3.4,9.125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1995,East Asia and Pacific,High,NA,NA,-6.35,3.483333333333333,9.100000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1993,East Asia and Pacific,High,NA,NA,-6.5,3.5,9.524999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1979,East Asia and Pacific,High,NA,NA,-6.15,3.5666666666666664,7.449999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1989,East Asia and Pacific,High,NA,NA,-6.2,3.6833333333333336,9.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1984,East Asia and Pacific,High,NA,NA,-6.65,3.7000000000000006,9.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1980,East Asia and Pacific,High,NA,NA,-5.95,3.716666666666667,6.950000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1992,East Asia and Pacific,High,NA,NA,-6.5,3.8833333333333333,9.100000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1985,East Asia and Pacific,High,NA,NA,-6,4.083333333333333,8.775,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1988,East Asia and Pacific,High,NA,NA,-6.65,4.1499999999999995,9.525,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1987,East Asia and Pacific,High,NA,NA,-7.05,4.2,9.799999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1986,East Asia and Pacific,High,NA,NA,-6.55,4.533333333333333,10.049999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Taiwan,1983,East Asia and Pacific,High,NA,NA,-7,4.716666666666667,8.45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baraka (1999)
+Tajikistan,1999,Europe and Central Asia,Middle,10.6,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arabsheibani and Mussurov (2001)
+Tajikistan,2003,Europe and Central Asia,Middle,9.3,4.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arabsheibani and Mussurov (2001)
+Tajikistan,2004,Europe and Central Asia,Middle,9.8715,3.6,3.9,3.5,3.7,NA,NA,NA,NA,NA,NA,3.3,4.4,NA,NA,"Peet, Fink and Fawzi (2015)"
+Tanzania,1980,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,NA,NA,NA,NA,NA,Knight and Sabot (1987)
+Tanzania,1980,Sub-Saharan Africa,Low,3.2,11.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14.2,10.7,Psacharopoulos (1994)
+Tanzania,1982,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+Tanzania,1991,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,7.9,8.8,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Tanzania,1991,Sub-Saharan Africa,Low,4.1,13.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Tanzania,2007,Sub-Saharan Africa,Low,5.626333333333334,11.1,2.5,10.8,14.6,NA,NA,NA,NA,NA,NA,9.2,14.6,NA,NA,"Peet, Fink and Fawzi (2015)"
+Tanzania,2011,Sub-Saharan Africa,Low,NA,NA,8,66,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Thailand,1970,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,NA,NA,14,NA,NA,11,NA,NA,NA,NA,Psacharopoulos (1985)
+Thailand,1971,East Asia and Pacific,Middle,4.1,10.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Thailand,1972,East Asia and Pacific,Middle,2.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.1,13,NA,NA,Psacharopoulos (1994)
+Thailand,1985,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,NA,NA,21.9,NA,NA,13.5,NA,NA,NA,NA,Psacharopoulos (1994)
+Thailand,1986,East Asia and Pacific,Middle,4.2,12.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Thailand,1989,East Asia and Pacific,Middle,NA,NA,NA,NA,NA,16,12.9,11.8,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Thailand,1989,East Asia and Pacific,Middle,4.9,11.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+Thailand,2002,East Asia and Pacific,Middle,5.7,15.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Warunsiri and McNown (2010)
+Thailand,2005,East Asia and Pacific,Middle,7,11.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.7,12.9,NA,NA,Warunsiri and McNown (2010)
+Thailand,2010,East Asia and Pacific,Middle,10.03,12.63,1.8,5,20.8,NA,NA,NA,3.4,5.7,11.3,NA,NA,NA,NA,Tangtipongkul (2015)
+Thailand,2009,East Asia and Pacific,Middle,9.96,13.22,1.9,5.3,21.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tangtipongkul (2015)
+Thailand,2008,East Asia and Pacific,Middle,9.89,13.37,2.2,5.7,21.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tangtipongkul (2015)
+Thailand,2007,East Asia and Pacific,Middle,9.81,13.76,2.3,6.2,21.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tangtipongkul (2015)
+Thailand,2000,East Asia and Pacific,Middle,NA,NA,NA,8.46,17.46,NA,NA,NA,NA,6.33,13.4,NA,NA,NA,NA,Chalamwong and Amornthum (2001)
+Timor-Leste,2007,East Asia and Pacific,Middle,4,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Santos (2014)
+Timor-Leste,2004,East Asia and Pacific,Middle,4.327,4.8,14.9,7.5,6.2,NA,NA,NA,NA,NA,NA,4.7,4.9,NA,NA,"Peet, Fink and Fawzi (2015)"
+Togo,2011,Sub-Saharan Africa,Low,NA,NA,8,13,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Trinidad and Tobago,1997,Latin America and Caribbean,High,NA,NA,NA,6,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,World Bank (2011)
+Tunisia,1977,Middle East and North Africa,Middle,NA,NA,NA,NA,NA,NA,17,24.1,NA,NA,NA,NA,NA,NA,NA,Bonattour (1986)
+Tunisia,1980,Middle East and North Africa,Middle,NA,NA,NA,NA,NA,NA,13,27,NA,NA,NA,NA,NA,NA,NA,Bonattour (1986)
+Tunisia,1980,Middle East and North Africa,Middle,4.8,8,NA,NA,NA,NA,13,27,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Tunisia,1999,Middle East and North Africa,Middle,3.2,8.61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Muller and Nordman (2004)
+Tunisia,2011,Middle East and North Africa,Middle,11.05,7,4.7,1.2,9.7,NA,NA,NA,NA,NA,NA,7,7.3,NA,NA,Rizk (2016)
+Tunisia,2010,Middle East and North Africa,Middle,NA,NA,NA,9,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Turkey,1987,Europe and Central Asia,Middle,NA,NA,NA,NA,NA,1.9,8.6,16.2,NA,NA,8.5,NA,NA,NA,NA,Psacharopoulos and Patrinos (2004)
+Turkey,1987,Europe and Central Asia,Middle,4.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,13.4,NA,NA,Tansel (2008)
+Turkey,1988,Europe and Central Asia,Middle,4.9,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Salehi, Tunali, Assaad (2009)"
+Turkey,1989,Europe and Central Asia,Middle,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16.9,14.7,NA,NA,Tansel (2008)
+Turkey,1994,Europe and Central Asia,Middle,7.5,13.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.36,17.8,NA,NA,Tansel (2015)
+Turkey,1995,Europe and Central Asia,Middle,5.4,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tansel and Bodur (2012)
+Turkey,2005,Europe and Central Asia,Middle,NA,NA,NA,NA,NA,NA,9.35,19.25,NA,6.1,9.2,NA,NA,NA,NA,OECD (2013)
+Turkey,2002,Europe and Central Asia,Middle,8,NA,3.6,7.1,13.1,NA,NA,NA,NA,NA,NA,7.6,NA,NA,NA,Tansel and Bodur (2012)
+Turkey,1994,Europe and Central Asia,Middle,7,NA,4.4,8.5,14,NA,NA,NA,NA,NA,NA,7.7,NA,NA,NA,Tansel and Bodur (2012)
+Turkey,2008,Europe and Central Asia,Middle,8.8,11.8,4.8,9.4,19.9,NA,NA,NA,NA,NA,NA,10.9,14.1,NA,NA,Tansel and Daoud (2014)
+Turkey,2005,Europe and Central Asia,Middle,8.3,10.9,4.36,9.45,22.54,NA,NA,NA,NA,NA,NA,10.07,12.5,NA,NA,Tansel (2015)
+Turkey,2003,Europe and Central Asia,Middle,8.4,12.2,2.11,13.03,21.63,NA,NA,NA,NA,NA,NA,11.7,13.5,NA,NA,Tansel (2015)
+Turkey,1994,Europe and Central Asia,Middle,NA,NA,24.6,13.6,13.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kara (2008)
+Turkey,1987,Europe and Central Asia,Middle,NA,NA,25,14,14.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kara (2008)
+Turkey,2004,Europe and Central Asia,Middle,8.4,11.7,2.49,14.79,17.29,NA,NA,NA,NA,NA,NA,10.92,13.7,NA,NA,Tansel (2015)
+Turkey,2002,Europe and Central Asia,Middle,8,11.8,1.44,14.88,20.32,NA,NA,NA,NA,NA,NA,11.45,13.13,NA,NA,Tansel (2015)
+Turkey,1968,Europe and Central Asia,Middle,NA,NA,31.1,30.5,17.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kara (2008)
+Uganda,1965,Sub-Saharan Africa,Low,NA,NA,NA,NA,NA,NA,NA,NA,66,28.6,12,NA,NA,NA,NA,Psacharopoulos (1994)
+Uganda,1992,Sub-Saharan Africa,Low,3.5,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cogneau (2003)
+Uganda,1993,Sub-Saharan Africa,Low,3.8,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cogneau (2003)
+Uganda,1992,Sub-Saharan Africa,Low,NA,NA,15.2,6.8,15.8,NA,NA,NA,13.4,6.4,2.7,NA,NA,NA,NA,Appleton (2000)
+Uganda,2006,Sub-Saharan Africa,Low,6.4,5.8,3.5,8.4,15.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cuaresma and Raggl (2014)
+Uganda,2008,Sub-Saharan Africa,Low,5.409,11.9,8.2,10.1,11.9,NA,NA,NA,NA,NA,NA,12.1,12.2,NA,NA,"Peet, Fink and Fawzi (2015)"
+Uganda,2003,Sub-Saharan Africa,Low,5,7.2,1.4,10.6,21.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cuaresma and Raggl (2014)
+Uganda,1999,Sub-Saharan Africa,Low,NA,NA,30.2,11.5,24.2,NA,NA,NA,23.7,10.5,13.4,NA,NA,NA,NA,Appleton (2000)
+Uganda,2006,Sub-Saharan Africa,Low,NA,NA,8,31,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Barouni and Broecke (2014)
+Ukraine,1986,Europe and Central Asia,Middle,8.8,3.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Ukraine,1991,Europe and Central Asia,Middle,9.5,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Ukraine,1996,Europe and Central Asia,Middle,NA,NA,NA,NA,6.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Natalie (2001)
+Ukraine,1997,Europe and Central Asia,Middle,10.2,3.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Ukraine,1998,Europe and Central Asia,Middle,10.3,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Ukraine,2000,Europe and Central Asia,Middle,10.4,3.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+Ukraine,2002,Europe and Central Asia,Middle,10.4,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gorodnichenko and Klara (2005)
+United Arab Emirates,2006,Middle East and North Africa,High,11,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Squalli, Vellinga and Wilson (2008)"
+United States of America,1939,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,18.2,10.7,NA,NA,NA,NA,Psacharopoulos (1985)
+United States of America,1950,Advanced Economies,High,9.7,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1989)
+United States of America,1959,Advanced Economies,High,10.6,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+United States of America,1969,Advanced Economies,High,12.1,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1985)
+United States of America,1973,Advanced Economies,High,11.4,8.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1981)
+United States of America,1976,Advanced Economies,High,11.5,7.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kling (2001)
+United States of America,1978,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.4,9.2,"Cohn, Kiker and Oliveira (1987)"
+United States of America,1978,Advanced Economies,High,11.7,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos (1995)
+United States of America,1980,Advanced Economies,High,12,6.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+United States of America,1987,Advanced Economies,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,12,NA,NA,NA,NA,McMahon (1991)
+United States of America,1987,Advanced Economies,High,13.6,9.8,NA,NA,NA,NA,NA,NA,NA,10,12,NA,NA,NA,NA,Psacharopoulos (1994)
+United States of America,1990,Advanced Economies,High,12.2,9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+United States of America,1991,Advanced Economies,High,12.3,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10.5,NA,NA,Jaeger (2003)
+United States of America,1995,Advanced Economies,High,12.6,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rouse (1999)
+United States of America,1998,Advanced Economies,High,12.6,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.1,11,NA,NA,Jaeger (2003)
+United States of America,2000,Advanced Economies,High,12.7056,13.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Polachek (2008)
+United States of America,2009,Advanced Economies,High,NA,NA,NA,NA,NA,NA,18.55,10.7,NA,8.45,11.8,NA,NA,NA,NA,OECD (2013)
+United States of America,2011,Advanced Economies,High,NA,NA,NA,NA,NA,NA,20.45,13.95,NA,11.9,11.85,NA,NA,NA,NA,OECD (2015)
+Uruguay,1972,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,4.8,5.4,NA,3.6,NA,NA,NA,NA,NA,Indart (1981)
+Uruguay,1979,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,11.6,20,NA,9.9,NA,NA,NA,NA,NA,Indart (1981)
+Uruguay,1985,Latin America and Caribbean,High,7.2,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Uruguay,1989,Latin America and Caribbean,High,7.4,9.7,NA,NA,NA,27.8,10.3,12.8,21.6,8.1,10.3,9,10.6,10.5,5.7,Psacharopoulos (1994)
+Uruguay,1990,Latin America and Caribbean,High,7.5,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Uzbekistan,1995,Europe and Central Asia,Middle,NA,NA,NA,NA,12.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Venezuela,1957,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,18,27,82,17,23,NA,NA,NA,NA,Psacharopoulos (1985)
+Venezuela,1975,Latin America and Caribbean,High,4.3,13.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,1975,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.4,8.5,Psacharopoulos and Steier (1988)
+Venezuela,1976,Latin America and Caribbean,High,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.9,13.5,NA,NA,Psacharopoulos (1994)
+Venezuela,1980,Latin America and Caribbean,High,5.3,11.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kaboski (2003)
+Venezuela,1984,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.1,10.6,Psacharopoulos (1985)
+Venezuela,1984,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.8,9.7,Psacharopoulos and Steier (1988)
+Venezuela,1984,Latin America and Caribbean,High,5.1,11.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,1987,Latin America and Caribbean,High,6.9,10.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,13.1,NA,NA,Psacharopoulos (1994); Patrinos and Sakellariou (2004)
+Venezuela,1987,Latin America and Caribbean,High,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.3,10.1,Psacharopoulos and Alam (1991)
+Venezuela,1989,Latin America and Caribbean,High,9,9.6,NA,NA,NA,36.3,14.6,11,23.4,10.2,6.2,9.1,11.1,9.7,6.6,Psacharopoulos (1994); Patrinos and Sakellariou (2004)
+Venezuela,2003,Latin America and Caribbean,High,7.4,9.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gonzales and Oyelere (2009)
+Venezuela,2007,Latin America and Caribbean,High,7.6,7.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gonzales and Oyelere (2009)
+Venezuela,2008,Latin America and Caribbean,High,7,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gonzales and Oyelere (2009)
+Venezuela,1992,Latin America and Caribbean,High,NA,NA,18,7,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos and Mattson (1998)
+Venezuela,1996,Latin America and Caribbean,High,6.1,7.6,15,14,12,NA,NA,NA,NA,NA,NA,7.4,10.1,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,1995,Latin America and Caribbean,High,5.9,8,18,16,8,NA,NA,NA,NA,NA,NA,8,9.6,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,1999,Latin America and Caribbean,High,9.1,9.2,17,16,10,NA,NA,NA,NA,NA,NA,9.1,11.9,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,1992,Latin America and Caribbean,High,5.5,8.8,16,17,12,NA,NA,NA,NA,NA,NA,8.4,11.9,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,2000,Latin America and Caribbean,High,6.7,8,15,17,8,NA,NA,NA,NA,NA,NA,7.9,9.4,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,1997,Latin America and Caribbean,High,6.3,9.2,16,18,11,NA,NA,NA,NA,NA,NA,9.1,11.7,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,1998,Latin America and Caribbean,High,6.5,9,16,18,10,NA,NA,NA,NA,NA,NA,9.2,10.5,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,2001,Latin America and Caribbean,High,6.9,9.4,15,18,11,NA,NA,NA,NA,NA,NA,9.1,11.3,NA,NA,Patrinos and Sakellariou (2004)
+Venezuela,2002,Latin America and Caribbean,High,7.2,10.4,17,19,13,NA,NA,NA,NA,NA,NA,9.9,12.7,NA,NA,Patrinos and Sakellariou (2004)
+Vietnam,1964,East Asia and Pacific,Middle,3.3,16.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psacharopoulos (1994)
+Vietnam,1992,East Asia and Pacific,Middle,4.2,4.8,NA,NA,NA,10.8,3.8,3,13.5,4.5,6.2,3.4,6.8,NA,NA,"Moock, Patrinos and Venkataraman (1998)"
+Vietnam,1997,East Asia and Pacific,Middle,4.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,4.4,NA,NA,Liu (2006)
+Vietnam,2002,East Asia and Pacific,Middle,5.1,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Patrinos, Ridao and Sakellariou (2009)"
+Vietnam,1993,East Asia and Pacific,Middle,4.3,3.1,15.3,-2.3714285714285714,-10.45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nguyen (2002)
+Vietnam,1998,East Asia and Pacific,Middle,4.8,3.9,14.3,-0.3000000000000002,19.925,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nguyen (2002)
+Vietnam,2010,East Asia and Pacific,Middle,9.5,7.2,4.5,2.8900000000000006,23.977499999999996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Vietnam,1998,East Asia and Pacific,Middle,9.2,2.9,5.45,3.266666666666667,13.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Vietnam,2012,East Asia and Pacific,Middle,9.4,6,9.04,4.041666666666667,18.5075,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Vietnam,2014,East Asia and Pacific,Middle,10.4,5.7,7.16,5.033333333333333,14.042499999999997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Vietnam,2006,East Asia and Pacific,Middle,9.8,8.8,3.19,5.533333333333334,23.85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Vietnam,2008,East Asia and Pacific,Middle,10,9.5,-16.835,5.668333333333334,24.3725,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Vietnam,2004,East Asia and Pacific,Middle,9.7,8.4,6.045,6.233333333333333,21.122500000000002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Vietnam,2002,East Asia and Pacific,Middle,8.2,7.6,7.705,7.111666666666666,20.8625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Doan, Tuyen, and Quan (2016)"
+Yemen,1985,Middle East and North Africa,Middle,NA,NA,NA,NA,NA,10,41,56,2,26,24,NA,NA,NA,NA,Psacharopoulos (1994)
+Yugoslavia,1969,Europe and Central Asia,Middle,NA,NA,NA,NA,NA,7.6,15.3,2.6,9.3,15.4,2.8,NA,NA,NA,NA,Psacharopoulos (1985)
+Yugoslavia,1986,Europe and Central Asia,Middle,NA,NA,NA,NA,NA,14.6,3.1,5.3,3.3,2.3,3.1,NA,NA,NA,NA,Psacharopoulos (1994); Bevc (1989)
+Yugoslavia,1996,Europe and Central Asia,Middle,NA,NA,NA,10.5,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1999)
+Yugoslavia,1995,Europe and Central Asia,Middle,NA,NA,NA,11,15.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Newell and Reilly (1997)
+Zambia,1995,Sub-Saharan Africa,Middle,6,10.65,NA,NA,NA,NA,NA,19.2,NA,NA,5.7,NA,NA,NA,NA,Banerjee and Duflo (2005)
+Zimbabwe,1994,Sub-Saharan Africa,Low,6.7,5.57,NA,NA,NA,16.6,48.5,5.1,11.2,47.6,-4.6,NA,NA,NA,NA,Banerjee and Duflo (2005)
