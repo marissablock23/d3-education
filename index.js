@@ -486,8 +486,6 @@ function createDropdown(list){
     .append('a')
       .attr('class', 'dropdown-item')
       // .attr('href', '#')
-      .append('text')
-      .text(country => country)
       .on('click', (country) => {
         const filteredSelection = list[0].filter(data => data.country === country && data.overall)
                                         .sort((a, b) => a.year - b.year);
@@ -508,7 +506,8 @@ function createDropdown(list){
         //                                           .sort((a, b) => a.year - b.year);
         // const workingData = [filteredOverall, filteredSelection];
       });
-
+      .append('text')
+      .text(country => country);
 
 }
 
