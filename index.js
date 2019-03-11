@@ -505,7 +505,7 @@ function createDropdown(list){
         // const filteredOverall = filteredSelection.filter(data => data.overall)
         //                                           .sort((a, b) => a.year - b.year);
         // const workingData = [filteredOverall, filteredSelection];
-      });
+      })
       .append('text')
       .text(country => country);
 
