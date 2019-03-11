@@ -2,22 +2,52 @@ body {
   align-items: center;
   justify-content: center; }
 
+.container {
+  margin-top: 50px; }
+
+.row {
+  margin-top: 25px; }
+
 h1.title {
-  font-size: 20px; }
+  font-size: 22px;
+  font-family: "Avenir Next"; }
 
 svg {
   flex-direction: row;
   align-items: center;
   justify-content: center; }
 
+h2.subtitle {
+  font-size: 18px;
+  font-family: "Avenir Next"; }
+
 .text {
   font-family: "Avenir Next";
-  font-size: 12px; }
+  font-size: 16px;
+  color: black; }
+
+p, ol, li {
+  font-family: "Avenir Next";
+  font-size: 14px;
+  line-height: 27px;
+  letter-spacing: 1.1px; }
+
+.score-note, .yrs-note {
+  display: none; }
+
+.note-visible {
+  display: block !important;
+  fill: firebrick; }
 
 .title {
   font-weight: bold;
-  font-size: 16px;
-  justify-content: center; }
+  font-size: 18px;
+  justify-content: center;
+  color: black; }
+
+.label, .sourcelabel {
+  font-family: "Avenir Next";
+  font-size: 12px; }
 
 .subtitle {
   font-style: italic;
@@ -26,17 +56,17 @@ svg {
 .source {
   font-size: 8px; }
 
-.eastasia {
-  fill: #1b9e77; }
+.bar {
+  fill: #c7bbc9; }
 
-.europe {
-  fill: #d95f02; }
+.dot {
+  fill: #bfb5b2;
+  opacity: .45; }
 
-.lat {
-  fill: #7570b3; }
+.selected-dot {
+  fill: orange !important; }
 
-.mena {
-  fill: #e7298a; }
-
-.ssa {
-  fill: #66a61e; }
+.line {
+  fill: none;
+  stroke: teal;
+  stroke-width: 0.5; }

@@ -8,7 +8,7 @@ library(jsonlite)
 ### Clean Data
 
 # WDI
-wdi <- read_csv("../fininc-data/clean/clean.wdi.csv")
+wdi <- read_csv("data/clean.wdi.csv")
   
   # Rename variables
   wdi <- rename(wdi, country = "country.x")
@@ -48,7 +48,6 @@ wdi.time <- read_csv("data/wdi_timeseries.csv", na = "..",
   # Make variables names lowercase
   colnames(wdi.time) <- tolower(colnames(wdi.time))
 
-  
   
   
 
@@ -97,8 +96,17 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
     
     # Remember that aggregates and regions are included as countries
     
-  
-      
+# ILO Stats
+   labor <- read_xlsx("data/IL_Emp_Educ.xlsx", sheet = "MBI_11_EN",
+                      na = "", skip = 5)
+   labor <- labor %>% rename("country" = `Reference area`, "source" = `Source type`, "year" = "Time", "less" = "Less than basic..13",
+                             "basic" = "Basic..14", "intermediate" = "Intermediate..15", "advanced" = "Advanced..16", 
+                             "not" = "Level not stated..17") %>% select(country, source, Sex, Age, year, less, basic, intermediate,
+                                                                       advanced, not)
+   # Make year variable factor
+   labor$year <- as.factor(labor$year)
+   
+
 ### Export as JSON
 
   # Reverse Scatter Plot: GDP vs. Adult Literacy Rate, 2015
@@ -111,12 +119,10 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
       ggplot() +
       geom_point(aes(x = log(gdp), y = litrate))
       
-      
       toJSON(pretty=TRUE) %>%
       write_json(path = "wdi.json")
   
   ## Benchmarking
-    # Quantity of Schooling
       # Filter to 2010 years of schooling
       yrs <- edstats %>%
         filter(year==2010) %>%
@@ -125,29 +131,17 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
       test <- edstats %>%
         filter(year==2017) %>%
         select(country, hd.hci.hlos)
-      
-      wdi %>%
-        filter(year==2017) %>%
-        left_join(yrs) %>%
-        select(country, bar.schl.15up, ny.gdp.pcap.kd, cntry.code) %>%
-        rename(gdp = "ny.gdp.pcap.kd", cntrycode = "cntry.code", yrs = "bar.schl.15up") %>%
-        #write_json(path = "yrs.json")
-        filter(!is.na(gdp)) %>%
-        filter(!is.na(yrs)) %>%
-        write_csv(path = "data/clean/bench.q.csv")
 
+      # Merge data above with GDP + take log of gdp
       wdi %>%
         filter(year==2017) %>%
         left_join(yrs) %>%
         left_join(test) %>%
         select(country, bar.schl.15up, ny.gdp.pcap.kd, cntry.code, hd.hci.hlos) %>%
         rename(gdp = "ny.gdp.pcap.kd", cntrycode = "cntry.code", yrs = "bar.schl.15up", score = "hd.hci.hlos") %>%
-        full_join(returns, by = "country") %>%
-        select(country, bar.schl.15up, ny.gdp.pcap.kd, cntry.code, hd.hci.hlos)
-        #write_json(path = "yrs.json")
-        #filter(!is.na(gdp)) %>%
-        #filter(!is.na(yrs)) %>%
-        write_csv(path = "data/clean/bench.csv")
+        select(country, yrs, gdp, cntrycode, score) %>%
+        mutate(gdp = log(gdp)) %>%
+        write_csv(path = "data/bench.csv")
       
   ## Test 1
     # Returns to schooling
@@ -159,10 +153,11 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
       SE.SEC.ENRR
       NY.GDP.MKTP.KD.ZG
       
-      wdi.time %>%
+      growth <- wdi.time %>%
         group_by(country) %>%
-        mutate(secGrowth = (se.sec.enrr - lag(se.sec.enrr))/lag(se.sec.enrr)) %>%
-        filter(country=="Albania") %>%
+        mutate(secGrowth = (se.sec.enrr - lag(se.sec.enrr))/lag(se.sec.enrr))
+        
+        filter(country=="Bolivia") %>%
         ggplot(aes(x = ny.gdp.pcap.kd.zg, y = secGrowth, label = year)) +
           geom_point() +
           geom_label(aes(label = year)) +
@@ -170,6 +165,43 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
                            yend=c(tail(secGrowth, n = -1), NA)),
                        arrow = arrow(length=unit(0.3, "cm")))
       
+      # Line graph
+      labor %>%
+        group_by(country) %>%
+        mutate(intGrowth = (intermediate - lag(intermediate))/lag(intermediate)) %>%
+        full_join(growth) %>%
+        filter(country=="Afghanistan" & Sex=="Total" & Age=="15+") %>%
+        ggplot() +
+        geom_line(aes(x = as.numeric(year), y = intGrowth)) +
+        geom_line(aes(x = as.numeric(year), y = secGrowth))
+      
+      # Connected Scatter
+      labor %>%
+        group_by(country) %>%
+        mutate(intGrowth = (intermediate - lag(intermediate))/lag(intermediate)) %>%
+        full_join(growth) %>%
+        filter(country=="Ghana" & Sex=="Total" & Age=="15+") %>%
+        ggplot(aes(x = secGrowth, y = intGrowth, label = year)) +
+          geom_point() +
+          geom_label(aes(label = year)) +
+          geom_segment(aes(xend = c(tail(secGrowth, n = -1), NA),
+                           yend=c(tail(intGrowth, n = -1), NA)),
+                       arrow = arrow(length=unit(0.3, "cm")))
+      
+      wdi.time %>%
+        group_by(country) %>%
+        mutate(secGrowth = (se.sec.enrr - lag(se.sec.enrr))/lag(se.sec.enrr)) %>%
+        filter(country=="Chile") %>%
+        ggplot(aes(x = ny.gdp.pcap.kd.zg, y = secGrowth, label = year)) +
+        geom_point() +
+        geom_label(aes(label = year)) +
+        geom_segment(aes(xend=c(tail(ny.gdp.pcap.kd.zg, n = -1), NA),
+                         yend=c(tail(secGrowth, n = -1), NA)),
+                     arrow = arrow(length=unit(0.3, "cm"))) +
+        labs(
+          x = "GDP per capita Growth",
+          y = "Growth in Secondary School Enrollment Rate"
+        )
       
       
   
