@@ -1,7 +1,7 @@
   Promise.all([
-    d3.csv('../data/bench.csv'),
-    d3.csv('../data/returns.csv'),
-    d3.csv('../data/returns2.csv')
+    d3.csv('data/bench.csv'),
+    d3.csv('data/returns.csv'),
+    d3.csv('data/returns2.csv')
   ])
   .then(data => {
       const quantityData = data[0].filter(d => d.gdp !== 'NA' && d.yrs !== 'NA');
