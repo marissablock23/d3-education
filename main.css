@@ -57,14 +57,14 @@ p, ol, li {
   font-size: 8px; }
 
 .bar {
-  fill: #c7bbc9; }
+  fill: #69b3a2; }
 
 .dot {
   fill: #bfb5b2;
   opacity: .45; }
 
 .selected-dot {
-  fill: orange !important; }
+  fill: #69b3a2 !important; }
 
 .line {
   fill: none;

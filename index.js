@@ -1,23 +1,18 @@
-
-
   Promise.all([
-    d3.csv('data/bench.csv'),
-    d3.csv('data/returns.csv'),
-    d3.csv('data/returns2.csv')
+    d3.csv('../data/bench.csv'),
+    d3.csv('../data/returns.csv'),
+    d3.csv('../data/returns2.csv')
   ])
   .then(data => {
       const quantityData = data[0].filter(d => d.gdp !== 'NA' && d.yrs !== 'NA');
       const qualityData = data[0].filter(d => d.gdp !== 'NA' && d.score !== 'NA');
       const returnsData = data[1];
       const returnsCrossData = data[2];
-      // const returnsData = data[1].filter(d => d.overall!== 'NA');
-      // const returnsPrimData = data[1].filter(d => d.primary!=='NA');
       return [ quantityData, qualityData, returnsData, returnsCrossData ];
     })
   .then(data => myVis(data));
 
-
-function createBenchmark(data, xVar, yVar){
+function createBenchmark(data, xVar, yVar, addedParams){
   const margin = {top: 50, right: 50, bottom: 50, left: 50},
   width = 600 - margin.left - margin.right,
   height = 600 - margin.top - margin.bottom;
@@ -176,6 +171,23 @@ function createBenchmark(data, xVar, yVar){
 
 
   svg.selectAll('circle')
+    .on('click', (data) => {
+      const filteredSelection = addedParams[0].filter(d => d.country === data.country && d.overall)
+                                        .sort((a, b) => a.year - b.year);
+        createBar(filteredSelection);
+
+        const filteredCross = addedParams[1].filter(d => d.country === data.country && d.value)
+                                        .sort((a, b) => a.year - b.year);
+
+        // const filteredSelectionDotQuantity = list[2].filter(data => data.country === country)
+        
+        // const filteredSelectionDotQuality = list[3].filter(data => data.country === country)
+
+        updateBenchmark(data.country);
+
+        createLollipopChart(filteredCross);
+
+    })
     .on('mouseover', mouseOverIn)
     .on('mouseout', mouseOverOut);
 }
@@ -298,7 +310,7 @@ function createBar(data) {
     .attr('y', padding)
     .attr('x', (width/2))
     .style('text-anchor', 'middle')
-    .text('Returns to Schooling: ' + selectedCountry[0].country);
+    .text('Returns to Schooling over time: ' + selectedCountry[0].country);
   
 }
 
@@ -306,9 +318,9 @@ function createBar(data) {
 // https://bl.ocks.org/tlfrd/e1ddc3d0289215224a69405f5e538f51
 function createLollipopChart(data) {
   // set the dimensions and margins of the graph
-  const margin = {top: 10, right: 30, bottom: 40, left: 100},
-      width = 460 - margin.left - margin.right,
-      height = 500 - margin.top - margin.bottom;
+  const margin = {top: 60, right: 30, bottom: 40, left: 90},
+      width = 600 - margin.left - margin.right,
+      height = 600 - margin.top - margin.bottom;
 
   d3.selectAll('svg.lollipop').remove();
 
@@ -358,7 +370,7 @@ function createLollipopChart(data) {
     // Specify where to put country label
     svg.append('text')
     .attr('class', 'label')
-    .attr('x', x(d.value) - 70)
+    .attr('x', x(d.value) - 100)
     .attr('y', y(d.type) - 15)
     .text(function () {
       return "Source: " + d.source;
@@ -366,7 +378,7 @@ function createLollipopChart(data) {
 
     svg.append('text')
       .attr('class', 'sourcelabel')
-      .attr('x', x(d.value) - 70)
+      .attr('x', x(d.value) - 100)
       .attr('y', y(d.type) - 25)
       .text(function () {
         return "Year: " + new Date(d.year).getFullYear();
@@ -376,38 +388,99 @@ function createLollipopChart(data) {
   function mouseOverOut(d) {
     d3.select(this)
       // .attr('r', 5)
-      .style('fill', '#bfb5b2');
+      .style('fill', '"#69b3a2"');
     d3.select('.label')
       .remove();
     d3.select('.sourcelabel')
       .remove();
   }
 
-
-  // Lines
+  // TRANSITION ATTEMPT
   svg.selectAll(".line")
     .data(data)
     .enter()
-    .append("line")
+    .append('line')
       .attr('class', 'line')
-      .attr("x1", function(d) { return x(d.value); })
-      .attr("x2", x(0))
+      .attr('x1', x(0))
+      .attr('x2', x(0))
       .attr("y1", function(d) { return y(d.type); })
       .attr("y2", function(d) { return y(d.type); })
       .attr("stroke", "grey");
 
-  // Circles
   svg.selectAll("circle")
     .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function(d) { return x(d.value); })
+      .attr("cx", x(0))
       .attr("cy", function(d) { return y(d.type); })
       .attr("r", "4")
       .style("fill", "#69b3a2")
       .attr("stroke", "black")
       .on('mouseover', mouseOverIn)
       .on('mouseout', mouseOverOut);
+
+
+  svg.selectAll('circle')
+      .transition()
+      .duration(3000)
+      .attr("cx", function(d) { return x(d.value); });
+
+
+  svg.selectAll('.line')
+      .transition()
+      .duration(3000)
+      .attr("x1", function(d) { return x(d.value); });
+
+  //////////////////////////////
+
+  // Lines
+  // svg.selectAll(".line")
+  //   .data(data)
+  //   .enter()
+  //   .append("line")
+  //     .attr('class', 'line')
+  //     .attr("x1", function(d) { return x(d.value); })
+  //     .attr("x2", x(0))
+  //     .attr("y1", function(d) { return y(d.type); })
+  //     .attr("y2", function(d) { return y(d.type); })
+  //     .attr("stroke", "grey");
+
+  // // Circles
+  // svg.selectAll("circle")
+  //   .data(data)
+  //   .enter()
+  //   .append("circle")
+  //     .attr("cx", function(d) { return x(d.value); })
+  //     .attr("cy", function(d) { return y(d.type); })
+  //     .attr("r", "4")
+  //     .style("fill", "#69b3a2")
+  //     .attr("stroke", "black")
+  //     .on('mouseover', mouseOverIn)
+  //     .on('mouseout', mouseOverOut);
+
+  // Title
+  svg.append('text')
+    .attr('class', 'text title')
+    .attr('y', 0)
+    .attr('x', width/2)
+    .style('text-anchor', 'middle')
+    .text('Disaggregated Returns to Schooling, most recent year');
+
+  // x Axis Title
+  svg.append('text')
+    .attr('class', 'text')
+    .attr('y', height + 35)
+    .attr('x', (width/2))
+    .style('text-anchor', 'middle')
+    .text('Returns to Schooling');
+
+  // Source
+  svg.append('text')
+    .attr('class', 'text source')
+    .attr('y', height + 50)
+    .attr('x', 0)
+    .style('text-anchor', 'right')
+    .text('Source: Psacharopoulos & Patrinos, 2018');
 
 }
 
@@ -509,6 +582,7 @@ function createDropdown(list){
       .append('text')
       .text(country => country);
 
+
 }
 
 
@@ -565,12 +639,12 @@ function myVis(d) {
   //   };
   // });
 
-  createBenchmark(quantityData, 'gdp', 'yrs');
-  createBenchmark(qualityData, 'gdp', 'score');
+  createBenchmark(quantityData, 'gdp', 'yrs', inputArray);
+  createBenchmark(qualityData, 'gdp', 'score', inputArray);
   // createBar(returnsData, 'overall', 'year', 'Bolivia');
 
   createDropdown(inputArray);
   // createDropdown(returnsPrimData, 'primary');
-
 }
+
 
