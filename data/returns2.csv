@@ -256,8 +256,6 @@ France,1995,male,7.5,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
 France,1995,female,8.1,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
 France,2001,overall,11,Arbak (2012)
 France,2001,globalAvgOverall,9,Arbak (2012)
-Gambia,2003,overall,6.8,Foltz and Gajigo (2012)
-Gambia,2003,globalAvgOverall,9,Foltz and Gajigo (2012)
 Georgia,2006,overall,6.9,Botchorishvili (2007)
 Georgia,2006,male,8.2,Botchorishvili (2007)
 Georgia,2006,female,5.099,Botchorishvili (2007)
@@ -402,21 +400,17 @@ Kenya,1995,primary,2,Wambugu (2002)
 Kenya,1995,secondary,12,Wambugu (2002)
 Kenya,1995,higher,69,Wambugu (2002)
 Kenya,1995,globalAvgOverall,9,Wambugu (2002)
-Korea,2002,overall,7.3,"Kwack, Lee and Choi (2007)"
-Korea,2002,male,5.9,"Kwack, Lee and Choi (2007)"
-Korea,2002,female,8.1,"Kwack, Lee and Choi (2007)"
-Korea,2002,globalAvgOverall,9,"Kwack, Lee and Choi (2007)"
 Kuwait,2010,overall,4.8,Alqattan (2012)
 Kuwait,2010,male,5.1,Alqattan (2012)
 Kuwait,2010,female,5.7,Alqattan (2012)
 Kuwait,2010,globalAvgOverall,9,Alqattan (2012)
-Kyrgyzstan,1996,overall,4,"Peet, Fink and Fawzi (2015)"
-Kyrgyzstan,1996,primary,-3.9,"Peet, Fink and Fawzi (2015)"
-Kyrgyzstan,1996,male,4.3,"Peet, Fink and Fawzi (2015)"
-Kyrgyzstan,1996,female,3.9,"Peet, Fink and Fawzi (2015)"
-Kyrgyzstan,1996,globalAvgOverall,9,"Peet, Fink and Fawzi (2015)"
-Kyrgyzstan,1997,secondary,6.500000000000001,Anderson and Pomfret (2000)
-Kyrgyzstan,1997,higher,5.1000000000000005,Anderson and Pomfret (2000)
+Kyrgyz Republic,1996,overall,4,"Peet, Fink and Fawzi (2015)"
+Kyrgyz Republic,1996,primary,-3.9,"Peet, Fink and Fawzi (2015)"
+Kyrgyz Republic,1996,male,4.3,"Peet, Fink and Fawzi (2015)"
+Kyrgyz Republic,1996,female,3.9,"Peet, Fink and Fawzi (2015)"
+Kyrgyz Republic,1996,globalAvgOverall,9,"Peet, Fink and Fawzi (2015)"
+Kyrgyz Republic,1997,secondary,6.500000000000001,Anderson and Pomfret (2000)
+Kyrgyz Republic,1997,higher,5.1000000000000005,Anderson and Pomfret (2000)
 Latvia,2002,secondary,1.3666666666666665,Hazans (2005)
 Latvia,2012,overall,7.69,"Vilerts, Krasnopjorovs, Brekis (2015)"
 Latvia,2012,higher,9.825000000000001,"Vilerts, Krasnopjorovs, Brekis (2015)"
@@ -515,13 +509,6 @@ Pakistan,2009,overall,6.2,World Bank (2011)
 Pakistan,2009,male,5.845471807825376,World Bank (2011)
 Pakistan,2009,female,8.918,World Bank (2011)
 Pakistan,2009,globalAvgOverall,9,World Bank (2011)
-Palestine,2011,overall,5.1,Rizk (2016)
-Palestine,2011,primary,4.1,Rizk (2016)
-Palestine,2011,secondary,6.5,Rizk (2016)
-Palestine,2011,higher,7,Rizk (2016)
-Palestine,2011,male,4.4,Rizk (2016)
-Palestine,2011,female,7.3,Rizk (2016)
-Palestine,2011,globalAvgOverall,9,Rizk (2016)
 Panama,2009,overall,10.9,"Freire, Nunez and Teijeiro (2015)"
 Panama,2009,primary,3.6,"Freire, Nunez and Teijeiro (2015)"
 Panama,2009,secondary,7.3,"Freire, Nunez and Teijeiro (2015)"
@@ -593,10 +580,10 @@ Singapore,1998,male,11.1,Sakellariou (2003)
 Singapore,1998,female,15.2,Sakellariou (2003)
 Singapore,2000,overall,13.2,Low et al (2004)
 Singapore,2000,globalAvgOverall,9,Low et al (2004)
-Slovakia,1997,higher,11.124999999999998,"Filer, Jurajda, Planovsky (1999)"
-Slovakia,1997,male,8.1,"Filer, Jurajda, Planovsky (1999)"
-Slovakia,2002,overall,6.1,"Flabbi, Paternostro and Tiongson (2007)"
-Slovakia,2002,globalAvgOverall,9,"Flabbi, Paternostro and Tiongson (2007)"
+Slovak Republic,1997,higher,11.124999999999998,"Filer, Jurajda, Planovsky (1999)"
+Slovak Republic,1997,male,8.1,"Filer, Jurajda, Planovsky (1999)"
+Slovak Republic,2002,overall,6.1,"Flabbi, Paternostro and Tiongson (2007)"
+Slovak Republic,2002,globalAvgOverall,9,"Flabbi, Paternostro and Tiongson (2007)"
 Slovenia,2002,overall,8.2,"Flabbi, Paternostro and Tiongson (2007)"
 Slovenia,2002,globalAvgOverall,9,"Flabbi, Paternostro and Tiongson (2007)"
 South Africa,2008,overall,18.7,Salisbury (2016)
@@ -606,6 +593,10 @@ South Africa,2008,globalAvgOverall,9,Salisbury (2016)
 South Africa,2010,primary,6,Barouni and Broecke (2014)
 South Africa,2010,secondary,23,Barouni and Broecke (2014)
 South Africa,2010,higher,28,Barouni and Broecke (2014)
+South Korea,2002,overall,7.3,"Kwack, Lee and Choi (2007)"
+South Korea,2002,male,5.9,"Kwack, Lee and Choi (2007)"
+South Korea,2002,female,8.1,"Kwack, Lee and Choi (2007)"
+South Korea,2002,globalAvgOverall,9,"Kwack, Lee and Choi (2007)"
 Spain,1994,secondary,3.6,García-Mainar and Montuenga-Gómez (2003)
 Spain,1994,higher,4.674999999999999,García-Mainar and Montuenga-Gómez (2003)
 Spain,1994,male,7.2,García-Mainar and Montuenga-Gómez (2003)
@@ -687,6 +678,8 @@ Thailand,2010,primary,1.8,Tangtipongkul (2015)
 Thailand,2010,secondary,5,Tangtipongkul (2015)
 Thailand,2010,higher,20.8,Tangtipongkul (2015)
 Thailand,2010,globalAvgOverall,9,Tangtipongkul (2015)
+The Gambia,2003,overall,6.8,Foltz and Gajigo (2012)
+The Gambia,2003,globalAvgOverall,9,Foltz and Gajigo (2012)
 Timor-Leste,2004,primary,14.9,"Peet, Fink and Fawzi (2015)"
 Timor-Leste,2004,secondary,7.5,"Peet, Fink and Fawzi (2015)"
 Timor-Leste,2004,higher,6.2,"Peet, Fink and Fawzi (2015)"
@@ -725,10 +718,10 @@ Ukraine,2002,overall,4.5,Gorodnichenko and Klara (2005)
 Ukraine,2002,globalAvgOverall,9,Gorodnichenko and Klara (2005)
 United Arab Emirates,2006,overall,7,"Squalli, Vellinga and Wilson (2008)"
 United Arab Emirates,2006,globalAvgOverall,9,"Squalli, Vellinga and Wilson (2008)"
-United States of America,1998,male,10.1,Jaeger (2003)
-United States of America,1998,female,11,Jaeger (2003)
-United States of America,2000,overall,13.4,Polachek (2008)
-United States of America,2000,globalAvgOverall,9,Polachek (2008)
+United States,1998,male,10.1,Jaeger (2003)
+United States,1998,female,11,Jaeger (2003)
+United States,2000,overall,13.4,Polachek (2008)
+United States,2000,globalAvgOverall,9,Polachek (2008)
 Uruguay,1989,male,9,Psacharopoulos (1994)
 Uruguay,1989,female,10.6,Psacharopoulos (1994)
 Uruguay,1990,overall,9.1,Kaboski (2003)
@@ -748,8 +741,13 @@ Vietnam,2014,primary,7.16,"Doan, Tuyen, and Quan (2016)"
 Vietnam,2014,secondary,5.033333333333333,"Doan, Tuyen, and Quan (2016)"
 Vietnam,2014,higher,14.042499999999997,"Doan, Tuyen, and Quan (2016)"
 Vietnam,2014,globalAvgOverall,9,"Doan, Tuyen, and Quan (2016)"
-Yugoslavia,1996,secondary,10.5,Newell and Reilly (1999)
-Yugoslavia,1996,higher,18,Newell and Reilly (1999)
+West Bank and Gaza,2011,overall,5.1,Rizk (2016)
+West Bank and Gaza,2011,primary,4.1,Rizk (2016)
+West Bank and Gaza,2011,secondary,6.5,Rizk (2016)
+West Bank and Gaza,2011,higher,7,Rizk (2016)
+West Bank and Gaza,2011,male,4.4,Rizk (2016)
+West Bank and Gaza,2011,female,7.3,Rizk (2016)
+West Bank and Gaza,2011,globalAvgOverall,9,Rizk (2016)
 Zambia,1995,overall,10.65,Banerjee and Duflo (2005)
 Zambia,1995,globalAvgOverall,9,Banerjee and Duflo (2005)
 Zimbabwe,1994,overall,5.57,Banerjee and Duflo (2005)

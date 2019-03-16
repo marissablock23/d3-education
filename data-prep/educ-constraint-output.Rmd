@@ -64,80 +64,8 @@ wdi %>%
 
 ```{r}
 # First, filter to get overall returns for most recent year in which data is available
-returns.ovr <- returns %>%
-  group_by(country) %>%
-  filter(!is.na(overall)) %>%
-  filter(year == max(year)) %>%
-  rename(year.return = "year", source.ovr = "source") %>%
-  select(country, year.return, overall, source.ovr) %>%
-  mutate(globalAvgOverall = 9)
-
-returns.prim <- returns %>%
-  group_by(country) %>%
-  filter(!is.na(primary)) %>%
-  filter(year == max(year)) %>%
-  rename(year.return = "year", source.prim = "source") %>%
-  select(country, year.return, primary, source.prim)
-
-returns.sec <- returns %>%
-  group_by(country) %>%
-  filter(!is.na(secondary)) %>%
-  filter(year == max(year)) %>%
-  rename(year.return = "year", source.sec = "source") %>%
-  select(country, year.return, secondary, source.sec)
-
-returns.high <- returns %>%
-  group_by(country) %>%
-  filter(!is.na(higher)) %>%
-  filter(year == max(year)) %>%
-  rename(year.return = "year", source.high = "source") %>%
-  select(country, year.return, higher, source.high)
-
-returns.male <- returns %>%
-  group_by(country) %>%
-  filter(!is.na(male)) %>%
-  filter(year == max(year)) %>%
-  rename(year.return = "year", source.male = "source") %>%
-  select(country, year.return, male, source.male)
-
-returns.female <- returns %>%
-  group_by(country) %>%
-  filter(!is.na(female)) %>%
-  filter(year == max(year)) %>%
-  rename(year.return = "year", source.female = "source") %>%
-  select(country, year.return, female, source.female)
-
-
-
 
   
-merge <- returns.ovr %>%
-  full_join(returns.prim) %>%
-  full_join(returns.sec) %>%
-  full_join(returns.high) %>%
-  full_join(returns.male) %>%
-  full_join(returns.female) %>%
-  gather("overall", "primary", "secondary", "higher", "male", "female", "globalAvgOverall", key = "type", value = "value") %>%
-  gather("source.ovr", "source.prim", "source.sec", "source.high", "source.male", "source.female", key = "source.type", value = "source") %>%
-  rename(year = "year.return") %>%
-  arrange(country, year) %>%
-  filter(!is.na(value)) %>%
-  filter(!is.na(source)) %>%
-  select(-source.type) %>%
-  unique() %>%
-  write_csv(path = "data/clean/returns2.csv")
-  
-  
-
-returns.ovr %>%
-  select(country, overall) %>%
-  arrange(overall) %>%
-  mutate(country2 = factor(country, levels = .$country)) %>%
-  ggplot(aes(country, overall)) +
-    geom_segment(aes(x = 0, xend = return, y = country2, yend = country2)) +
-    geom_point()
-  
-
 
 
 ```
@@ -159,6 +87,47 @@ wdi.time %>%
       x = "GDP per capita Growth",
       y = "Growth in Secondary School Enrollment Rate"
     )
+
+
+  ## Test 2
+    # Changes in GDP growth vs. Changes in Secondary School Enrollment Rates
+
+      
+      growth <- wdi.time %>%
+        group_by(country) %>%
+        mutate(secGrowth = (se.sec.enrr - lag(se.sec.enrr))/lag(se.sec.enrr))
+        
+        filter(country=="Bolivia") %>%
+        ggplot(aes(x = ny.gdp.pcap.kd.zg, y = secGrowth, label = year)) +
+          geom_point() +
+          geom_label(aes(label = year)) +
+          geom_segment(aes(xend=c(tail(ny.gdp.pcap.kd.zg, n = -1), NA),
+                           yend=c(tail(secGrowth, n = -1), NA)),
+                       arrow = arrow(length=unit(0.3, "cm")))
+      
+      # Line graph
+      labor %>%
+        group_by(country) %>%
+        mutate(intGrowth = (intermediate - lag(intermediate))/lag(intermediate)) %>%
+        full_join(growth) %>%
+        filter(country=="Afghanistan" & Sex=="Total" & Age=="15+") %>%
+        ggplot() +
+        geom_line(aes(x = as.numeric(year), y = intGrowth)) +
+        geom_line(aes(x = as.numeric(year), y = secGrowth))
+      
+      # Connected Scatter
+      labor %>%
+        group_by(country) %>%
+        mutate(intGrowth = (intermediate - lag(intermediate))/lag(intermediate)) %>%
+        full_join(growth) %>%
+        filter(country=="Ghana" & Sex=="Total" & Age=="15+") %>%
+        ggplot(aes(x = secGrowth, y = intGrowth, label = year)) +
+          geom_point() +
+          geom_label(aes(label = year)) +
+          geom_segment(aes(xend = c(tail(secGrowth, n = -1), NA),
+                           yend=c(tail(intGrowth, n = -1), NA)),
+                       arrow = arrow(length=unit(0.3, "cm")))
+      
   
 ```
 

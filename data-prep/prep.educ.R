@@ -2,6 +2,7 @@ library(tidyverse)
 library(readxl)
 library(here)
 library(jsonlite)
+library(fuzzyjoin)
 
 
 
@@ -107,7 +108,66 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
    labor$year <- as.factor(labor$year)
    
 
-### Export as JSON
+#################### Check for consistency in country names ####################
+returns.country <- returns %>%
+                    select(country, year) %>%
+                    group_by(country) %>%
+                    filter(year == max(year)) %>%
+                    unique()
+
+wdi.country <- wdi %>%
+                select(country, inc.grp, Region) %>%
+                unique()
+
+check <- wdi.country %>%
+  full_join(returns.country) %>%
+  rename(returns = "year") %>%
+  mutate(returns = if_else(is.na(returns), 0, 1)) %>%
+  write_csv(path = "data/check.csv")
+
+## Make name changes
+
+wdi$country[wdi$country == "Bahamas, The"] <- "Bahamas"
+wdi$country[wdi$country == "Bosnia and Herzegovina"] <- "Bosnia & Herzegovina"
+wdi$country[wdi$country == "Egypt, Arab Rep."] <- "Egypt"
+wdi$country[wdi$country == "Gambia, The"] <- "The Gambia"
+returns$country[returns$country == "Gambia"] <- "The Gambia"
+wdi$country[wdi$country == "Hong Kong SAR, China"] <- "Hong Kong"
+wdi$country[wdi$country == "Iran, Islamic Rep."] <- "Iran"
+wdi$country[wdi$country == "Korea, Rep."] <- "South Korea"
+returns$country[returns$country == "Korea"] <- "South Korea"
+returns$country[returns$country == "Kyrgyzstan"] <- "Kyrgyz Republic"
+wdi$country[wdi$country == "Russian Federation"] <- "Russia"
+returns$country[returns$country == "Slovakia"] <- "Slovak Republic"
+returns$country[returns$country == "United States of America"] <- "United States"
+wdi$country[wdi$country == "Venezuela, RB"] <- "Venezuela"
+wdi$country[wdi$country == "Yemen, Rep."] <- "Yemen"
+returns$country[returns$country == "Palestine"] <- "West Bank and Gaza"
+
+
+edstats$country[edstats$country == "Bahamas, The"] <- "Bahamas"
+edstats$country[edstats$country == "Bosnia and Herzegovina"] <- "Bosnia & Herzegovina"
+edstats$country[edstats$country == "Egypt, Arab Rep."] <- "Egypt"
+edstats$country[edstats$country == "Gambia, The"] <- "The Gambia"
+edstats$country[edstats$country == "Hong Kong SAR, China"] <- "Hong Kong"
+edstats$country[edstats$country == "Iran, Islamic Rep."] <- "Iran"
+edstats$country[edstats$country == "Korea, Rep."] <- "South Korea"
+edstats$country[edstats$country == "Russian Federation"] <- "Russia"
+edstats$country[edstats$country == "Venezuela, RB"] <- "Venezuela"
+edstats$country[edstats$country == "Yemen, Rep."] <- "Yemen"
+
+
+# Remove Yugoslavia from returns
+returns <- filter(returns, country!= "Yugoslavia")
+
+
+remove(check, wdi.country, returns.country)
+
+
+
+############################################################
+   
+##################### EXPORT DATA ##########################
 
   # Reverse Scatter Plot: GDP vs. Adult Literacy Rate, 2015
     # Countries where literacy rate is not missing
@@ -121,7 +181,9 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
       
       toJSON(pretty=TRUE) %>%
       write_json(path = "wdi.json")
-  
+
+###### EXPORT DIRECTLY TO FOLDER WHERE D3 PULLS DATA
+
   ## Benchmarking
       # Filter to 2010 years of schooling
       yrs <- edstats %>%
@@ -141,69 +203,96 @@ edstats <- read_csv("data/wb_edstats.csv", na = "..",
         rename(gdp = "ny.gdp.pcap.kd", cntrycode = "cntry.code", yrs = "bar.schl.15up", score = "hd.hci.hlos") %>%
         select(country, yrs, gdp, cntrycode, score) %>%
         mutate(gdp = log(gdp)) %>%
-        write_csv(path = "data/bench.csv")
+        write_csv(path = "../data/bench.csv")
       
   ## Test 1
     # Returns to schooling
-      write_csv(returns, path = "data/clean/returns.csv")
+      write_csv(returns, path = "../data/returns.csv")
       
-    
-  ## Test 2
-    # Changes in GDP growth vs. Changes in Secondary School Enrollment Rates
-      SE.SEC.ENRR
-      NY.GDP.MKTP.KD.ZG
-      
-      growth <- wdi.time %>%
+###################### FUNCTION ATTEMPT ###################### 
+disaggregate <- function(df, source, name, global, value) {
+    df %>%
+    group_by(country) %>%
+    filter(!is.na(name)) %>%
+    filter(year == max(year)) %>%
+    rename(year.return = "year", source = "source") %>%
+    select(country, year.return, name, source) %>%
+    mutate(global = value)
+}
+
+returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
+###############################################################
+
+# Create separate data frames of the most recent year of data available for each 
+# category: overall, primary, secondary, higher, male, and female. Include the global average.
+# Then, merge all together.
+  
+  # Overall      
+      returns.ovr <- returns %>%
         group_by(country) %>%
-        mutate(secGrowth = (se.sec.enrr - lag(se.sec.enrr))/lag(se.sec.enrr))
-        
-        filter(country=="Bolivia") %>%
-        ggplot(aes(x = ny.gdp.pcap.kd.zg, y = secGrowth, label = year)) +
-          geom_point() +
-          geom_label(aes(label = year)) +
-          geom_segment(aes(xend=c(tail(ny.gdp.pcap.kd.zg, n = -1), NA),
-                           yend=c(tail(secGrowth, n = -1), NA)),
-                       arrow = arrow(length=unit(0.3, "cm")))
-      
-      # Line graph
-      labor %>%
+        filter(!is.na(overall)) %>%
+        filter(year == max(year)) %>%
+        rename(year.return = "year", source.ovr = "source") %>%
+        select(country, year.return, overall, source.ovr) %>%
+        mutate(globalAvgOverall = 9)
+  
+  # Primary   
+      returns.prim <- returns %>%
         group_by(country) %>%
-        mutate(intGrowth = (intermediate - lag(intermediate))/lag(intermediate)) %>%
-        full_join(growth) %>%
-        filter(country=="Afghanistan" & Sex=="Total" & Age=="15+") %>%
-        ggplot() +
-        geom_line(aes(x = as.numeric(year), y = intGrowth)) +
-        geom_line(aes(x = as.numeric(year), y = secGrowth))
-      
-      # Connected Scatter
-      labor %>%
+        filter(!is.na(primary)) %>%
+        filter(year == max(year)) %>%
+        rename(year.return = "year", source.prim = "source") %>%
+        select(country, year.return, primary, source.prim)
+
+  # Secondary      
+      returns.sec <- returns %>%
         group_by(country) %>%
-        mutate(intGrowth = (intermediate - lag(intermediate))/lag(intermediate)) %>%
-        full_join(growth) %>%
-        filter(country=="Ghana" & Sex=="Total" & Age=="15+") %>%
-        ggplot(aes(x = secGrowth, y = intGrowth, label = year)) +
-          geom_point() +
-          geom_label(aes(label = year)) +
-          geom_segment(aes(xend = c(tail(secGrowth, n = -1), NA),
-                           yend=c(tail(intGrowth, n = -1), NA)),
-                       arrow = arrow(length=unit(0.3, "cm")))
-      
-      wdi.time %>%
+        filter(!is.na(secondary)) %>%
+        filter(year == max(year)) %>%
+        rename(year.return = "year", source.sec = "source") %>%
+        select(country, year.return, secondary, source.sec)
+
+  # Higher      
+      returns.high <- returns %>%
         group_by(country) %>%
-        mutate(secGrowth = (se.sec.enrr - lag(se.sec.enrr))/lag(se.sec.enrr)) %>%
-        filter(country=="Chile") %>%
-        ggplot(aes(x = ny.gdp.pcap.kd.zg, y = secGrowth, label = year)) +
-        geom_point() +
-        geom_label(aes(label = year)) +
-        geom_segment(aes(xend=c(tail(ny.gdp.pcap.kd.zg, n = -1), NA),
-                         yend=c(tail(secGrowth, n = -1), NA)),
-                     arrow = arrow(length=unit(0.3, "cm"))) +
-        labs(
-          x = "GDP per capita Growth",
-          y = "Growth in Secondary School Enrollment Rate"
-        )
-      
+        filter(!is.na(higher)) %>%
+        filter(year == max(year)) %>%
+        rename(year.return = "year", source.high = "source") %>%
+        select(country, year.return, higher, source.high)
+
+  # Male      
+      returns.male <- returns %>%
+        group_by(country) %>%
+        filter(!is.na(male)) %>%
+        filter(year == max(year)) %>%
+        rename(year.return = "year", source.male = "source") %>%
+        select(country, year.return, male, source.male)
+
+  # Female     
+      returns.female <- returns %>%
+        group_by(country) %>%
+        filter(!is.na(female)) %>%
+        filter(year == max(year)) %>%
+        rename(year.return = "year", source.female = "source") %>%
+        select(country, year.return, female, source.female)
+ 
+  # Merge 
+      merge <- returns.ovr %>%
+        full_join(returns.prim) %>%
+        full_join(returns.sec) %>%
+        full_join(returns.high) %>%
+        full_join(returns.male) %>%
+        full_join(returns.female) %>%
+        gather("overall", "primary", "secondary", "higher", "male", "female", "globalAvgOverall", key = "type", value = "value") %>%
+        gather("source.ovr", "source.prim", "source.sec", "source.high", "source.male", "source.female", key = "source.type", value = "source") %>%
+        rename(year = "year.return") %>%
+        arrange(country, year) %>%
+        filter(!is.na(value)) %>%
+        filter(!is.na(source)) %>%
+        select(-source.type) %>%
+        unique() %>%
+        write_csv(path = "../data/returns2.csv")
       
   
-  
+
   
