@@ -1,218 +1,218 @@
-country,yrs,gdp,cntrycode,score
-Afghanistan,3.85,6.427026807610951,AFG,355
-Albania,9.93,8.490478992838568,ALB,429
-Algeria,6.68,8.481603025608933,DZA,374
-American Samoa,NA,NA,ASM,NA
-Andorra,NA,10.690647211853024,AND,NA
-Angola,NA,8.156108399781145,AGO,326
-Antigua and Barbuda,NA,9.519174139369595,ATG,NA
-Argentina,9.51,9.249377651465856,ARG,424
-Armenia,10.73,8.347440762980606,ARM,443
-Aruba,NA,NA,ABW,NA
-Australia,11.54,10.931783448120333,AUS,524
-Austria,9.6,10.802209526926616,AUT,525
-Azerbaijan,NA,8.666498069574507,AZE,472
-Bahamas,NA,10.186368579646967,BHS,NA
-Bahrain,7.06,10.00385208470227,BHR,452
-Bangladesh,5.91,6.996726568263499,BGD,368
-Barbados,9.45,9.711326447251679,BRB,NA
-Belarus,NA,8.760267564145462,BLR,NA
-Belgium,10.69,10.738111054806893,BEL,519
-Belize,11.29,8.369904743258859,BLZ,NA
-Benin,4.43,6.756877371208201,BEN,384
-Bermuda,NA,NA,BMU,NA
-Bhutan,NA,7.991528380781279,BTN,NA
-Bolivia,8.25,7.8331222648647,BOL,NA
-Bosnia & Herzegovina,NA,8.623585006359146,BIH,461
-Botswana,9.55,8.92574902763027,BWA,391
-Brazil,7.89,9.295506766673993,BRA,408
-British Virgin Islands,NA,NA,VGB,NA
-Brunei Darussalam,8.74,10.355833820350504,BRN,NA
-Bulgaria,11.24,9.025447219332627,BGR,498
-Burkina Faso,NA,6.534564541895582,BFA,404
-Burundi,3.35,5.35916512640392,BDI,423
-Cabo Verde,NA,8.171021995578377,CPV,NA
-Cambodia,4.72,7.034521755600173,KHM,452
-Cameroon,6.15,7.315574011842136,CMR,379
-Canada,12.32,10.845755709810444,CAN,537
-Cayman Islands,NA,NA,CYM,NA
-Central African Republic,3.76,5.814208396234176,CAF,NA
-Chad,NA,6.713484483574896,TCD,333
-Channel Islands,NA,NA,CHI,NA
-Chile,9.78,9.619766301714598,CHL,466
-China,7.51,8.899606544205852,CHN,456
-Colombia,8.95,8.936003408615303,COL,424
-Comoros,NA,6.646299297123163,COM,392
-"Congo, Dem. Rep.",3.66,6.014002081943895,COD,318
-"Congo, Rep.",5.94,7.854146847496728,COG,371
-Costa Rica,7.97,9.189320563661846,CRI,430
-Cote d'Ivoire,4.65,7.3979765800419495,CIV,373
-Croatia,11.3,9.630357930008675,HRV,505
-Cuba,10.16,NA,CUB,NA
-Curacao,NA,NA,CUW,NA
-Cyprus,11.07,10.289860415872386,CYP,502
-Czech Republic,12.8,10.033607152208626,CZE,522
-Denmark,11.3,11.028127595737557,DNK,531
-Djibouti,NA,NA,DJI,NA
-Dominica,NA,8.788235352216057,DMA,NA
-Dominican Republic,7.85,8.875298132957564,DOM,350
-Ecuador,7.6,8.56971307161418,ECU,420
-Egypt,7.15,7.932136005804499,EGY,356
-El Salvador,7.77,8.150047499594667,SLV,362
-Equatorial Guinea,NA,9.348937371566064,GNQ,NA
-Eritrea,NA,NA,ERI,NA
-Estonia,12.11,9.851003781306735,EST,542
-Eswatini,5.06,8.272319455368898,SWZ,440
-Ethiopia,NA,6.309641644993923,ETH,359
-Faroe Islands,NA,NA,FRO,NA
-Fiji,9.96,8.37170170114751,FJI,NA
-Finland,11.62,10.759128067017272,FIN,548
-France,10.68,10.65885205407607,FRA,506
-French Polynesia,NA,NA,PYF,NA
-Gabon,8.39,9.152925884754808,GAB,456
-The Gambia,3.77,6.2809003626345055,GMB,338
-Georgia,NA,8.364081137070702,GEO,445
-Germany,12.37,10.752509478813185,DEU,528
-Ghana,7,7.503198988694482,GHA,307
-Gibraltar,NA,NA,GIB,NA
-Greece,10.3,10.044440674427227,GRC,474
-Greenland,NA,NA,GRL,NA
-Grenada,NA,9.100256771319751,GRD,NA
-Guam,NA,NA,GUM,NA
-Guatemala,4.57,8.046936845234331,GTM,405
-Guinea,NA,6.712865838365838,GIN,408
-Guinea-Bissau,NA,6.404607677309464,GNB,NA
-Guyana,8.79,8.261369074109432,GUY,346
-Haiti,5.11,6.591564539366422,HTI,345
-Honduras,6.19,7.701013496998169,HND,400
-Hong Kong,11.38,10.543422087813367,HKG,562
-Hungary,11.85,9.658088552470149,HUN,516
-Iceland,11.05,10.817976773076925,ISL,497
-India,6.24,7.582507464842136,IND,355
-Indonesia,7.61,8.326193272541854,IDN,403
-Iran,8.88,8.846044545761828,IRN,432
-Iraq,7.16,8.620820918964117,IRQ,363
-Ireland,12.03,11.217660792533813,IRL,538
-Isle of Man,NA,NA,IMN,NA
-Israel,12.32,10.438072834981579,ISR,503
-Italy,9.63,10.459606638142036,ITA,514
-Jamaica,9.87,8.475997897881454,JAM,387
-Japan,11.6,10.790492146231434,JPN,563
-Jordan,9.59,8.08278895849052,JOR,409
-Kazakhstan,11.33,9.292600061300575,KAZ,537
-Kenya,6.14,7.064197884864203,KEN,455
-Kiribati,NA,7.443308239636236,KIR,383
-"Korea, Dem. People’s Rep.",NA,NA,PRK,NA
-South Korea,12.05,10.171682125172103,KOR,563
-Kosovo,NA,8.310958397292476,XKX,375
-Kuwait,6.34,10.420661511795151,KWT,383
-Kyrgyz Republic,10.71,6.975716130325074,KGZ,420
-Lao PDR,5.02,7.4561106570899245,LAO,368
-Latvia,10.65,9.652029912236015,LVA,530
-Lebanon,NA,8.881507142585884,LBN,405
-Lesotho,5.85,7.250789473268128,LSO,393
-Liberia,4.2,5.864443212557937,LBR,332
-Libya,8,8.897630964972796,LBY,NA
-Liechtenstein,NA,NA,LIE,NA
-Lithuania,10.89,9.728732301472885,LTU,514
-Luxembourg,10.99,11.588638260066395,LUX,500
-"Macao SAR, China",8.54,10.931977816031734,MAC,545
-"Macedonia, FYR",NA,8.565099080240776,MKD,382
-Madagascar,NA,6.044747569129246,MDG,351
-Malawi,4.81,6.1871245109596416,MWI,359
-Malaysia,10.44,9.351966181793859,MYS,468
-Maldives,6.02,9.102758945481426,MDV,NA
-Mali,1.97,6.6362430596655,MLI,307
-Malta,10.52,10.208978005460693,MLT,474
-Marshall Islands,NA,8.147381882069029,MHL,NA
-Mauritania,4.53,7.174115428392119,MRT,342
-Mauritius,8.86,9.228774791371174,MUS,473
-Mexico,8.79,9.204941624376389,MEX,430
-"Micronesia, Fed. Sts.",NA,7.9597438556954625,FSM,NA
-Moldova,10.4,7.680247879960528,MDA,436
-Monaco,NA,NA,MCO,NA
-Mongolia,9.2,8.311666863869416,MNG,435
-Montenegro,NA,8.96353758699753,MNE,433
-Morocco,4.96,8.099385770840222,MAR,367
-Mozambique,1.93,6.251828499431743,MOZ,368
-Myanmar,4.85,7.3026316884257465,MMR,425
-Namibia,6.17,8.675027640582131,NAM,407
-Nauru,NA,9.170524308139505,NRU,NA
-Nepal,4.23,6.590850459252681,NPL,369
-Netherlands,11.39,10.889263941868322,NLD,530
-New Caledonia,NA,NA,NCL,NA
-New Zealand,10.98,10.541462176512718,NZL,517
-Nicaragua,6.61,7.609029321951957,NIC,392
-Niger,1.88,5.98125583675996,NER,305
-Nigeria,NA,7.78838152664453,NGA,325
-Northern Mariana Islands,NA,NA,MNP,NA
-Norway,11.59,11.421014304649361,NOR,512
-Oman,NA,9.689328966292019,OMN,424
-Pakistan,5.02,7.108672776430741,PAK,339
-Palau,NA,9.208661534357004,PLW,NA
-Panama,9.27,9.351256229516277,PAN,396
-Papua New Guinea,4.26,7.783878544267618,PNG,358
-Paraguay,7.57,8.270251182645062,PRY,386
-Peru,8.88,8.727890584005744,PER,407
-Philippines,8.43,7.969481874784174,PHL,409
-Poland,11.32,9.664673979806993,POL,537
-Portugal,7.52,10.048305359097506,PRT,520
-Puerto Rico,NA,NA,PRI,NA
-Qatar,8.43,11.092799212573636,QAT,432
-Romania,10.67,9.299479472094372,ROU,452
-Russia,11.53,9.344958975859434,RUS,538
-Rwanda,4.36,6.6401693303775975,RWA,358
-Samoa,NA,8.25609124119599,WSM,NA
-San Marino,NA,10.876768631826467,SMR,NA
-Sao Tome and Principe,NA,7.174434768702859,STP,NA
-Saudi Arabia,8.53,9.942531301008911,SAU,407
-Senegal,2.74,7.033579004074741,SEN,412
-Serbia,10.85,8.698227598309026,SRB,521
-Seychelles,NA,9.546604336697824,SYC,463
-Sierra Leone,4.23,6.136554873241231,SLE,316
-Singapore,10.81,10.919361374787558,SGP,581
-Sint Maarten (Dutch part),NA,NA,SXM,NA
-Slovak Republic,12.82,9.898331960632284,SVK,500
-Slovenia,11.89,10.152782745752885,SVN,532
-Solomon Islands,NA,7.3273167663851755,SLB,362
-Somalia,NA,NA,SOM,NA
-South Africa,9.69,8.92592112862216,ZAF,343
-South Sudan,NA,NA,SSD,336
-Spain,10.27,10.386091180301413,ESP,514
-Sri Lanka,10.06,8.25382538338098,LKA,400
-St. Kitts and Nevis,NA,9.666455478169386,KNA,NA
-St. Lucia,NA,9.054222833822372,LCA,NA
-St. Martin (French part),NA,NA,MAF,NA
-St. Vincent and the Grenadines,NA,8.816086245375834,VCT,NA
-Sudan,3.21,7.580267782662491,SDN,380
-Suriname,NA,8.992614881917138,SUR,NA
-Sweden,11.64,10.949668851998096,SWE,525
-Switzerland,13.02,11.247232438834478,CHE,524
-Syrian Arab Republic,6.7,NA,SYR,NA
-Tajikistan,10.3,6.923108993942906,TJK,444
-Tanzania,5.81,6.802975724188527,TZA,388
-Thailand,7.99,8.720241831871473,THA,436
-Timor-Leste,NA,7.890618872413011,TLS,371
-Togo,5.49,6.358504536105031,TGO,384
-Tonga,10.82,8.259019284150922,TON,376
-Trinidad and Tobago,10.63,9.63892616409659,TTO,458
-Tunisia,7.48,8.367291647147516,TUN,384
-Turkey,7.05,9.611346567894646,TUR,459
-Turkmenistan,NA,8.898030783985307,TKM,NA
-Turks and Caicos Islands,NA,NA,TCA,NA
-Tuvalu,NA,8.193546460107616,TUV,387
-Uganda,5.7,6.502198919616394,UGA,397
-Ukraine,11.15,8.003573438126738,UKR,490
-United Arab Emirates,9.07,10.626124814011902,ARE,451
-United Kingdom,12.24,10.657600178008282,GBR,517
-United States,13.18,10.880469533652713,USA,523
-Uruguay,8.17,9.572380184214108,URY,444
-Uzbekistan,NA,7.616307073928675,UZB,NA
-Vanuatu,NA,7.986001822067933,VUT,356
-Venezuela,8.41,NA,VEN,NA
-Vietnam,7.15,7.514609875826128,VNM,519
-Virgin Islands (U.S.),NA,NA,VIR,NA
-West Bank and Gaza,NA,7.821665987173464,PSE,412
-Yemen,3.68,NA,YEM,321
-Zambia,7.32,7.406190762153548,ZMB,358
-Zimbabwe,7.61,6.832383524858959,ZWE,396
+country,yrs,gdp,cntrycode,score,incgrp,Region
+Afghanistan,3.85,6.427026807610951,AFG,355,Low income,South Asia
+Albania,9.93,8.490478992838568,ALB,429,Upper middle income,Europe & Central Asia
+Algeria,6.68,8.481603025608933,DZA,374,Upper middle income,Middle East & North Africa
+American Samoa,NA,NA,ASM,NA,Upper middle income,East Asia & Pacific
+Andorra,NA,10.690647211853024,AND,NA,High income,Europe & Central Asia
+Angola,NA,8.156108399781145,AGO,326,Lower middle income,Sub-Saharan Africa
+Antigua and Barbuda,NA,9.519174139369595,ATG,NA,High income,Latin America & Caribbean
+Argentina,9.51,9.249377651465856,ARG,424,High income,Latin America & Caribbean
+Armenia,10.73,8.347440762980606,ARM,443,Upper middle income,Europe & Central Asia
+Aruba,NA,NA,ABW,NA,High income,Latin America & Caribbean
+Australia,11.54,10.931783448120333,AUS,524,High income,East Asia & Pacific
+Austria,9.6,10.802209526926616,AUT,525,High income,Europe & Central Asia
+Azerbaijan,NA,8.666498069574507,AZE,472,Upper middle income,Europe & Central Asia
+Bahamas,NA,10.186368579646967,BHS,NA,High income,Latin America & Caribbean
+Bahrain,7.06,10.00385208470227,BHR,452,High income,Middle East & North Africa
+Bangladesh,5.91,6.996726568263499,BGD,368,Lower middle income,South Asia
+Barbados,9.45,9.711326447251679,BRB,NA,High income,Latin America & Caribbean
+Belarus,NA,8.760267564145462,BLR,NA,Upper middle income,Europe & Central Asia
+Belgium,10.69,10.738111054806893,BEL,519,High income,Europe & Central Asia
+Belize,11.29,8.369904743258859,BLZ,NA,Upper middle income,Latin America & Caribbean
+Benin,4.43,6.756877371208201,BEN,384,Low income,Sub-Saharan Africa
+Bermuda,NA,NA,BMU,NA,High income,North America
+Bhutan,NA,7.991528380781279,BTN,NA,Lower middle income,South Asia
+Bolivia,8.25,7.8331222648647,BOL,NA,Lower middle income,Latin America & Caribbean
+Bosnia & Herzegovina,NA,8.623585006359146,BIH,461,Upper middle income,Europe & Central Asia
+Botswana,9.55,8.92574902763027,BWA,391,Upper middle income,Sub-Saharan Africa
+Brazil,7.89,9.295506766673993,BRA,408,Upper middle income,Latin America & Caribbean
+British Virgin Islands,NA,NA,VGB,NA,High income,Latin America & Caribbean
+Brunei Darussalam,8.74,10.355833820350504,BRN,NA,High income,East Asia & Pacific
+Bulgaria,11.24,9.025447219332627,BGR,498,Upper middle income,Europe & Central Asia
+Burkina Faso,NA,6.534564541895582,BFA,404,Low income,Sub-Saharan Africa
+Burundi,3.35,5.35916512640392,BDI,423,Low income,Sub-Saharan Africa
+Cabo Verde,NA,8.171021995578377,CPV,NA,Lower middle income,Sub-Saharan Africa
+Cambodia,4.72,7.034521755600173,KHM,452,Lower middle income,East Asia & Pacific
+Cameroon,6.15,7.315574011842136,CMR,379,Lower middle income,Sub-Saharan Africa
+Canada,12.32,10.845755709810444,CAN,537,High income,North America
+Cayman Islands,NA,NA,CYM,NA,High income,Latin America & Caribbean
+Central African Republic,3.76,5.814208396234176,CAF,NA,Low income,Sub-Saharan Africa
+Chad,NA,6.713484483574896,TCD,333,Low income,Sub-Saharan Africa
+Channel Islands,NA,NA,CHI,NA,High income,Europe & Central Asia
+Chile,9.78,9.619766301714598,CHL,466,High income,Latin America & Caribbean
+China,7.51,8.899606544205852,CHN,456,Upper middle income,East Asia & Pacific
+Colombia,8.95,8.936003408615303,COL,424,Upper middle income,Latin America & Caribbean
+Comoros,NA,6.646299297123163,COM,392,Low income,Sub-Saharan Africa
+"Congo, Dem. Rep.",3.66,6.014002081943895,COD,318,Low income,Sub-Saharan Africa
+"Congo, Rep.",5.94,7.854146847496728,COG,371,Lower middle income,Sub-Saharan Africa
+Costa Rica,7.97,9.189320563661846,CRI,430,Upper middle income,Latin America & Caribbean
+Cote d'Ivoire,4.65,7.3979765800419495,CIV,373,Lower middle income,Sub-Saharan Africa
+Croatia,11.3,9.630357930008675,HRV,505,High income,Europe & Central Asia
+Cuba,10.16,NA,CUB,NA,Upper middle income,Latin America & Caribbean
+Curacao,NA,NA,CUW,NA,High income,Latin America & Caribbean
+Cyprus,11.07,10.289860415872386,CYP,502,High income,Europe & Central Asia
+Czech Republic,12.8,10.033607152208626,CZE,522,High income,Europe & Central Asia
+Denmark,11.3,11.028127595737557,DNK,531,High income,Europe & Central Asia
+Djibouti,NA,NA,DJI,NA,Lower middle income,Middle East & North Africa
+Dominica,NA,8.788235352216057,DMA,NA,Upper middle income,Latin America & Caribbean
+Dominican Republic,7.85,8.875298132957564,DOM,350,Upper middle income,Latin America & Caribbean
+Ecuador,7.6,8.56971307161418,ECU,420,Upper middle income,Latin America & Caribbean
+Egypt,7.15,7.932136005804499,EGY,356,Lower middle income,Middle East & North Africa
+El Salvador,7.77,8.150047499594667,SLV,362,Lower middle income,Latin America & Caribbean
+Equatorial Guinea,NA,9.348937371566064,GNQ,NA,Upper middle income,Sub-Saharan Africa
+Eritrea,NA,NA,ERI,NA,Low income,Sub-Saharan Africa
+Estonia,12.11,9.851003781306735,EST,542,High income,Europe & Central Asia
+Eswatini,5.06,8.272319455368898,SWZ,440,Lower middle income,Sub-Saharan Africa
+Ethiopia,NA,6.309641644993923,ETH,359,Low income,Sub-Saharan Africa
+Faroe Islands,NA,NA,FRO,NA,High income,Europe & Central Asia
+Fiji,9.96,8.37170170114751,FJI,NA,Upper middle income,East Asia & Pacific
+Finland,11.62,10.759128067017272,FIN,548,High income,Europe & Central Asia
+France,10.68,10.65885205407607,FRA,506,High income,Europe & Central Asia
+French Polynesia,NA,NA,PYF,NA,High income,East Asia & Pacific
+Gabon,8.39,9.152925884754808,GAB,456,Upper middle income,Sub-Saharan Africa
+The Gambia,3.77,6.2809003626345055,GMB,338,Low income,Sub-Saharan Africa
+Georgia,NA,8.364081137070702,GEO,445,Lower middle income,Europe & Central Asia
+Germany,12.37,10.752509478813185,DEU,528,High income,Europe & Central Asia
+Ghana,7,7.503198988694482,GHA,307,Lower middle income,Sub-Saharan Africa
+Gibraltar,NA,NA,GIB,NA,High income,Europe & Central Asia
+Greece,10.3,10.044440674427227,GRC,474,High income,Europe & Central Asia
+Greenland,NA,NA,GRL,NA,High income,Europe & Central Asia
+Grenada,NA,9.100256771319751,GRD,NA,Upper middle income,Latin America & Caribbean
+Guam,NA,NA,GUM,NA,High income,East Asia & Pacific
+Guatemala,4.57,8.046936845234331,GTM,405,Upper middle income,Latin America & Caribbean
+Guinea,NA,6.712865838365838,GIN,408,Low income,Sub-Saharan Africa
+Guinea-Bissau,NA,6.404607677309464,GNB,NA,Low income,Sub-Saharan Africa
+Guyana,8.79,8.261369074109432,GUY,346,Upper middle income,Latin America & Caribbean
+Haiti,5.11,6.591564539366422,HTI,345,Low income,Latin America & Caribbean
+Honduras,6.19,7.701013496998169,HND,400,Lower middle income,Latin America & Caribbean
+Hong Kong,11.38,10.543422087813367,HKG,562,High income,East Asia & Pacific
+Hungary,11.85,9.658088552470149,HUN,516,High income,Europe & Central Asia
+Iceland,11.05,10.817976773076925,ISL,497,High income,Europe & Central Asia
+India,6.24,7.582507464842136,IND,355,Lower middle income,South Asia
+Indonesia,7.61,8.326193272541854,IDN,403,Lower middle income,East Asia & Pacific
+Iran,8.88,8.846044545761828,IRN,432,Upper middle income,Middle East & North Africa
+Iraq,7.16,8.620820918964117,IRQ,363,Upper middle income,Middle East & North Africa
+Ireland,12.03,11.217660792533813,IRL,538,High income,Europe & Central Asia
+Isle of Man,NA,NA,IMN,NA,High income,Europe & Central Asia
+Israel,12.32,10.438072834981579,ISR,503,High income,Middle East & North Africa
+Italy,9.63,10.459606638142036,ITA,514,High income,Europe & Central Asia
+Jamaica,9.87,8.475997897881454,JAM,387,Upper middle income,Latin America & Caribbean
+Japan,11.6,10.790492146231434,JPN,563,High income,East Asia & Pacific
+Jordan,9.59,8.08278895849052,JOR,409,Upper middle income,Middle East & North Africa
+Kazakhstan,11.33,9.292600061300575,KAZ,537,Upper middle income,Europe & Central Asia
+Kenya,6.14,7.064197884864203,KEN,455,Lower middle income,Sub-Saharan Africa
+Kiribati,NA,7.443308239636236,KIR,383,Lower middle income,East Asia & Pacific
+"Korea, Dem. People’s Rep.",NA,NA,PRK,NA,Low income,East Asia & Pacific
+South Korea,12.05,10.171682125172103,KOR,563,High income,East Asia & Pacific
+Kosovo,NA,8.310958397292476,XKX,375,Lower middle income,Europe & Central Asia
+Kuwait,6.34,10.420661511795151,KWT,383,High income,Middle East & North Africa
+Kyrgyz Republic,10.71,6.975716130325074,KGZ,420,Lower middle income,Europe & Central Asia
+Lao PDR,5.02,7.4561106570899245,LAO,368,Lower middle income,East Asia & Pacific
+Latvia,10.65,9.652029912236015,LVA,530,High income,Europe & Central Asia
+Lebanon,NA,8.881507142585884,LBN,405,Upper middle income,Middle East & North Africa
+Lesotho,5.85,7.250789473268128,LSO,393,Lower middle income,Sub-Saharan Africa
+Liberia,4.2,5.864443212557937,LBR,332,Low income,Sub-Saharan Africa
+Libya,8,8.897630964972796,LBY,NA,Upper middle income,Middle East & North Africa
+Liechtenstein,NA,NA,LIE,NA,High income,Europe & Central Asia
+Lithuania,10.89,9.728732301472885,LTU,514,High income,Europe & Central Asia
+Luxembourg,10.99,11.588638260066395,LUX,500,High income,Europe & Central Asia
+"Macao SAR, China",8.54,10.931977816031734,MAC,545,High income,East Asia & Pacific
+"Macedonia, FYR",NA,8.565099080240776,MKD,382,Upper middle income,Europe & Central Asia
+Madagascar,NA,6.044747569129246,MDG,351,Low income,Sub-Saharan Africa
+Malawi,4.81,6.1871245109596416,MWI,359,Low income,Sub-Saharan Africa
+Malaysia,10.44,9.351966181793859,MYS,468,Upper middle income,East Asia & Pacific
+Maldives,6.02,9.102758945481426,MDV,NA,Upper middle income,South Asia
+Mali,1.97,6.6362430596655,MLI,307,Low income,Sub-Saharan Africa
+Malta,10.52,10.208978005460693,MLT,474,High income,Middle East & North Africa
+Marshall Islands,NA,8.147381882069029,MHL,NA,Upper middle income,East Asia & Pacific
+Mauritania,4.53,7.174115428392119,MRT,342,Lower middle income,Sub-Saharan Africa
+Mauritius,8.86,9.228774791371174,MUS,473,Upper middle income,Sub-Saharan Africa
+Mexico,8.79,9.204941624376389,MEX,430,Upper middle income,Latin America & Caribbean
+"Micronesia, Fed. Sts.",NA,7.9597438556954625,FSM,NA,Lower middle income,East Asia & Pacific
+Moldova,10.4,7.680247879960528,MDA,436,Lower middle income,Europe & Central Asia
+Monaco,NA,NA,MCO,NA,High income,Europe & Central Asia
+Mongolia,9.2,8.311666863869416,MNG,435,Lower middle income,East Asia & Pacific
+Montenegro,NA,8.96353758699753,MNE,433,Upper middle income,Europe & Central Asia
+Morocco,4.96,8.099385770840222,MAR,367,Lower middle income,Middle East & North Africa
+Mozambique,1.93,6.251828499431743,MOZ,368,Low income,Sub-Saharan Africa
+Myanmar,4.85,7.3026316884257465,MMR,425,Lower middle income,East Asia & Pacific
+Namibia,6.17,8.675027640582131,NAM,407,Upper middle income,Sub-Saharan Africa
+Nauru,NA,9.170524308139505,NRU,NA,Upper middle income,East Asia & Pacific
+Nepal,4.23,6.590850459252681,NPL,369,Low income,South Asia
+Netherlands,11.39,10.889263941868322,NLD,530,High income,Europe & Central Asia
+New Caledonia,NA,NA,NCL,NA,High income,East Asia & Pacific
+New Zealand,10.98,10.541462176512718,NZL,517,High income,East Asia & Pacific
+Nicaragua,6.61,7.609029321951957,NIC,392,Lower middle income,Latin America & Caribbean
+Niger,1.88,5.98125583675996,NER,305,Low income,Sub-Saharan Africa
+Nigeria,NA,7.78838152664453,NGA,325,Lower middle income,Sub-Saharan Africa
+Northern Mariana Islands,NA,NA,MNP,NA,High income,East Asia & Pacific
+Norway,11.59,11.421014304649361,NOR,512,High income,Europe & Central Asia
+Oman,NA,9.689328966292019,OMN,424,High income,Middle East & North Africa
+Pakistan,5.02,7.108672776430741,PAK,339,Lower middle income,South Asia
+Palau,NA,9.208661534357004,PLW,NA,High income,East Asia & Pacific
+Panama,9.27,9.351256229516277,PAN,396,High income,Latin America & Caribbean
+Papua New Guinea,4.26,7.783878544267618,PNG,358,Lower middle income,East Asia & Pacific
+Paraguay,7.57,8.270251182645062,PRY,386,Upper middle income,Latin America & Caribbean
+Peru,8.88,8.727890584005744,PER,407,Upper middle income,Latin America & Caribbean
+Philippines,8.43,7.969481874784174,PHL,409,Lower middle income,East Asia & Pacific
+Poland,11.32,9.664673979806993,POL,537,High income,Europe & Central Asia
+Portugal,7.52,10.048305359097506,PRT,520,High income,Europe & Central Asia
+Puerto Rico,NA,NA,PRI,NA,High income,Latin America & Caribbean
+Qatar,8.43,11.092799212573636,QAT,432,High income,Middle East & North Africa
+Romania,10.67,9.299479472094372,ROU,452,Upper middle income,Europe & Central Asia
+Russia,11.53,9.344958975859434,RUS,538,Upper middle income,Europe & Central Asia
+Rwanda,4.36,6.6401693303775975,RWA,358,Low income,Sub-Saharan Africa
+Samoa,NA,8.25609124119599,WSM,NA,Upper middle income,East Asia & Pacific
+San Marino,NA,10.876768631826467,SMR,NA,High income,Europe & Central Asia
+Sao Tome and Principe,NA,7.174434768702859,STP,NA,Lower middle income,Sub-Saharan Africa
+Saudi Arabia,8.53,9.942531301008911,SAU,407,High income,Middle East & North Africa
+Senegal,2.74,7.033579004074741,SEN,412,Low income,Sub-Saharan Africa
+Serbia,10.85,8.698227598309026,SRB,521,Upper middle income,Europe & Central Asia
+Seychelles,NA,9.546604336697824,SYC,463,High income,Sub-Saharan Africa
+Sierra Leone,4.23,6.136554873241231,SLE,316,Low income,Sub-Saharan Africa
+Singapore,10.81,10.919361374787558,SGP,581,High income,East Asia & Pacific
+Sint Maarten (Dutch part),NA,NA,SXM,NA,High income,Latin America & Caribbean
+Slovak Republic,12.82,9.898331960632284,SVK,500,High income,Europe & Central Asia
+Slovenia,11.89,10.152782745752885,SVN,532,High income,Europe & Central Asia
+Solomon Islands,NA,7.3273167663851755,SLB,362,Lower middle income,East Asia & Pacific
+Somalia,NA,NA,SOM,NA,Low income,Sub-Saharan Africa
+South Africa,9.69,8.92592112862216,ZAF,343,Upper middle income,Sub-Saharan Africa
+South Sudan,NA,NA,SSD,336,Low income,Sub-Saharan Africa
+Spain,10.27,10.386091180301413,ESP,514,High income,Europe & Central Asia
+Sri Lanka,10.06,8.25382538338098,LKA,400,Lower middle income,South Asia
+St. Kitts and Nevis,NA,9.666455478169386,KNA,NA,High income,Latin America & Caribbean
+St. Lucia,NA,9.054222833822372,LCA,NA,Upper middle income,Latin America & Caribbean
+St. Martin (French part),NA,NA,MAF,NA,High income,Latin America & Caribbean
+St. Vincent and the Grenadines,NA,8.816086245375834,VCT,NA,Upper middle income,Latin America & Caribbean
+Sudan,3.21,7.580267782662491,SDN,380,Lower middle income,Sub-Saharan Africa
+Suriname,NA,8.992614881917138,SUR,NA,Upper middle income,Latin America & Caribbean
+Sweden,11.64,10.949668851998096,SWE,525,High income,Europe & Central Asia
+Switzerland,13.02,11.247232438834478,CHE,524,High income,Europe & Central Asia
+Syrian Arab Republic,6.7,NA,SYR,NA,Low income,Middle East & North Africa
+Tajikistan,10.3,6.923108993942906,TJK,444,Low income,Europe & Central Asia
+Tanzania,5.81,6.802975724188527,TZA,388,Low income,Sub-Saharan Africa
+Thailand,7.99,8.720241831871473,THA,436,Upper middle income,East Asia & Pacific
+Timor-Leste,NA,7.890618872413011,TLS,371,Lower middle income,East Asia & Pacific
+Togo,5.49,6.358504536105031,TGO,384,Low income,Sub-Saharan Africa
+Tonga,10.82,8.259019284150922,TON,376,Upper middle income,East Asia & Pacific
+Trinidad and Tobago,10.63,9.63892616409659,TTO,458,High income,Latin America & Caribbean
+Tunisia,7.48,8.367291647147516,TUN,384,Lower middle income,Middle East & North Africa
+Turkey,7.05,9.611346567894646,TUR,459,Upper middle income,Europe & Central Asia
+Turkmenistan,NA,8.898030783985307,TKM,NA,Upper middle income,Europe & Central Asia
+Turks and Caicos Islands,NA,NA,TCA,NA,High income,Latin America & Caribbean
+Tuvalu,NA,8.193546460107616,TUV,387,Upper middle income,East Asia & Pacific
+Uganda,5.7,6.502198919616394,UGA,397,Low income,Sub-Saharan Africa
+Ukraine,11.15,8.003573438126738,UKR,490,Lower middle income,Europe & Central Asia
+United Arab Emirates,9.07,10.626124814011902,ARE,451,High income,Middle East & North Africa
+United Kingdom,12.24,10.657600178008282,GBR,517,High income,Europe & Central Asia
+United States,13.18,10.880469533652713,USA,523,High income,North America
+Uruguay,8.17,9.572380184214108,URY,444,High income,Latin America & Caribbean
+Uzbekistan,NA,7.616307073928675,UZB,NA,Lower middle income,Europe & Central Asia
+Vanuatu,NA,7.986001822067933,VUT,356,Lower middle income,East Asia & Pacific
+Venezuela,8.41,NA,VEN,NA,Upper middle income,Latin America & Caribbean
+Vietnam,7.15,7.514609875826128,VNM,519,Lower middle income,East Asia & Pacific
+Virgin Islands (U.S.),NA,NA,VIR,NA,High income,Latin America & Caribbean
+West Bank and Gaza,NA,7.821665987173464,PSE,412,Lower middle income,Middle East & North Africa
+Yemen,3.68,NA,YEM,321,Low income,Middle East & North Africa
+Zambia,7.32,7.406190762153548,ZMB,358,Lower middle income,Sub-Saharan Africa
+Zimbabwe,7.61,6.832383524858959,ZWE,396,Low income,Sub-Saharan Africa

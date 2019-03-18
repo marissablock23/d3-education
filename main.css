@@ -1,72 +1,130 @@
+
 body {
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+}
 
 .container {
-  margin-top: 50px; }
+  margin-top: 50px; 
+}
 
 .row {
-  margin-top: 25px; }
+  margin-top: 25px;
+}
+
+
 
 h1.title {
   font-size: 22px;
-  font-family: "Avenir Next"; }
+  font-family: "Avenir Next";
+}
 
-svg {
+svg{
   flex-direction: row;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+}
 
 h2.subtitle {
   font-size: 18px;
-  font-family: "Avenir Next"; }
+  font-family: "Avenir Next";
+}
 
 .text {
   font-family: "Avenir Next";
   font-size: 16px;
-  color: black; }
+  color: black;
+}
 
 p, ol, li {
   font-family: "Avenir Next";
-  font-size: 14px;
-  line-height: 27px;
-  letter-spacing: 1.1px; }
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: 1.1px;
+}
 
 .score-note, .yrs-note {
-  display: none; }
+  display: none;
+}
 
 .note-visible {
   display: block !important;
-  fill: firebrick; }
+  fill: firebrick;
+}
 
 .title {
   font-weight: bold;
   font-size: 18px;
   justify-content: center;
-  color: black; }
+  color: black;
+}
 
 .label, .sourcelabel {
   font-family: "Avenir Next";
-  font-size: 12px; }
+  font-size: 12px;
+}
 
-.subtitle {
+
+.subtitle{
   font-style: italic;
-  font-size: 12px; }
+  font-size: 12px;
+}
 
 .source {
-  font-size: 8px; }
+  font-size: 8px;
+}
+
 
 .bar {
-  fill: #69b3a2; }
+  fill: #69b3a2;
+}
 
 .dot {
   fill: #bfb5b2;
-  opacity: .45; }
+  opacity: .45;
+}
 
-.selected-dot {
-  fill: #69b3a2 !important; }
+.selected-dot{
+  fill: #69b3a2 !important;
+}
+
+.comparator-dot {
+  fill: #5e3c58 !important;
+  opacity: 1;
+}
+
 
 .line {
   fill: none;
   stroke: teal;
-  stroke-width: 0.5; }
+  stroke-width: 0.5;
+}
+
+.country-input {
+  width: 40%;
+}
+
+.sticky-search {
+  position: fixed !important;
+  top: 0;
+  background: #2e4045;
+  width: 100%;
+  left: 0;
+  height: 75px;
+  padding: 1.5% 11%;
+  z-index: 10;
+  transition: background .7s ease-in;
+}
+
+.sticky-search + .row {
+  padding-top: 60px;
+}
+
+h6.stickyTitle {
+  color: #fefefe;
+  font-style: italic;
+  font-family: "Avenir Next";
+  margin-left: 15%;
+  display: none;
+}
+

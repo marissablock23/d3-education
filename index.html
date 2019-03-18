@@ -11,7 +11,8 @@
 <body>
 
 <div class="container">
-<h1 class = "text title"> Is Education a Binding Constraint to Economic Growth? </h1>
+
+    <h1 class = "text title"> Is Education a Binding Constraint to Economic Growth? </h1>
     <p> The purpose of this tool is to analyze human capital and determine if it is a binding constraint to economic growth, using the growth diagnostics methodology <a href="https://growthlab.cid.harvard.edu/publications/growth-diagnostics-0"> (Hausmann, Rodrik, and Velasco, 2005)</a>. Economic growth requires private investment and entrepreneurship. Growth may be constrained due to low returns to economic activities or a high cost of finance. Furthermore, low returns may be a result of low appropriability, meaning investments are profitable, but investors cannot access those reuturns, or returns are low due to low social returns. Education, and human capital more broadly, falls under the branch of low social returns. A full analysis requires an investigation into all branches of the growth diagnostic tree.</p>
     
     <h2 class = "text subtitle"> What is a binding constraint? </h2>
@@ -28,11 +29,10 @@
     This tool aims to explain what a binding constraint in education might look like, while enabling the user to explore a particular country of interest.
     </p>
 
-    <div class="dropdown">
-      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Select Country
-      </button>
-      <div class="dropdown-menu" id="countryDD" aria-labelledby="dropdownMenuButton"></div>
+    <div id="stickyDropdown" class="dropdown">
+        <input id="selectedInput" type="text" class="country-input" list="countryDD" autocomplete="on" placeholder="Select a country">
+        <datalist id="countryDD"></datalist>
+        <h6 class="stickyTitle">Is Education a Binding Constraint to Economic Growth?</h6>
     </div>
 
     <div class="row">
@@ -48,20 +48,40 @@
         <br><br><br><br>
 
         <h2 class = "text subtitle"> Test 1: Are returns to schooling high? </h2>
-        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <p> If education is supply constrained relative to demand, we might expect to see a high returns to schooling. Depending on the country of interest, we may think of supply in a number of ways: number of secondary school graduates or number of graduates with technical degrees. </p>
 
-         <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
+        <p> In a recent review of the literature on returns to schooling, <a href="http://documents.worldbank.org/curated/en/442521523465644318/pdf/WPS8402.pdf"> Psacharopoulos and Patrinos (2018)</a> highlight the latest trends and patterns. The following should be kept in mind, when analyzing your country of interest: </p>
+        <ul>
+          <li> The private average global rate of return to one extra year of schooling is 9 percent. This value is very stable over decades. </li>
+          <li> Private returns to higher education have increased over time. </li>
+          <li> Women experience higher average returns. </li>
+          <li> Returns to schooling are generally higher in low-income countries. </li>
+        </ul>
           <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 
       </div>
       <div class="col-sm">
-        <div class="benchmark-container"></div>
+        <div class="benchmark-container">
+          <div class="checkbox"> 
+            Show regional comparators
+            <input id="regional" type="checkbox">
+          </div>
+          <div class="checkbox">
+            Show income group comparators
+            <input type="checkbox" id="incgrp">
+          </div>
+        </div>
         <div class="barchart-container"></div>
-        <div class="lollipop-container"></div>
+        <div class="lollipop-container">
+          <div class="checkbox-lollipop">
+            Show global averages
+            <input type="checkbox" id="global">
+          </div>
+        </div>
       </div>
     </div>
   </div>
+
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

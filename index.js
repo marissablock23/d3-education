@@ -13,6 +13,10 @@
   .then(data => myVis(data));
 
 function createBenchmark(data, xVar, yVar, addedParams){
+  d3.selectAll('.checkbox')
+    .style('opacity', '.4');
+  document.getElementById('regional').disabled = true;
+
   const margin = {top: 50, right: 50, bottom: 50, left: 50},
   width = 600 - margin.left - margin.right,
   height = 600 - margin.top - margin.bottom;
@@ -172,28 +176,141 @@ function createBenchmark(data, xVar, yVar, addedParams){
 
   svg.selectAll('circle')
     .on('click', (data) => {
-      const filteredSelection = addedParams[0].filter(d => d.country === data.country && d.overall)
-                                        .sort((a, b) => a.year - b.year);
-        createBar(filteredSelection);
-
-        const filteredCross = addedParams[1].filter(d => d.country === data.country && d.value)
-                                        .sort((a, b) => a.year - b.year);
-
-        // const filteredSelectionDotQuantity = list[2].filter(data => data.country === country)
-        
-        // const filteredSelectionDotQuality = list[3].filter(data => data.country === country)
-
-        updateBenchmark(data.country);
-
-        createLollipopChart(filteredCross);
-
+      triggerAllCharts(addedParams, data.country);
     })
+
     .on('mouseover', mouseOverIn)
     .on('mouseout', mouseOverOut);
+
+  let regionChecked = false;
+  let incomeChecked = false;
+
+  d3.select('#regional')
+    .on('change', () => {
+      regionChecked = !regionChecked;
+        toggleComparators(addedParams, 'region', regionChecked, incomeChecked)
+    });
+
+  d3.select('#incgrp')
+    .on('change', () => {
+      incomeChecked = !incomeChecked;
+      toggleComparators(addedParams, 'incgrp', regionChecked, incomeChecked)
+    });
+
 }
 
+function toggleComparators(data, type, regionChecked, incomeChecked){
+
+  if(!regionChecked && !incomeChecked){
+    d3.selectAll('.comparator-dot')
+      .classed('comparator-dot', false);
+    return;
+  }
+
+  const selectedCountry = d3.selectAll('.selected-dot').data();
+  const countryName = selectedCountry[0].country;
+  const selectedIncgrp = (selectedCountry[0] && selectedCountry[0]['incgrp']) ? selectedCountry[0]['incgrp'] : null;
+  const selectedRegion = (selectedCountry[0] && selectedCountry[0]['region']) ? selectedCountry[0]['region'] : null;
+
+  let filteredYrs;
+  let filteredScore;
+
+  selectedCountry.forEach(selected => {
+    // IF REGION GOT CHECKED AND INCOME GROUP IS ALREADY CHECKED
+    if(type === 'region' && regionChecked === true && incomeChecked === true){
+      console.log('Region: true (checked), Income: true');
+      if(selected.yrs){
+        filteredYrs = data[2].filter(d => (d.region === selectedRegion) && (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      }
+      if(selected.score) {
+        filteredScore = data[3].filter(d => (d.region === selectedRegion) && (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      }
+    // IF REGION GOT CHECKED AND INCOME GROUP IS NOT CHECKED
+    } else if(type === 'region' && regionChecked === true && incomeChecked === false){
+      console.log('Region: true (checked), Income: false');
+      if(selected.yrs){
+        filteredYrs = data[2].filter(d => (d.region === selectedRegion) && d.country !== countryName);
+      }
+      
+      if(selected.score) {
+        filteredScore = data[3].filter(d => (d.region === selectedRegion) && d.country !== countryName);
+      }
+    }
+
+    // IF INCOME GROUP GOT CHECKED AND REGION IS ALREADY CHECKED
+    if(type === 'incgrp' && incomeChecked === true && regionChecked === true){
+      console.log('Region: true, Income: true (checked)');
+      if (selected.yrs) {
+        filteredYrs = data[2].filter(d => (d.region === selectedRegion) && (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      } 
+      
+      if(selected.score) {
+        filteredScore = data[3].filter(d => (d.region === selectedRegion) && (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      } 
+    // IF INCOME GROUP GOT CHECKED AND REGION IS NOT CHECKED
+    } else if(type === 'incgrp' && incomeChecked === true && regionChecked === false){
+      console.log('Region: false, Income: true (checked)');
+      if (selected.yrs) {
+        filteredYrs = data[2].filter(d => (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      }
+
+      if(selected.score) {
+        filteredScore = data[3].filter(d => (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      }
+    }
+
+    // IF REGION GOT UNCHECKED AND INCOME GROUP IS ALREADY CHECKED
+    if(type === 'region' && regionChecked === false && incomeChecked === true){
+      console.log('Region: false (unchecked), Income: true');
+      if(selected.yrs){
+        filteredYrs = data[2].filter(d =>  (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      }
+
+      if(selected.score) {
+        filteredScore = data[3].filter(d => (d.incgrp === selectedIncgrp) && d.country !== countryName);
+      }
+    // IF INCOME GROUP GOT UNCHECKED AND REGION IS ALREADY CHECKED
+    } else if(type === 'incgrp' && incomeChecked === false && regionChecked === true){
+      console.log('Region: true, Income: false (unchecked)');
+      if(selected.yrs){
+        filteredYrs = data[2].filter(d => (d.region === selectedRegion) && d.country !== countryName);
+      }
+
+      if(selected.score) {
+        filteredScore = data[3].filter(d => (d.region === selectedRegion) && d.country !== countryName);
+      } 
+    }
+
+  });
+
+  d3.selectAll('.dot')
+    .classed('comparator-dot', d => {
+      if(filteredYrs){
+        if(d.yrs){
+          if (filteredYrs.find(yrsObj => yrsObj === d)) {
+            return true;
+          }
+        }
+      }
+
+      if(filteredScore){
+        if(d.score){
+          if (filteredScore.find(scoresObj => scoresObj === d)) {
+            return true;
+          }
+        }
+      }
+    });
+  
+}
+
+// function removeComparators
+
 function createBar(data) {
-  console.log(data);
+
+  if(data.length < 1){
+    return;
+  }
 
   const width = 700;
   const height = 500;
@@ -245,8 +362,6 @@ function createBar(data) {
     .attr("height", height)
     .attr("width", width);
 
-  // const barWidth = (width - padding) / (xMaxBar - xMinBar);
-
   // Map data to bars + use scales to map to variables
   const bars = svgbar.selectAll("rect")
     .data(selectedCountry)
@@ -257,12 +372,23 @@ function createBar(data) {
       return xScaleBar(d.year) + padding;
       })
     .attr("y", (d) => {
-      return yScaleBar(d.overall);
+      return yScaleBar(0);
       })
     .attr("width", xScaleBar.bandwidth())
     .attr("height", (d) => {
-      return yScaleBar(0) - yScaleBar(d.overall);
+      return yScaleBar(0) - yScaleBar(0);
     });
+
+  svgbar.selectAll('rect')
+    .transition()
+    .duration(2500)
+    .attr("y", (d) => {
+      return yScaleBar(d.overall);
+    })
+    .attr("height", (d) => {
+      return yScaleBar(0) - yScaleBar(d.overall);
+    })
+
 
   // g groups together all elements of axis - ticks, values, etc.
   svgbar.append("g")
@@ -317,10 +443,14 @@ function createBar(data) {
 // Inspiration: https://www.d3-graph-gallery.com/graph/lollipop_horizontal.html
 // https://bl.ocks.org/tlfrd/e1ddc3d0289215224a69405f5e538f51
 function createLollipopChart(data) {
+  if(data.length < 1){
+    return;
+  }
+
   // set the dimensions and margins of the graph
-  const margin = {top: 60, right: 30, bottom: 40, left: 90},
-      width = 600 - margin.left - margin.right,
-      height = 600 - margin.top - margin.bottom;
+  const margin = {top: 80, right: 20, bottom: 40, left: 100},
+      width = 500 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
 
   d3.selectAll('svg.lollipop').remove();
 
@@ -395,7 +525,8 @@ function createLollipopChart(data) {
       .remove();
   }
 
-  // TRANSITION ATTEMPT
+  // TRANSITION
+  // Lines and circles start at 0 on y axis
   svg.selectAll(".line")
     .data(data)
     .enter()
@@ -419,44 +550,16 @@ function createLollipopChart(data) {
       .on('mouseover', mouseOverIn)
       .on('mouseout', mouseOverOut);
 
-
+  // Transition circles and lines to their positions given by the data
   svg.selectAll('circle')
       .transition()
       .duration(3000)
       .attr("cx", function(d) { return x(d.value); });
 
-
   svg.selectAll('.line')
       .transition()
       .duration(3000)
       .attr("x1", function(d) { return x(d.value); });
-
-  //////////////////////////////
-
-  // Lines
-  // svg.selectAll(".line")
-  //   .data(data)
-  //   .enter()
-  //   .append("line")
-  //     .attr('class', 'line')
-  //     .attr("x1", function(d) { return x(d.value); })
-  //     .attr("x2", x(0))
-  //     .attr("y1", function(d) { return y(d.type); })
-  //     .attr("y2", function(d) { return y(d.type); })
-  //     .attr("stroke", "grey");
-
-  // // Circles
-  // svg.selectAll("circle")
-  //   .data(data)
-  //   .enter()
-  //   .append("circle")
-  //     .attr("cx", function(d) { return x(d.value); })
-  //     .attr("cy", function(d) { return y(d.type); })
-  //     .attr("r", "4")
-  //     .style("fill", "#69b3a2")
-  //     .attr("stroke", "black")
-  //     .on('mouseover', mouseOverIn)
-  //     .on('mouseout', mouseOverOut);
 
   // Title
   svg.append('text')
@@ -464,7 +567,7 @@ function createLollipopChart(data) {
     .attr('y', 0)
     .attr('x', width/2)
     .style('text-anchor', 'middle')
-    .text('Disaggregated Returns to Schooling, most recent year');
+    .text('Disaggregated Returns to Schooling, most recent year: ' + data[0].country);
 
   // x Axis Title
   svg.append('text')
@@ -482,9 +585,53 @@ function createLollipopChart(data) {
     .style('text-anchor', 'right')
     .text('Source: Psacharopoulos & Patrinos, 2018');
 
+ 
+  // // Define global averages
+  // const globalAverages = [
+  // {type: "overall", value: 8.8},
+  // {type: "primary", value: 7.8},
+  // {type: "secondary", value: 10.5},
+  // {type: "higher", value: 12.9},
+  // {type: "male", value: 7.9},
+  // {type: "female", value: 9.6}
+  // ]; 
+  
+  // d3.selectAll('circle')
+  //   .on('click', addGlobalAverages(data, globalAverages));
+
+
 }
 
+
+// function addGlobalAverages(olddata, newdata) {
+  
+//       // Merge data sets
+//       const update = olddata.push(newdata);
+//       console.log(olddata)
+
+//       // Select circles and add new data
+//       const circles = svg.lollipop.selectAll('circle')
+//           .data(update);
+
+//       circles.enter()
+//           .append('circle')
+//           .attr('cx', x(0))
+//           .attr('cy', function(d) { return y(d.type); })
+//           .attr('r', '4')
+//           .style('fill', '#69b3a2')
+//           .attr('stroke', 'black')
+//           .merge(circles)
+//           .transition()
+//           .duration(1000)
+//           .attr('cx', function(d) { return x(d.value); })
+
+
+// }
+
 function updateBenchmark(country) {
+  d3.selectAll('.checkbox')
+    .style('opacity', '1');
+  document.getElementById('regional').disabled = false;
 
   d3.selectAll('.selected-dot').remove();
 
@@ -541,48 +688,55 @@ function updateBenchmark(country) {
       .classed('note-visible', false);
   }
 
+  // document.getElementById('region').value = false;
+  // document.getElementById('incgrp').value = false;
+  d3.selectAll('.comparator-dot')
+    .classed('comparator-dot', false);
+
 }
 
 function createDropdown(list){
-  // console.log(list);
 // Reference for how to remove duplicate items from array:
 // https://stackoverflow.com/questions/1960473/get-all-unique-values-in-a-javascript-array-remove-duplicates
-  const countries = list[0].map(l => l.country);
+  const countries = [ list[2].map(l => l.country), list[3].map(l => l.country) ].flat();
+
   const uniqueCountries = countries.filter(function(country, index, arr) {
     return arr.indexOf(country) === index;
   });
 
   d3.select('#countryDD')
-    .selectAll('a')
+    .selectAll('option')
     .data(uniqueCountries)
-    .enter()
-    .append('a')
-      .attr('class', 'dropdown-item')
-      // .attr('href', '#')
-      .on('click', (country) => {
-        const filteredSelection = list[0].filter(data => data.country === country && data.overall)
-                                        .sort((a, b) => a.year - b.year);
-        createBar(filteredSelection);
+    .join('option')
+    .attr('value', d => d);
 
-        const filteredCross = list[1].filter(data => data.country === country && data.value)
-                                        .sort((a, b) => a.year - b.year);
+  d3.select('#selectedInput')
+    .on('change', () => {
+      const selectedInput = document.getElementById('selectedInput').value;
+      triggerAllCharts(list, selectedInput);
+    });
+}
 
-        // const filteredSelectionDotQuantity = list[2].filter(data => data.country === country)
-        
-        // const filteredSelectionDotQuality = list[3].filter(data => data.country === country)
+function triggerAllCharts(list, country) {
+  if(!country){
+    clearCharts();
+  }
+  const filteredSelection = list[0].filter(data => data.country === country && data.overall)
+                                .sort((a, b) => a.year - b.year);
+ 
+  const filteredCross = list[1].filter(data => data.country === country && data.value)
+                                  .sort((a, b) => a.year - b.year);
 
-        updateBenchmark(country);
+  createBar(filteredSelection);
+  updateBenchmark(country);
+  createLollipopChart(filteredCross);
 
-        createLollipopChart(filteredCross);
+}
 
-        // const filteredOverall = filteredSelection.filter(data => data.overall)
-        //                                           .sort((a, b) => a.year - b.year);
-        // const workingData = [filteredOverall, filteredSelection];
-      })
-      .append('text')
-      .text(country => country);
-
-
+function clearCharts() {
+  d3.selectAll('svg.lollipop').remove();
+  d3.selectAll('svg.bar').remove();
+  d3.selectAll('.selected-dot').remove();
 }
 
 
@@ -594,7 +748,9 @@ function myVis(d) {
     return {
       gdp: +data.gdp,
       yrs: +data.yrs,
-      country: data.country
+      country: data.country,
+      incgrp: data.incgrp,
+      region: data.Region
     };
   });
 
@@ -602,7 +758,9 @@ function myVis(d) {
     return {
       gdp: +data.gdp,
       score: +data.score,
-      country: data.country
+      country: data.country,
+      incgrp: data.incgrp,
+      region: data.Region
     };
   });
 
@@ -610,11 +768,7 @@ function myVis(d) {
     return {
       country: data.country,
       overall: +data.overall,
-      // primary: +data.primary,
-      // secondary: +data.secondary,
-      // higher: +data.higher,
-      // male: +data.male,
-      // female: +data.female,
+
       year: parseDate(data.year)
     };
   });
@@ -629,22 +783,38 @@ function myVis(d) {
     };
   });
 
-  const inputArray = [returnsData, returnsCrossData];
-
-  // const returnsPrimData = d[3].map(data => {
-  //   return {
-  //     country: data.country,
-  //     primary: +data.primary,
-  //     year: parseDate(data.year)
-  //   };
-  // });
+  const inputArray = [returnsData, returnsCrossData, quantityData, qualityData];
 
   createBenchmark(quantityData, 'gdp', 'yrs', inputArray);
   createBenchmark(qualityData, 'gdp', 'score', inputArray);
-  // createBar(returnsData, 'overall', 'year', 'Bolivia');
 
   createDropdown(inputArray);
-  // createDropdown(returnsPrimData, 'primary');
+  console.log(quantityData);
+
+ // https://www.w3schools.com/howto/howto_js_navbar_sticky.asp
+  // Get the navbar
+  const search = document.getElementById('stickyDropdown');
+  const stickyTitle = document.getElementsByClassName('stickyTitle');
+
+  // Get the offset position of the navbar
+  let sticky = search.offsetTop;
+
+  // When the user scrolls the page, execute setSticky 
+  window.onscroll = function() {setSticky()};
+
+  // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+  function setSticky() {
+    console.log(sticky);
+    console.log(window.pageYOffset);
+
+    if (window.pageYOffset >= sticky) {
+      console.log('should stick!')
+      search.classList.add("sticky-search")
+      stickyTitle[0].style.display = 'inline';
+    } else {
+      console.log('should unstick')
+      search.classList.remove("sticky-search");
+      stickyTitle[0].style.display = 'none';
+    }
+  }
 }
-
-
