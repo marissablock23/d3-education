@@ -234,8 +234,8 @@ returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
         filter(!is.na(overall)) %>%
         filter(year == max(year)) %>%
         rename(year.return = "year", source.ovr = "source") %>%
-        select(country, year.return, overall, source.ovr) %>%
-        mutate(`Overall Average` = 8.8)
+        select(country, year.return, overall, source.ovr)
+        #mutate(`Overall Average` = 8.8)
   
   # Primary   
       returns.prim <- returns %>%
@@ -243,8 +243,8 @@ returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
         filter(!is.na(primary)) %>%
         filter(year == max(year)) %>%
         rename(year.return = "year", source.prim = "source") %>%
-        select(country, year.return, primary, source.prim) %>%
-        mutate(`Primary Average` = 7.8)
+        select(country, year.return, primary, source.prim)
+        #mutate(`Primary Average` = 7.8)
 
   # Secondary      
       returns.sec <- returns %>%
@@ -252,8 +252,8 @@ returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
         filter(!is.na(secondary)) %>%
         filter(year == max(year)) %>%
         rename(year.return = "year", source.sec = "source") %>%
-        select(country, year.return, secondary, source.sec) %>%
-        mutate(`Secondary Average` = 10.5)
+        select(country, year.return, secondary, source.sec)
+        #mutate(`Secondary Average` = 10.5)
 
   # Higher      
       returns.high <- returns %>%
@@ -261,8 +261,8 @@ returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
         filter(!is.na(higher)) %>%
         filter(year == max(year)) %>%
         rename(year.return = "year", source.high = "source") %>%
-        select(country, year.return, higher, source.high) %>%
-        mutate(`Higher Average` = 12.9)
+        select(country, year.return, higher, source.high)
+        #mutate(`Higher Average` = 12.9)
 
   # Male      
       returns.male <- returns %>%
@@ -270,8 +270,8 @@ returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
         filter(!is.na(male)) %>%
         filter(year == max(year)) %>%
         rename(year.return = "year", source.male = "source") %>%
-        select(country, year.return, male, source.male) %>%
-        mutate(`Male Average` = 7.9)
+        select(country, year.return, male, source.male)
+        #mutate(`Male Average` = 7.9)
 
   # Female     
       returns.female <- returns %>%
@@ -279,8 +279,8 @@ returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
         filter(!is.na(female)) %>%
         filter(year == max(year)) %>%
         rename(year.return = "year", source.female = "source") %>%
-        select(country, year.return, female, source.female) %>%
-        mutate(`Female Average` = 9.6)
+        select(country, year.return, female, source.female)
+        #mutate(`Female Average` = 9.6)
  
   # Merge 
       merge <- returns.ovr %>%
@@ -289,8 +289,7 @@ returns.ovr <- disaggregate(returns, source.ovr, overall, globalAvgOverall, 9)
         full_join(returns.high) %>%
         full_join(returns.male) %>%
         full_join(returns.female) %>%
-        gather("overall", "primary", "secondary", "higher", "male", "female", "Overall Average", "Primary Average", "Secondary Average",
-               "Higher Average", "Male Average", "Female Average", key = "type", value = "value") %>%
+        gather("overall", "primary", "secondary", "higher", "male", "female", key = "type", value = "value") %>%
         gather("source.ovr", "source.prim", "source.sec", "source.high", "source.male", "source.female", key = "source.type", value = "source") %>%
         rename(year = "year.return") %>%
         arrange(country, year) %>%

@@ -1,46 +1,25 @@
 country,year,type,value,source
 Albania,2004,primary,1.5,"Peet, Fink and Fawzi (2015)"
 Albania,2004,secondary,3.3,"Peet, Fink and Fawzi (2015)"
-Albania,2004,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Albania,2004,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
 Albania,2012,overall,8.049999999999999,Miluka (2015)
 Albania,2012,higher,9.975000000000001,Miluka (2015)
 Albania,2012,male,5.9,Miluka (2015)
 Albania,2012,female,10.19,Miluka (2015)
-Albania,2012,Overall Average,8.8,Miluka (2015)
-Albania,2012,Higher Average,12.9,Miluka (2015)
-Albania,2012,Male Average,7.9,Miluka (2015)
-Albania,2012,Female Average,9.6,Miluka (2015)
 Algeria,2001,overall,2.2,Arbak (2012)
-Algeria,2001,Overall Average,8.8,Arbak (2012)
 Argentina,2002,primary,10.6,"Giovagnoli, Fiszbein and Patrinos (2005)"
 Argentina,2002,secondary,9.2,"Giovagnoli, Fiszbein and Patrinos (2005)"
 Argentina,2002,higher,13.8,"Giovagnoli, Fiszbein and Patrinos (2005)"
 Argentina,2002,male,12,"Giovagnoli, Fiszbein and Patrinos (2005)"
 Argentina,2002,female,10.8,"Giovagnoli, Fiszbein and Patrinos (2005)"
-Argentina,2002,Primary Average,7.8,"Giovagnoli, Fiszbein and Patrinos (2005)"
-Argentina,2002,Secondary Average,10.5,"Giovagnoli, Fiszbein and Patrinos (2005)"
-Argentina,2002,Higher Average,12.9,"Giovagnoli, Fiszbein and Patrinos (2005)"
-Argentina,2002,Male Average,7.9,"Giovagnoli, Fiszbein and Patrinos (2005)"
-Argentina,2002,Female Average,9.6,"Giovagnoli, Fiszbein and Patrinos (2005)"
 Argentina,2003,overall,11,Lopez Boo (2010)
-Argentina,2003,Overall Average,8.8,Lopez Boo (2010)
 Australia,1985,male,5.1,"Trostel, Walker and Woolley (2002); Rummery, Vella and Verbeek (1999)"
 Australia,1985,female,5.2,"Trostel, Walker and Woolley (2002); Rummery, Vella and Verbeek (1999)"
-Australia,1985,Male Average,7.9,"Trostel, Walker and Woolley (2002); Rummery, Vella and Verbeek (1999)"
-Australia,1985,Female Average,9.6,"Trostel, Walker and Woolley (2002); Rummery, Vella and Verbeek (1999)"
 Australia,2010,overall,8.3,Mariotti and Meinecke (2011)
-Australia,2010,Overall Average,8.8,Mariotti and Meinecke (2011)
 Austria,1981,secondary,11.3,Hofer and Pichelmann (1997)
 Austria,1981,higher,4.2,Hofer and Pichelmann (1997)
-Austria,1981,Secondary Average,10.5,Hofer and Pichelmann (1997)
-Austria,1981,Higher Average,12.9,Hofer and Pichelmann (1997)
 Austria,1997,male,6.6,Fersterer and Winter-Ebmer (2003)
 Austria,1997,female,6.6,Fersterer and Winter-Ebmer (2003)
-Austria,1997,Male Average,7.9,Fersterer and Winter-Ebmer (2003)
-Austria,1997,Female Average,9.6,Fersterer and Winter-Ebmer (2003)
 Austria,2008,overall,6.5,Glocker and Steiner (2011)
-Austria,2008,Overall Average,8.8,Glocker and Steiner (2011)
 Azerbaijan,1995,overall,3.7,"Peet, Fink and Fawzi (2015)"
 Azerbaijan,1995,primary,5.5,"Peet, Fink and Fawzi (2015)"
 Azerbaijan,1995,secondary,4.2,"Peet, Fink and Fawzi (2015)"
@@ -48,128 +27,64 @@ Azerbaijan,1995,higher,13.8,"Peet, Fink and Fawzi (2015)"
 Azerbaijan,1995,higher,4,"Peet, Fink and Fawzi (2015)"
 Azerbaijan,1995,male,3.8,"Peet, Fink and Fawzi (2015)"
 Azerbaijan,1995,female,4.5,"Peet, Fink and Fawzi (2015)"
-Azerbaijan,1995,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Azerbaijan,1995,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Azerbaijan,1995,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Azerbaijan,1995,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Azerbaijan,1995,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Azerbaijan,1995,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Azerbaijan,1995,overall,3.7,Newell and Reilly (1999)
 Azerbaijan,1995,primary,5.5,Newell and Reilly (1999)
 Azerbaijan,1995,secondary,4.2,Newell and Reilly (1999)
 Azerbaijan,1995,higher,13.8,Newell and Reilly (1999)
 Azerbaijan,1995,male,3.8,Newell and Reilly (1999)
 Azerbaijan,1995,female,4.5,Newell and Reilly (1999)
-Azerbaijan,1995,Overall Average,8.8,Newell and Reilly (1999)
-Azerbaijan,1995,Primary Average,7.8,Newell and Reilly (1999)
-Azerbaijan,1995,Secondary Average,10.5,Newell and Reilly (1999)
-Azerbaijan,1995,Higher Average,12.9,Newell and Reilly (1999)
-Azerbaijan,1995,Male Average,7.9,Newell and Reilly (1999)
-Azerbaijan,1995,Female Average,9.6,Newell and Reilly (1999)
 Bangladesh,1999,male,6.2,Asadullah (2006)
 Bangladesh,1999,female,13.2,Asadullah (2006)
-Bangladesh,1999,Male Average,7.9,Asadullah (2006)
-Bangladesh,1999,Female Average,9.6,Asadullah (2006)
 Bangladesh,2006,overall,10,Taposh and Lin (2009)
-Bangladesh,2006,Overall Average,8.8,Taposh and Lin (2009)
 Barbados,1999,secondary,4.8,Griffith (2001)
 Barbados,1999,higher,12.5,Griffith (2001)
-Barbados,1999,Secondary Average,10.5,Griffith (2001)
-Barbados,1999,Higher Average,12.9,Griffith (2001)
 Belarus,2001,primary,0.025,Pastore and Verashchagina (2006)
 Belarus,2001,secondary,0.04285714285714286,Pastore and Verashchagina (2006)
 Belarus,2001,higher,0.11600000000000002,Pastore and Verashchagina (2006)
 Belarus,2001,male,9.4,Pastore and Verashchagina (2006)
 Belarus,2001,female,11.7,Pastore and Verashchagina (2006)
-Belarus,2001,Primary Average,7.8,Pastore and Verashchagina (2006)
-Belarus,2001,Secondary Average,10.5,Pastore and Verashchagina (2006)
-Belarus,2001,Higher Average,12.9,Pastore and Verashchagina (2006)
-Belarus,2001,Male Average,7.9,Pastore and Verashchagina (2006)
-Belarus,2001,Female Average,9.6,Pastore and Verashchagina (2006)
 Belarus,2002,overall,6.9,"Yemtsov, Cnobloch, Mete (2006)"
-Belarus,2002,Overall Average,8.8,"Yemtsov, Cnobloch, Mete (2006)"
 Belgium,1992,secondary,2,Nonneman and Cortens (1997)
 Belgium,1992,higher,3.4,Nonneman and Cortens (1997)
-Belgium,1992,Secondary Average,10.5,Nonneman and Cortens (1997)
-Belgium,1992,Higher Average,12.9,Nonneman and Cortens (1997)
 Belgium,1997,overall,9.6,Psacharopoulos (1994)
-Belgium,1997,Overall Average,8.8,Psacharopoulos (1994)
 Belize,2005,overall,10,Hausman and Klinger (2007)
-Belize,2005,Overall Average,8.8,Hausman and Klinger (2007)
 Bolivia,1989,male,7.3,Psacharopoulos (1994)
 Bolivia,1989,female,7.7,Psacharopoulos (1994)
-Bolivia,1989,Male Average,7.9,Psacharopoulos (1994)
-Bolivia,1989,Female Average,9.6,Psacharopoulos (1994)
 Bolivia,1990,primary,19,Psacharopoulos and Mattson (1998)
 Bolivia,1990,secondary,8,Psacharopoulos and Mattson (1998)
 Bolivia,1990,higher,18,Psacharopoulos and Mattson (1998)
-Bolivia,1990,Primary Average,7.8,Psacharopoulos and Mattson (1998)
-Bolivia,1990,Secondary Average,10.5,Psacharopoulos and Mattson (1998)
-Bolivia,1990,Higher Average,12.9,Psacharopoulos and Mattson (1998)
 Bolivia,2002,overall,10.3,"Patrinos, Ridao and Sakellariou (2009)"
-Bolivia,2002,Overall Average,8.8,"Patrinos, Ridao and Sakellariou (2009)"
 Bosnia & Herzegovina,2002,overall,8.1,"Peet, Fink and Fawzi (2015)"
 Bosnia & Herzegovina,2002,primary,12.5,"Peet, Fink and Fawzi (2015)"
 Bosnia & Herzegovina,2002,secondary,6.4,"Peet, Fink and Fawzi (2015)"
 Bosnia & Herzegovina,2002,higher,8.1,"Peet, Fink and Fawzi (2015)"
 Bosnia & Herzegovina,2002,male,6.7,"Peet, Fink and Fawzi (2015)"
 Bosnia & Herzegovina,2002,female,11.1,"Peet, Fink and Fawzi (2015)"
-Bosnia & Herzegovina,2002,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Bosnia & Herzegovina,2002,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Bosnia & Herzegovina,2002,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Bosnia & Herzegovina,2002,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Bosnia & Herzegovina,2002,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Bosnia & Herzegovina,2002,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Botswana,1994,primary,20,Siphambe (2000)
 Botswana,1994,secondary,40,Siphambe (2000)
 Botswana,1994,higher,5,Siphambe (2000)
-Botswana,1994,Primary Average,7.8,Siphambe (2000)
-Botswana,1994,Secondary Average,10.5,Siphambe (2000)
-Botswana,1994,Higher Average,12.9,Siphambe (2000)
 Botswana,1995,overall,16,Siphambe (2000)
-Botswana,1995,Overall Average,8.8,Siphambe (2000)
 Botswana,2004,male,15.4,Siphambe (2008)
 Botswana,2004,female,15.2,Siphambe (2008)
-Botswana,2004,Male Average,7.9,Siphambe (2008)
-Botswana,2004,Female Average,9.6,Siphambe (2008)
 Brazil,1997,primary,10.8,"Peet, Fink and Fawzi (2015)"
 Brazil,1997,secondary,8.8,"Peet, Fink and Fawzi (2015)"
 Brazil,1997,higher,12.6,"Peet, Fink and Fawzi (2015)"
 Brazil,1997,male,10.8,"Peet, Fink and Fawzi (2015)"
 Brazil,1997,female,11.6,"Peet, Fink and Fawzi (2015)"
-Brazil,1997,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Brazil,1997,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Brazil,1997,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Brazil,1997,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Brazil,1997,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Brazil,2001,overall,15.7,"Patrinos, Ridao and Sakellariou (2009)"
-Brazil,2001,Overall Average,8.8,"Patrinos, Ridao and Sakellariou (2009)"
 Bulgaria,1999,primary,5.3,"Peet, Fink and Fawzi (2015)"
 Bulgaria,1999,secondary,4.9,"Peet, Fink and Fawzi (2015)"
 Bulgaria,1999,higher,4.6,"Peet, Fink and Fawzi (2015)"
 Bulgaria,1999,male,6.7,"Peet, Fink and Fawzi (2015)"
 Bulgaria,1999,female,11.1,"Peet, Fink and Fawzi (2015)"
-Bulgaria,1999,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Bulgaria,1999,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Bulgaria,1999,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Bulgaria,1999,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Bulgaria,1999,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Bulgaria,2003,overall,6.7,"Flabbi, Paternostro and Tiongson (2008)"
-Bulgaria,2003,Overall Average,8.8,"Flabbi, Paternostro and Tiongson (2008)"
 Burkina Faso,1980,overall,9.6,Psacharopoulos (1994)
-Burkina Faso,1980,Overall Average,8.8,Psacharopoulos (1994)
 Burkina Faso,1994,primary,9.9,Kazianga (2004)
 Burkina Faso,1994,secondary,16.4,Kazianga (2004)
 Burkina Faso,1994,higher,11.4,Kazianga (2004)
-Burkina Faso,1994,Primary Average,7.8,Kazianga (2004)
-Burkina Faso,1994,Secondary Average,10.5,Kazianga (2004)
-Burkina Faso,1994,Higher Average,12.9,Kazianga (2004)
 Burundi,2006,primary,11,Barouni and Broecke (2014)
 Burundi,2006,secondary,18,Barouni and Broecke (2014)
 Burundi,2006,higher,28,Barouni and Broecke (2014)
-Burundi,2006,Primary Average,7.8,Barouni and Broecke (2014)
-Burundi,2006,Secondary Average,10.5,Barouni and Broecke (2014)
-Burundi,2006,Higher Average,12.9,Barouni and Broecke (2014)
 Cambodia,2007,overall,8.5,Lall (2008)
 Cambodia,2007,overall,6.699999999999999,Lall and Sakellariou (2010)
 Cambodia,2007,primary,3.6750000000000007,Lall (2008)
@@ -182,65 +97,30 @@ Cambodia,2007,male,6.6,Lall (2008)
 Cambodia,2007,male,6.6,Lall and Sakellariou (2010)
 Cambodia,2007,female,6.8,Lall (2008)
 Cambodia,2007,female,6.8,Lall and Sakellariou (2010)
-Cambodia,2007,Overall Average,8.8,Lall (2008)
-Cambodia,2007,Overall Average,8.8,Lall and Sakellariou (2010)
-Cambodia,2007,Primary Average,7.8,Lall (2008)
-Cambodia,2007,Primary Average,7.8,Lall and Sakellariou (2010)
-Cambodia,2007,Secondary Average,10.5,Lall (2008)
-Cambodia,2007,Secondary Average,10.5,Lall and Sakellariou (2010)
-Cambodia,2007,Higher Average,12.9,Lall (2008)
-Cambodia,2007,Higher Average,12.9,Lall and Sakellariou (2010)
-Cambodia,2007,Male Average,7.9,Lall (2008)
-Cambodia,2007,Male Average,7.9,Lall and Sakellariou (2010)
-Cambodia,2007,Female Average,9.6,Lall (2008)
-Cambodia,2007,Female Average,9.6,Lall and Sakellariou (2010)
 Cambodia,2007,overall,8.5,Lall and Sakellariou (2010)
 Cameroon,1994,primary,5.2,Amin and Awung (2005)
 Cameroon,1994,secondary,26.3,Amin and Awung (2005)
 Cameroon,1994,higher,27.2,Amin and Awung (2005)
-Cameroon,1994,Primary Average,7.8,Amin and Awung (2005)
-Cameroon,1994,Secondary Average,10.5,Amin and Awung (2005)
-Cameroon,1994,Higher Average,12.9,Amin and Awung (2005)
 Cameroon,1995,overall,5.96,Banerjee and Duflo (2005)
-Cameroon,1995,Overall Average,8.8,Banerjee and Duflo (2005)
 Canada,1989,male,8.9,Psacharopoulos and Patrinos (2004)
-Canada,1989,Male Average,7.9,Psacharopoulos and Patrinos (2004)
 Canada,2001,overall,11,Taposh and Lin (2009)
-Canada,2001,Overall Average,8.8,Taposh and Lin (2009)
 Chile,1982,primary,27.8,Riveros (1990)
 Chile,1982,secondary,11.2,Riveros (1990)
 Chile,1982,higher,10.1,Riveros (1990)
-Chile,1982,Primary Average,7.8,Riveros (1990)
-Chile,1982,Secondary Average,10.5,Riveros (1990)
-Chile,1982,Higher Average,12.9,Riveros (1990)
 Chile,1989,male,12.1,Psacharopoulos (1994)
 Chile,1989,female,13.2,Psacharopoulos (1994)
-Chile,1989,Male Average,7.9,Psacharopoulos (1994)
-Chile,1989,Female Average,9.6,Psacharopoulos (1994)
 Chile,2003,overall,12,"Patrinos, Ridao and Sakellariou (2009)"
-Chile,2003,Overall Average,8.8,"Patrinos, Ridao and Sakellariou (2009)"
 China,2001,secondary,7.133333333333333,Zhang et al (2005)
 China,2001,higher,9.325,Zhang et al (2005)
-China,2001,Secondary Average,10.5,Zhang et al (2005)
-China,2001,Higher Average,12.9,Zhang et al (2005)
 China,2002,male,7.5,Xiu and Gunderson (2013)
 China,2002,female,8.8,Xiu and Gunderson (2013)
-China,2002,Male Average,7.9,Xiu and Gunderson (2013)
-China,2002,Female Average,9.6,Xiu and Gunderson (2013)
 China,2009,overall,10.33,"Ding, Yang, and Ha (2013)"
-China,2009,Overall Average,8.8,"Ding, Yang, and Ha (2013)"
 Colombia,2014,overall,11.3,Tenjo et al. (2015)
 Colombia,2014,male,10.5,Tenjo et al. (2015)
 Colombia,2014,female,12.2,Tenjo et al. (2015)
-Colombia,2014,Overall Average,8.8,Tenjo et al. (2015)
-Colombia,2014,Male Average,7.9,Tenjo et al. (2015)
-Colombia,2014,Female Average,9.6,Tenjo et al. (2015)
 Costa Rica,1989,male,10.5,Psacharopoulos (1994)
 Costa Rica,1989,female,13.5,Psacharopoulos (1994)
-Costa Rica,1989,Male Average,7.9,Psacharopoulos (1994)
-Costa Rica,1989,Female Average,9.6,Psacharopoulos (1994)
 Costa Rica,1992,overall,8.5,Banerjee and Duflo (2005)
-Costa Rica,1992,Overall Average,8.8,Banerjee and Duflo (2005)
 Cote d'Ivoire,1987,overall,13.1,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
 Cote d'Ivoire,1987,overall,6.8,"Peet, Fink and Fawzi (2015)"
 Cote d'Ivoire,1987,primary,26.3,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
@@ -263,18 +143,6 @@ Cote d'Ivoire,1987,female,12.1,Psacharopoulos and Patrinos (2004); Banerjee and 
 Cote d'Ivoire,1987,female,10.1,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
 Cote d'Ivoire,1987,female,12.1,"Peet, Fink and Fawzi (2015)"
 Cote d'Ivoire,1987,female,10.1,"Peet, Fink and Fawzi (2015)"
-Cote d'Ivoire,1987,Overall Average,8.8,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
-Cote d'Ivoire,1987,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Cote d'Ivoire,1987,Primary Average,7.8,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
-Cote d'Ivoire,1987,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Cote d'Ivoire,1987,Secondary Average,10.5,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
-Cote d'Ivoire,1987,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Cote d'Ivoire,1987,Higher Average,12.9,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
-Cote d'Ivoire,1987,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Cote d'Ivoire,1987,Male Average,7.9,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
-Cote d'Ivoire,1987,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Cote d'Ivoire,1987,Female Average,9.6,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
-Cote d'Ivoire,1987,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Cote d'Ivoire,1987,overall,13.1,"Peet, Fink and Fawzi (2015)"
 Cote d'Ivoire,1987,overall,13.1,Schultz (2004)
 Cote d'Ivoire,1987,overall,6.8,Schultz (2004)
@@ -287,164 +155,83 @@ Cote d'Ivoire,1987,male,13.6,Schultz (2004)
 Cote d'Ivoire,1987,male,5.7,Schultz (2004)
 Cote d'Ivoire,1987,female,12.1,Schultz (2004)
 Cote d'Ivoire,1987,female,10.1,Schultz (2004)
-Cote d'Ivoire,1987,Overall Average,8.8,Schultz (2004)
-Cote d'Ivoire,1987,Primary Average,7.8,Schultz (2004)
-Cote d'Ivoire,1987,Secondary Average,10.5,Schultz (2004)
-Cote d'Ivoire,1987,Higher Average,12.9,Schultz (2004)
-Cote d'Ivoire,1987,Male Average,7.9,Schultz (2004)
-Cote d'Ivoire,1987,Female Average,9.6,Schultz (2004)
 Cote d'Ivoire,1987,primary,26.3,Schultz (2004)
 Cote d'Ivoire,1987,overall,6.8,Psacharopoulos and Patrinos (2004); Banerjee and Duflo (2005)
 Croatia,2001,overall,10.1,Sosic (2013)
-Croatia,2001,Overall Average,8.8,Sosic (2013)
 Croatia,2004,male,6.2,Vujcic and Sosic (2009)
 Croatia,2004,female,7.8,Vujcic and Sosic (2009)
-Croatia,2004,Male Average,7.9,Vujcic and Sosic (2009)
-Croatia,2004,Female Average,9.6,Vujcic and Sosic (2009)
 Curacao,2001,higher,15,de Bruijn (2010)
-Curacao,2001,Higher Average,12.9,de Bruijn (2010)
 Cyprus,1984,male,8.9,Psacharopoulos (1994)
 Cyprus,1984,female,12.7,Psacharopoulos (1994)
-Cyprus,1984,Male Average,7.9,Psacharopoulos (1994)
-Cyprus,1984,Female Average,9.6,Psacharopoulos (1994)
 Cyprus,1994,overall,5.2,Banerjee and Duflo (2005)
-Cyprus,1994,Overall Average,8.8,Banerjee and Duflo (2005)
 Czech Republic,1996,female,9.4,Vecernik (2001)
-Czech Republic,1996,Female Average,9.6,Vecernik (2001)
 Czech Republic,1997,higher,11.05,"Filer, Jurajda, Planovsky (1999)"
 Czech Republic,1997,male,9,"Filer, Jurajda, Planovsky (1999)"
-Czech Republic,1997,Higher Average,12.9,"Filer, Jurajda, Planovsky (1999)"
-Czech Republic,1997,Male Average,7.9,"Filer, Jurajda, Planovsky (1999)"
 Czech Republic,2002,overall,6.6,"Flabbi, Paternostro and Tiongson (2007)"
-Czech Republic,2002,Overall Average,8.8,"Flabbi, Paternostro and Tiongson (2007)"
 Denmark,1995,male,6.4,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Denmark,1995,female,4.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Denmark,1995,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Denmark,1995,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Denmark,1997,overall,12.4,Polachek (2008)
-Denmark,1997,Overall Average,8.8,Polachek (2008)
 Djibouti,1996,overall,11.6,Anos-Casero and Seshan (2006)
 Djibouti,1996,primary,10,Anos-Casero and Seshan (2006)
 Djibouti,1996,secondary,10.8,Anos-Casero and Seshan (2006)
 Djibouti,1996,higher,8.9,Anos-Casero and Seshan (2006)
-Djibouti,1996,Overall Average,8.8,Anos-Casero and Seshan (2006)
-Djibouti,1996,Primary Average,7.8,Anos-Casero and Seshan (2006)
-Djibouti,1996,Secondary Average,10.5,Anos-Casero and Seshan (2006)
-Djibouti,1996,Higher Average,12.9,Anos-Casero and Seshan (2006)
 Dominica,1999,primary,15.1,Reilly and Bellony (2009)
 Dominica,1999,secondary,10.98,Reilly and Bellony (2009)
 Dominica,1999,higher,15.1,Reilly and Bellony (2009)
-Dominica,1999,Primary Average,7.8,Reilly and Bellony (2009)
-Dominica,1999,Secondary Average,10.5,Reilly and Bellony (2009)
-Dominica,1999,Higher Average,12.9,Reilly and Bellony (2009)
 Dominican Republic,1989,male,7.8,Psacharopoulos (1994)
 Dominican Republic,1989,female,12,Psacharopoulos (1994)
-Dominican Republic,1989,Male Average,7.9,Psacharopoulos (1994)
-Dominican Republic,1989,Female Average,9.6,Psacharopoulos (1994)
 Dominican Republic,1995,overall,9.4,Kaboski (2003)
-Dominican Republic,1995,Overall Average,8.8,Kaboski (2003)
 Dominican Republic,2003,secondary,7,World Bank (2005)
 Dominican Republic,2003,higher,15,World Bank (2005)
-Dominican Republic,2003,Secondary Average,10.5,World Bank (2005)
-Dominican Republic,2003,Higher Average,12.9,World Bank (2005)
 Ecuador,2002,overall,6.5,"Peet, Fink and Fawzi (2015)"
 Ecuador,2002,primary,6.6,"Peet, Fink and Fawzi (2015)"
 Ecuador,2002,secondary,6.3,"Peet, Fink and Fawzi (2015)"
 Ecuador,2002,higher,6.7,"Peet, Fink and Fawzi (2015)"
 Ecuador,2002,male,5.9,"Peet, Fink and Fawzi (2015)"
 Ecuador,2002,female,7.6,"Peet, Fink and Fawzi (2015)"
-Ecuador,2002,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Ecuador,2002,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Ecuador,2002,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Ecuador,2002,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Ecuador,2002,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Ecuador,2002,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Egypt,2011,overall,3.4,Rizk (2016)
 Egypt,2011,primary,2.1,Rizk (2016)
 Egypt,2011,secondary,3,Rizk (2016)
 Egypt,2011,higher,9.2,Rizk (2016)
 Egypt,2011,male,2.9,Rizk (2016)
 Egypt,2011,female,4.8,Rizk (2016)
-Egypt,2011,Overall Average,8.8,Rizk (2016)
-Egypt,2011,Primary Average,7.8,Rizk (2016)
-Egypt,2011,Secondary Average,10.5,Rizk (2016)
-Egypt,2011,Higher Average,12.9,Rizk (2016)
-Egypt,2011,Male Average,7.9,Rizk (2016)
-Egypt,2011,Female Average,9.6,Rizk (2016)
 El Salvador,1990,male,9.6,Psacharopoulos (1994); Funkhouser (1996)
 El Salvador,1990,female,9.8,Psacharopoulos (1994); Funkhouser (1996)
-El Salvador,1990,Male Average,7.9,Psacharopoulos (1994); Funkhouser (1996)
-El Salvador,1990,Female Average,9.6,Psacharopoulos (1994); Funkhouser (1996)
 El Salvador,1992,overall,7.6,Funkhouser (1996)
-El Salvador,1992,Overall Average,8.8,Funkhouser (1996)
 Eritrea,2002,overall,10.9,Kifle (2007)
-Eritrea,2002,Overall Average,8.8,Kifle (2007)
 Estonia,1994,overall,5.4,Kroncke and Smith (1999)
-Estonia,1994,Overall Average,8.8,Kroncke and Smith (1999)
 Estonia,2000,secondary,1.575,Hazans (2003)
 Estonia,2000,higher,15.299999999999999,Hazans (2003)
-Estonia,2000,Secondary Average,10.5,Hazans (2003)
-Estonia,2000,Higher Average,12.9,Hazans (2003)
 Ethiopia,2011,overall,12.5,"Peet, Fink and Fawzi (2015)"
 Ethiopia,2011,primary,17.3,"Peet, Fink and Fawzi (2015)"
 Ethiopia,2011,secondary,12.9,"Peet, Fink and Fawzi (2015)"
 Ethiopia,2011,higher,12.7,"Peet, Fink and Fawzi (2015)"
 Ethiopia,2011,male,13,"Peet, Fink and Fawzi (2015)"
 Ethiopia,2011,female,10.7,"Peet, Fink and Fawzi (2015)"
-Ethiopia,2011,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Ethiopia,2011,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Ethiopia,2011,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Ethiopia,2011,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Ethiopia,2011,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Ethiopia,2011,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Finland,1993,male,7.8,Asplund (1999)
 Finland,1993,female,8.3,Asplund (1999)
-Finland,1993,Male Average,7.9,Asplund (1999)
-Finland,1993,Female Average,9.6,Asplund (1999)
 Finland,1995,overall,8.2,Kaboski (2003)
-Finland,1995,Overall Average,8.8,Kaboski (2003)
 France,1995,male,7.5,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
 France,1995,female,8.1,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
-France,1995,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
-France,1995,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
 France,2001,overall,11,Arbak (2012)
-France,2001,Overall Average,8.8,Arbak (2012)
 Georgia,2006,overall,6.9,Botchorishvili (2007)
 Georgia,2006,male,8.2,Botchorishvili (2007)
 Georgia,2006,female,5.099,Botchorishvili (2007)
-Georgia,2006,Overall Average,8.8,Botchorishvili (2007)
-Georgia,2006,Male Average,7.9,Botchorishvili (2007)
-Georgia,2006,Female Average,9.6,Botchorishvili (2007)
 Germany,1995,male,7.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Germany,1995,female,9.8,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Germany,1995,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Germany,1995,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Germany,2006,overall,6.9,Kamhöfer and Schmitz (2013)
-Germany,2006,Overall Average,8.8,Kamhöfer and Schmitz (2013)
 Ghana,2007,overall,4.2,"Peet, Fink and Fawzi (2015)"
 Ghana,2007,primary,4.4,"Peet, Fink and Fawzi (2015)"
 Ghana,2007,secondary,2.9,"Peet, Fink and Fawzi (2015)"
 Ghana,2007,higher,5,"Peet, Fink and Fawzi (2015)"
 Ghana,2007,male,7,"Peet, Fink and Fawzi (2015)"
 Ghana,2007,female,5.3,"Peet, Fink and Fawzi (2015)"
-Ghana,2007,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Ghana,2007,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Ghana,2007,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Ghana,2007,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Ghana,2007,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Ghana,2007,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Great Britain,2002,overall,9,McGuinness and Bennett (2009)
-Great Britain,2002,Overall Average,8.8,McGuinness and Bennett (2009)
 Great Britain,2006,male,6.2,Silles (2007)
 Great Britain,2006,female,8.699,Silles (2007)
-Great Britain,2006,Male Average,7.9,Silles (2007)
-Great Britain,2006,Female Average,9.6,Silles (2007)
 Greece,1994,male,6.3,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Greece,1994,female,8.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Greece,1994,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Greece,1994,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Greece,2001,overall,4,Arbak (2012)
-Greece,2001,Overall Average,8.8,Arbak (2012)
 Guatemala,2000,overall,12.6,Psacharopoulos (1994)
 Guatemala,2000,overall,9.4,"Peet, Fink and Fawzi (2015)"
 Guatemala,2000,primary,6.4,Psacharopoulos (1994)
@@ -463,18 +250,6 @@ Guatemala,2000,male,4.9,Psacharopoulos (1994)
 Guatemala,2000,male,4.9,"Peet, Fink and Fawzi (2015)"
 Guatemala,2000,female,5.5,Psacharopoulos (1994)
 Guatemala,2000,female,5.5,"Peet, Fink and Fawzi (2015)"
-Guatemala,2000,Overall Average,8.8,Psacharopoulos (1994)
-Guatemala,2000,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Guatemala,2000,Primary Average,7.8,Psacharopoulos (1994)
-Guatemala,2000,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Guatemala,2000,Secondary Average,10.5,Psacharopoulos (1994)
-Guatemala,2000,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Guatemala,2000,Higher Average,12.9,Psacharopoulos (1994)
-Guatemala,2000,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Guatemala,2000,Male Average,7.9,Psacharopoulos (1994)
-Guatemala,2000,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Guatemala,2000,Female Average,9.6,Psacharopoulos (1994)
-Guatemala,2000,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Guatemala,2000,overall,12.6,"Peet, Fink and Fawzi (2015)"
 Guatemala,2000,overall,12.6,Laguna and Porta (2004)
 Guatemala,2000,overall,9.4,Laguna and Porta (2004)
@@ -485,39 +260,20 @@ Guatemala,2000,higher,9.8,Laguna and Porta (2004)
 Guatemala,2000,higher,15.8,Laguna and Porta (2004)
 Guatemala,2000,male,4.9,Laguna and Porta (2004)
 Guatemala,2000,female,5.5,Laguna and Porta (2004)
-Guatemala,2000,Overall Average,8.8,Laguna and Porta (2004)
-Guatemala,2000,Primary Average,7.8,Laguna and Porta (2004)
-Guatemala,2000,Secondary Average,10.5,Laguna and Porta (2004)
-Guatemala,2000,Higher Average,12.9,Laguna and Porta (2004)
-Guatemala,2000,Male Average,7.9,Laguna and Porta (2004)
-Guatemala,2000,Female Average,9.6,Laguna and Porta (2004)
 Guatemala,2000,primary,6.4,Laguna and Porta (2004)
 Guyana,1997,secondary,4,World Bank (2005)
 Guyana,1997,higher,10,World Bank (2005)
-Guyana,1997,Secondary Average,10.5,World Bank (2005)
-Guyana,1997,Higher Average,12.9,World Bank (2005)
 Honduras,1989,male,17.2,Psacharopoulos (1994); Funkhouser (1996)
 Honduras,1989,female,19.8,Psacharopoulos (1994); Funkhouser (1996)
-Honduras,1989,Male Average,7.9,Psacharopoulos (1994); Funkhouser (1996)
-Honduras,1989,Female Average,9.6,Psacharopoulos (1994); Funkhouser (1996)
 Honduras,1991,overall,9.3,Funkhouser (1996)
-Honduras,1991,Overall Average,8.8,Funkhouser (1996)
 Hong Kong,1981,overall,6.1,Psacharopoulos (1994)
-Hong Kong,1981,Overall Average,8.8,Psacharopoulos (1994)
 Hong Kong,1996,primary,8.6,Yeung (1999)
 Hong Kong,1996,secondary,13.900000000000002,Yeung (1999)
 Hong Kong,1996,higher,18.3,Yeung (1999)
-Hong Kong,1996,Primary Average,7.8,Yeung (1999)
-Hong Kong,1996,Secondary Average,10.5,Yeung (1999)
-Hong Kong,1996,Higher Average,12.9,Yeung (1999)
 Hungary,1992,higher,6.4,Newell and Reilly (1999)
-Hungary,1992,Higher Average,12.9,Newell and Reilly (1999)
 Hungary,2000,male,10.5,"Flabbi, Paternostro and Tiongson (2007)"
 Hungary,2000,female,10.5,"Flabbi, Paternostro and Tiongson (2007)"
-Hungary,2000,Male Average,7.9,"Flabbi, Paternostro and Tiongson (2007)"
-Hungary,2000,Female Average,9.6,"Flabbi, Paternostro and Tiongson (2007)"
 Hungary,2004,overall,10.7,Campos and Jolliffe (2007)
-Hungary,2004,Overall Average,8.8,Campos and Jolliffe (2007)
 India,1999,primary,5.375,Dutta (2006)
 India,1999,primary,6.6,Kijima (2006)
 India,1999,secondary,3.14,Dutta (2006)
@@ -528,454 +284,230 @@ India,1999,higher,6.109999999999999,Dutta (2006)
 India,1999,higher,14.75,Dutta (2006)
 India,1999,higher,6.109999999999999,Kijima (2006)
 India,1999,higher,14.75,Kijima (2006)
-India,1999,Primary Average,7.8,Dutta (2006)
-India,1999,Primary Average,7.8,Kijima (2006)
-India,1999,Secondary Average,10.5,Dutta (2006)
-India,1999,Secondary Average,10.5,Kijima (2006)
-India,1999,Higher Average,12.9,Dutta (2006)
-India,1999,Higher Average,12.9,Kijima (2006)
 India,1999,primary,5.375,Kijima (2006)
 India,1999,primary,6.6,Dutta (2006)
 India,2008,overall,10.8,World Bank (2011)
 India,2008,male,10.040317394140464,World Bank (2011)
 India,2008,female,11.22,World Bank (2011)
-India,2008,Overall Average,8.8,World Bank (2011)
-India,2008,Male Average,7.9,World Bank (2011)
-India,2008,Female Average,9.6,World Bank (2011)
 Indonesia,2002,primary,4.5,Van Leeuwen (2007)
 Indonesia,2002,secondary,20.8,Van Leeuwen (2007)
 Indonesia,2002,higher,20.1,Van Leeuwen (2007)
-Indonesia,2002,Primary Average,7.8,Van Leeuwen (2007)
-Indonesia,2002,Secondary Average,10.5,Van Leeuwen (2007)
-Indonesia,2002,Higher Average,12.9,Van Leeuwen (2007)
 Indonesia,2007,overall,10.7,Sohn (2013)
-Indonesia,2007,Overall Average,8.8,Sohn (2013)
 Iran,2006,overall,7.6,"Salehi, Tunali, Assaad (2009)"
-Iran,2006,Overall Average,8.8,"Salehi, Tunali, Assaad (2009)"
 Iraq,2006,overall,0.7,"Peet, Fink and Fawzi (2015)"
 Iraq,2006,primary,2.2,"Peet, Fink and Fawzi (2015)"
 Iraq,2006,secondary,1.5,"Peet, Fink and Fawzi (2015)"
 Iraq,2006,higher,0.9,"Peet, Fink and Fawzi (2015)"
 Iraq,2006,male,0.5,"Peet, Fink and Fawzi (2015)"
 Iraq,2006,female,3,"Peet, Fink and Fawzi (2015)"
-Iraq,2006,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Iraq,2006,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Iraq,2006,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Iraq,2006,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Iraq,2006,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Iraq,2006,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Ireland,1994,male,9,"Harmon, Oosterbeek and Walker (2003)"
 Ireland,1994,female,13.7,"Harmon, Oosterbeek and Walker (2003)"
-Ireland,1994,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003)"
-Ireland,1994,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003)"
 Ireland,1995,overall,8.5,"Trostel, Walker and Woolley (2002)"
-Ireland,1995,Overall Average,8.8,"Trostel, Walker and Woolley (2002)"
 Israel,1995,male,6,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
 Israel,1995,female,6.9,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
-Israel,1995,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
-Israel,1995,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Kaboski (2003)"
 Israel,2001,overall,12.1,Arbak (2012)
-Israel,2001,Overall Average,8.8,Arbak (2012)
 Italy,1993,primary,3.88,Brunello and Miniaci (1997)
 Italy,1993,secondary,10.533333333333333,Brunello and Miniaci (1997)
-Italy,1993,Primary Average,7.8,Brunello and Miniaci (1997)
-Italy,1993,Secondary Average,10.5,Brunello and Miniaci (1997)
 Italy,1995,male,4.6,"Brunello, Comi and Lucifora (1999)"
 Italy,1995,male,6.2,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Italy,1995,female,6.1,"Brunello, Comi and Lucifora (1999)"
 Italy,1995,female,7.7,"Brunello, Comi and Lucifora (1999)"
 Italy,1995,female,6.1,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Italy,1995,female,7.7,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Italy,1995,Male Average,7.9,"Brunello, Comi and Lucifora (1999)"
-Italy,1995,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Italy,1995,Female Average,9.6,"Brunello, Comi and Lucifora (1999)"
-Italy,1995,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Italy,1995,male,4.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Italy,1995,male,6.2,"Brunello, Comi and Lucifora (1999)"
 Italy,2001,overall,15.7,Arbak (2012)
-Italy,2001,Overall Average,8.8,Arbak (2012)
 Jamaica,1989,overall,28.8,Psacharopoulos (1994)
 Jamaica,1989,male,12.3,Psacharopoulos (1994)
 Jamaica,1989,female,21.5,Psacharopoulos (1994)
-Jamaica,1989,Overall Average,8.8,Psacharopoulos (1994)
-Jamaica,1989,Male Average,7.9,Psacharopoulos (1994)
-Jamaica,1989,Female Average,9.6,Psacharopoulos (1994)
 Japan,1995,overall,7.5,"Trostel, Walker and Woolley (2002)"
-Japan,1995,Overall Average,8.8,"Trostel, Walker and Woolley (2002)"
 Jordan,2001,overall,6.7,Arbak (2012)
-Jordan,2001,Overall Average,8.8,Arbak (2012)
 Kazakhstan,1996,higher,14.3,Newell and Reilly (1999)
-Kazakhstan,1996,Higher Average,12.9,Newell and Reilly (1999)
 Kazakhstan,2001,overall,8,Arabsheibani and Mussurov (2006)
 Kazakhstan,2001,male,8,Arabsheibani and Mussurov (2006)
 Kazakhstan,2001,female,11.5,Arabsheibani and Mussurov (2006)
-Kazakhstan,2001,Overall Average,8.8,Arabsheibani and Mussurov (2006)
-Kazakhstan,2001,Male Average,7.9,Arabsheibani and Mussurov (2006)
-Kazakhstan,2001,Female Average,9.6,Arabsheibani and Mussurov (2006)
 Kenya,1995,overall,13.2,Banerjee and Duflo (2005)
 Kenya,1995,primary,2,Banerjee and Duflo (2005)
 Kenya,1995,secondary,12,Banerjee and Duflo (2005)
 Kenya,1995,higher,69,Banerjee and Duflo (2005)
-Kenya,1995,Overall Average,8.8,Banerjee and Duflo (2005)
-Kenya,1995,Primary Average,7.8,Banerjee and Duflo (2005)
-Kenya,1995,Secondary Average,10.5,Banerjee and Duflo (2005)
-Kenya,1995,Higher Average,12.9,Banerjee and Duflo (2005)
 Kenya,1995,overall,13.2,Wambugu (2002)
 Kenya,1995,primary,2,Wambugu (2002)
 Kenya,1995,secondary,12,Wambugu (2002)
 Kenya,1995,higher,69,Wambugu (2002)
-Kenya,1995,Overall Average,8.8,Wambugu (2002)
-Kenya,1995,Primary Average,7.8,Wambugu (2002)
-Kenya,1995,Secondary Average,10.5,Wambugu (2002)
-Kenya,1995,Higher Average,12.9,Wambugu (2002)
 Kuwait,2010,overall,4.8,Alqattan (2012)
 Kuwait,2010,male,5.1,Alqattan (2012)
 Kuwait,2010,female,5.7,Alqattan (2012)
-Kuwait,2010,Overall Average,8.8,Alqattan (2012)
-Kuwait,2010,Male Average,7.9,Alqattan (2012)
-Kuwait,2010,Female Average,9.6,Alqattan (2012)
 Kyrgyz Republic,1996,overall,4,"Peet, Fink and Fawzi (2015)"
 Kyrgyz Republic,1996,primary,-3.9,"Peet, Fink and Fawzi (2015)"
 Kyrgyz Republic,1996,male,4.3,"Peet, Fink and Fawzi (2015)"
 Kyrgyz Republic,1996,female,3.9,"Peet, Fink and Fawzi (2015)"
-Kyrgyz Republic,1996,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Kyrgyz Republic,1996,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Kyrgyz Republic,1996,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Kyrgyz Republic,1996,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Kyrgyz Republic,1997,secondary,6.500000000000001,Anderson and Pomfret (2000)
 Kyrgyz Republic,1997,higher,5.1000000000000005,Anderson and Pomfret (2000)
-Kyrgyz Republic,1997,Secondary Average,10.5,Anderson and Pomfret (2000)
-Kyrgyz Republic,1997,Higher Average,12.9,Anderson and Pomfret (2000)
 Latvia,2002,secondary,1.3666666666666665,Hazans (2005)
-Latvia,2002,Secondary Average,10.5,Hazans (2005)
 Latvia,2012,overall,7.69,"Vilerts, Krasnopjorovs, Brekis (2015)"
 Latvia,2012,higher,9.825000000000001,"Vilerts, Krasnopjorovs, Brekis (2015)"
 Latvia,2012,male,8,"Vilerts, Krasnopjorovs, Brekis (2015)"
 Latvia,2012,female,10,"Vilerts, Krasnopjorovs, Brekis (2015)"
-Latvia,2012,Overall Average,8.8,"Vilerts, Krasnopjorovs, Brekis (2015)"
-Latvia,2012,Higher Average,12.9,"Vilerts, Krasnopjorovs, Brekis (2015)"
-Latvia,2012,Male Average,7.9,"Vilerts, Krasnopjorovs, Brekis (2015)"
-Latvia,2012,Female Average,9.6,"Vilerts, Krasnopjorovs, Brekis (2015)"
 Lebanon,2002,primary,5.63,Dah and Hammami (2002)
 Lebanon,2002,secondary,2.56,Dah and Hammami (2002)
 Lebanon,2002,higher,-1.56,Dah and Hammami (2002)
-Lebanon,2002,Primary Average,7.8,Dah and Hammami (2002)
-Lebanon,2002,Secondary Average,10.5,Dah and Hammami (2002)
-Lebanon,2002,Higher Average,12.9,Dah and Hammami (2002)
 Lesotho,1993,male,10.6,Psacharopoulos and Patrinos (2004)
 Lesotho,1993,female,16.5,Psacharopoulos and Patrinos (2004)
-Lesotho,1993,Male Average,7.9,Psacharopoulos and Patrinos (2004)
-Lesotho,1993,Female Average,9.6,Psacharopoulos and Patrinos (2004)
 Lithuania,2000,secondary,1.125,Hazans (2003)
 Lithuania,2000,higher,16.75,Hazans (2003)
-Lithuania,2000,Secondary Average,10.5,Hazans (2003)
-Lithuania,2000,Higher Average,12.9,Hazans (2003)
 Madagascar,1993,overall,15.1,Cogneau (2003)
-Madagascar,1993,Overall Average,8.8,Cogneau (2003)
 Malawi,2010,male,11.8,"Peet, Fink and Fawzi (2015)"
 Malawi,2010,female,13.2,"Peet, Fink and Fawzi (2015)"
-Malawi,2010,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Malawi,2010,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Malawi,2012,overall,8.8,Gondwe (2015)
 Malawi,2012,primary,8.1,Gondwe (2015)
 Malawi,2012,secondary,8.133333333333333,Gondwe (2015)
 Malawi,2012,higher,35.075,Gondwe (2015)
-Malawi,2012,Overall Average,8.8,Gondwe (2015)
-Malawi,2012,Primary Average,7.8,Gondwe (2015)
-Malawi,2012,Secondary Average,10.5,Gondwe (2015)
-Malawi,2012,Higher Average,12.9,Gondwe (2015)
 Malaysia,2004,overall,10,Ismail (2007)
-Malaysia,2004,Overall Average,8.8,Ismail (2007)
 Malaysia,2007,male,12.1,Kenayathulla (2013)
 Malaysia,2007,female,14.5,Kenayathulla (2013)
-Malaysia,2007,Male Average,7.9,Kenayathulla (2013)
-Malaysia,2007,Female Average,9.6,Kenayathulla (2013)
 Maldives,2004,overall,8.1,World Bank (2011)
 Maldives,2004,male,6.2980898614699745,World Bank (2011)
 Maldives,2004,female,12.68,World Bank (2011)
-Maldives,2004,Overall Average,8.8,World Bank (2011)
-Maldives,2004,Male Average,7.9,World Bank (2011)
-Maldives,2004,Female Average,9.6,World Bank (2011)
 Mali,2007,primary,11,Barouni and Broecke (2014)
 Mali,2007,secondary,40,Barouni and Broecke (2014)
 Mali,2007,higher,13,Barouni and Broecke (2014)
-Mali,2007,Primary Average,7.8,Barouni and Broecke (2014)
-Mali,2007,Secondary Average,10.5,Barouni and Broecke (2014)
-Mali,2007,Higher Average,12.9,Barouni and Broecke (2014)
 Malta,2001,overall,25.7,Arbak (2012)
-Malta,2001,Overall Average,8.8,Arbak (2012)
 Mexico,2002,overall,13.2,Metzger and Patrinos (2005)
 Mexico,2002,male,12.7,Metzger and Patrinos (2005)
 Mexico,2002,female,14.7,Metzger and Patrinos (2005)
-Mexico,2002,Overall Average,8.8,Metzger and Patrinos (2005)
-Mexico,2002,Male Average,7.9,Metzger and Patrinos (2005)
-Mexico,2002,Female Average,9.6,Metzger and Patrinos (2005)
 Moldova,2003,overall,8,"Flabbi, Paternostro and Tiongson (2008)"
-Moldova,2003,Overall Average,8.8,"Flabbi, Paternostro and Tiongson (2008)"
 Mongolia,2002,overall,8.5,"Patrinos, Ridao and Sakellariou (2009)"
-Mongolia,2002,Overall Average,8.8,"Patrinos, Ridao and Sakellariou (2009)"
 Morocco,2001,overall,2.8,Arbak (2012)
-Morocco,2001,Overall Average,8.8,Arbak (2012)
 Namibia,2003,overall,28,Godana and Ashipala (2006)
-Namibia,2003,Overall Average,8.8,Godana and Ashipala (2006)
 Nepal,2008,overall,7.9,World Bank (2011)
 Nepal,2008,male,7.3943587625264735,World Bank (2011)
 Nepal,2008,female,8.264,World Bank (2011)
-Nepal,2008,Overall Average,8.8,World Bank (2011)
-Nepal,2008,Male Average,7.9,World Bank (2011)
-Nepal,2008,Female Average,9.6,World Bank (2011)
 Netherlands,1996,male,6.3,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Netherlands,1996,female,5.099,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Netherlands,1996,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Netherlands,1996,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Netherlands,2006,overall,8.1,Canton (2009)
-Netherlands,2006,Overall Average,8.8,Canton (2009)
 New Zealand,1995,overall,3.3,"Trostel, Walker and Woolley (2002)"
-New Zealand,1995,Overall Average,8.8,"Trostel, Walker and Woolley (2002)"
 Nicaragua,2001,overall,11.2,Laguna and Porta (2004)
 Nicaragua,2001,primary,6.3,Laguna and Porta (2004)
 Nicaragua,2001,secondary,9.3,Laguna and Porta (2004)
 Nicaragua,2001,higher,18.6,Laguna and Porta (2004)
 Nicaragua,2001,male,9.5,Laguna and Porta (2004)
 Nicaragua,2001,female,12.2,Laguna and Porta (2004)
-Nicaragua,2001,Overall Average,8.8,Laguna and Porta (2004)
-Nicaragua,2001,Primary Average,7.8,Laguna and Porta (2004)
-Nicaragua,2001,Secondary Average,10.5,Laguna and Porta (2004)
-Nicaragua,2001,Higher Average,12.9,Laguna and Porta (2004)
-Nicaragua,2001,Male Average,7.9,Laguna and Porta (2004)
-Nicaragua,2001,Female Average,9.6,Laguna and Porta (2004)
 Nicaragua,2001,overall,11.2,Belli and Ayadi (1998)
 Nicaragua,2001,primary,6.3,Belli and Ayadi (1998)
 Nicaragua,2001,secondary,9.3,Belli and Ayadi (1998)
 Nicaragua,2001,higher,18.6,Belli and Ayadi (1998)
 Nicaragua,2001,male,9.5,Belli and Ayadi (1998)
 Nicaragua,2001,female,12.2,Belli and Ayadi (1998)
-Nicaragua,2001,Overall Average,8.8,Belli and Ayadi (1998)
-Nicaragua,2001,Primary Average,7.8,Belli and Ayadi (1998)
-Nicaragua,2001,Secondary Average,10.5,Belli and Ayadi (1998)
-Nicaragua,2001,Higher Average,12.9,Belli and Ayadi (1998)
-Nicaragua,2001,Male Average,7.9,Belli and Ayadi (1998)
-Nicaragua,2001,Female Average,9.6,Belli and Ayadi (1998)
 Niger,2011,overall,11.1,"Peet, Fink and Fawzi (2015)"
 Niger,2011,primary,5.5,"Peet, Fink and Fawzi (2015)"
 Niger,2011,secondary,11.4,"Peet, Fink and Fawzi (2015)"
 Niger,2011,higher,14.7,"Peet, Fink and Fawzi (2015)"
 Niger,2011,male,9.4,"Peet, Fink and Fawzi (2015)"
 Niger,2011,female,14.9,"Peet, Fink and Fawzi (2015)"
-Niger,2011,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Niger,2011,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Niger,2011,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Niger,2011,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Niger,2011,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Niger,2011,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Nigeria,2011,overall,5.7,"Peet, Fink and Fawzi (2015)"
 Nigeria,2011,primary,4.8,"Peet, Fink and Fawzi (2015)"
 Nigeria,2011,secondary,5,"Peet, Fink and Fawzi (2015)"
 Nigeria,2011,higher,5.8,"Peet, Fink and Fawzi (2015)"
 Nigeria,2011,male,5.1,"Peet, Fink and Fawzi (2015)"
 Nigeria,2011,female,6.5,"Peet, Fink and Fawzi (2015)"
-Nigeria,2011,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Nigeria,2011,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Nigeria,2011,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Nigeria,2011,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Nigeria,2011,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Nigeria,2011,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Northern Ireland,1995,overall,17.4,"Trostel, Walker and Woolley (2002)"
-Northern Ireland,1995,Overall Average,8.8,"Trostel, Walker and Woolley (2002)"
 Norway,1995,overall,6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Norway,1995,male,4.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Norway,1995,female,5,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Norway,1995,Overall Average,8.8,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Norway,1995,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
-Norway,1995,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003); Martins and Pereira (2004)"
 Pakistan,2001,primary,3,"Jamal, Toor and Khan (2003)"
 Pakistan,2001,secondary,10.479999999999999,"Jamal, Toor and Khan (2003)"
 Pakistan,2001,higher,11,"Jamal, Toor and Khan (2003)"
-Pakistan,2001,Primary Average,7.8,"Jamal, Toor and Khan (2003)"
-Pakistan,2001,Secondary Average,10.5,"Jamal, Toor and Khan (2003)"
-Pakistan,2001,Higher Average,12.9,"Jamal, Toor and Khan (2003)"
 Pakistan,2009,overall,6.2,World Bank (2011)
 Pakistan,2009,male,5.845471807825376,World Bank (2011)
 Pakistan,2009,female,8.918,World Bank (2011)
-Pakistan,2009,Overall Average,8.8,World Bank (2011)
-Pakistan,2009,Male Average,7.9,World Bank (2011)
-Pakistan,2009,Female Average,9.6,World Bank (2011)
 Panama,2009,overall,10.9,"Freire, Nunez and Teijeiro (2015)"
 Panama,2009,primary,3.6,"Freire, Nunez and Teijeiro (2015)"
 Panama,2009,secondary,7.3,"Freire, Nunez and Teijeiro (2015)"
 Panama,2009,higher,12.3,"Freire, Nunez and Teijeiro (2015)"
 Panama,2009,male,10.7,"Freire, Nunez and Teijeiro (2015)"
 Panama,2009,female,13.5,"Freire, Nunez and Teijeiro (2015)"
-Panama,2009,Overall Average,8.8,"Freire, Nunez and Teijeiro (2015)"
-Panama,2009,Primary Average,7.8,"Freire, Nunez and Teijeiro (2015)"
-Panama,2009,Secondary Average,10.5,"Freire, Nunez and Teijeiro (2015)"
-Panama,2009,Higher Average,12.9,"Freire, Nunez and Teijeiro (2015)"
-Panama,2009,Male Average,7.9,"Freire, Nunez and Teijeiro (2015)"
-Panama,2009,Female Average,9.6,"Freire, Nunez and Teijeiro (2015)"
 Papua New Guinea,1985,male,10.9,Gibson and Fatai (2006)
 Papua New Guinea,1985,female,12.8,Gibson and Fatai (2006)
-Papua New Guinea,1985,Male Average,7.9,Gibson and Fatai (2006)
-Papua New Guinea,1985,Female Average,9.6,Gibson and Fatai (2006)
 Papua New Guinea,1987,overall,11.1,Gibson and Fatai (2006)
-Papua New Guinea,1987,Overall Average,8.8,Gibson and Fatai (2006)
 Paraguay,1990,overall,11.6,"Psacharopoulos (1994); Patrinos, Velez and Psacharopoulos (1994)"
 Paraguay,1990,male,10.3,"Psacharopoulos (1994); Patrinos, Velez and Psacharopoulos (1994)"
 Paraguay,1990,female,12.1,"Psacharopoulos (1994); Patrinos, Velez and Psacharopoulos (1994)"
-Paraguay,1990,Overall Average,8.8,"Psacharopoulos (1994); Patrinos, Velez and Psacharopoulos (1994)"
-Paraguay,1990,Male Average,7.9,"Psacharopoulos (1994); Patrinos, Velez and Psacharopoulos (1994)"
-Paraguay,1990,Female Average,9.6,"Psacharopoulos (1994); Patrinos, Velez and Psacharopoulos (1994)"
 Peru,1991,primary,8.1,"Peet, Fink and Fawzi (2015)"
 Peru,1991,secondary,7,"Peet, Fink and Fawzi (2015)"
 Peru,1991,higher,7.2,"Peet, Fink and Fawzi (2015)"
 Peru,1991,male,7.2,"Peet, Fink and Fawzi (2015)"
 Peru,1991,female,6.3,"Peet, Fink and Fawzi (2015)"
-Peru,1991,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Peru,1991,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Peru,1991,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Peru,1991,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Peru,1991,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Peru,2001,overall,10.7,Trivelli (2006)
-Peru,2001,Overall Average,8.8,Trivelli (2006)
 Philippines,1988,male,12.4,Psacharopoulos (1994)
 Philippines,1988,female,12.4,Psacharopoulos (1994)
-Philippines,1988,Male Average,7.9,Psacharopoulos (1994)
-Philippines,1988,Female Average,9.6,Psacharopoulos (1994)
 Philippines,2000,overall,12.6,Kaboski (2003)
-Philippines,2000,Overall Average,8.8,Kaboski (2003)
 Poland,1996,higher,10.1,Newell and Reilly (1999)
 Poland,1996,male,7.8,Newell and Reilly (1999)
 Poland,1996,female,6.7,Newell and Reilly (1999)
-Poland,1996,Higher Average,12.9,Newell and Reilly (1999)
-Poland,1996,Male Average,7.9,Newell and Reilly (1999)
-Poland,1996,Female Average,9.6,Newell and Reilly (1999)
 Poland,1996,higher,10.1,Rutkowski (2001)
 Poland,1996,male,7.8,Rutkowski (2001)
 Poland,1996,female,6.7,Rutkowski (2001)
-Poland,1996,Higher Average,12.9,Rutkowski (2001)
-Poland,1996,Male Average,7.9,Rutkowski (2001)
-Poland,1996,Female Average,9.6,Rutkowski (2001)
 Poland,2002,overall,10.6,"Flabbi, Paternostro and Tiongson (2007)"
-Poland,2002,Overall Average,8.8,"Flabbi, Paternostro and Tiongson (2007)"
 Portugal,1994,secondary,5.05,García-Mainar and Montuenga-Gómez (2003)
 Portugal,1994,higher,12.075,García-Mainar and Montuenga-Gómez (2003)
 Portugal,1994,male,9.7,García-Mainar and Montuenga-Gómez (2003)
 Portugal,1994,female,9.699,García-Mainar and Montuenga-Gómez (2003)
-Portugal,1994,Secondary Average,10.5,García-Mainar and Montuenga-Gómez (2003)
-Portugal,1994,Higher Average,12.9,García-Mainar and Montuenga-Gómez (2003)
-Portugal,1994,Male Average,7.9,García-Mainar and Montuenga-Gómez (2003)
-Portugal,1994,Female Average,9.6,García-Mainar and Montuenga-Gómez (2003)
 Portugal,1994,secondary,5.05,"Harmon, Oosterbeek and Walker (2003)"
 Portugal,1994,higher,12.075,"Harmon, Oosterbeek and Walker (2003)"
 Portugal,1994,male,9.7,"Harmon, Oosterbeek and Walker (2003)"
 Portugal,1994,female,9.699,"Harmon, Oosterbeek and Walker (2003)"
-Portugal,1994,Secondary Average,10.5,"Harmon, Oosterbeek and Walker (2003)"
-Portugal,1994,Higher Average,12.9,"Harmon, Oosterbeek and Walker (2003)"
-Portugal,1994,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003)"
-Portugal,1994,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003)"
 Portugal,2001,overall,7.5,Arbak (2012)
-Portugal,2001,Overall Average,8.8,Arbak (2012)
 Puerto Rico,1989,overall,15.1,Griffin and Cox Edwards (1993)
-Puerto Rico,1989,Overall Average,8.8,Griffin and Cox Edwards (1993)
 Romania,2009,overall,11.3,Ion Zgreaban (2013)
 Romania,2009,male,10.8,Ion Zgreaban (2013)
 Romania,2009,female,13,Ion Zgreaban (2013)
-Romania,2009,Overall Average,8.8,Ion Zgreaban (2013)
-Romania,2009,Male Average,7.9,Ion Zgreaban (2013)
-Romania,2009,Female Average,9.6,Ion Zgreaban (2013)
 Russia,1998,higher,9.86,Clark (2003)
-Russia,1998,Higher Average,12.9,Clark (2003)
 Russia,2000,male,8.5,"Flabbi, Paternostro and Tiongson (2007); Gorodnichenko and Klara (2005)"
 Russia,2000,female,10.3,"Flabbi, Paternostro and Tiongson (2007); Gorodnichenko and Klara (2005)"
-Russia,2000,Male Average,7.9,"Flabbi, Paternostro and Tiongson (2007); Gorodnichenko and Klara (2005)"
-Russia,2000,Female Average,9.6,"Flabbi, Paternostro and Tiongson (2007); Gorodnichenko and Klara (2005)"
 Russia,2002,overall,9.2,Gorodnichenko and Klara (2005)
-Russia,2002,Overall Average,8.8,Gorodnichenko and Klara (2005)
 Rwanda,2001,overall,17.5,Lassibillie and Tan (2005)
-Rwanda,2001,Overall Average,8.8,Lassibillie and Tan (2005)
 Rwanda,2005,primary,15,Barouni and Broecke (2014)
 Rwanda,2005,secondary,45,Barouni and Broecke (2014)
 Rwanda,2005,higher,33,Barouni and Broecke (2014)
-Rwanda,2005,Primary Average,7.8,Barouni and Broecke (2014)
-Rwanda,2005,Secondary Average,10.5,Barouni and Broecke (2014)
-Rwanda,2005,Higher Average,12.9,Barouni and Broecke (2014)
 Serbia,2004,primary,7.5,"Peet, Fink and Fawzi (2015)"
 Serbia,2004,secondary,5.6,"Peet, Fink and Fawzi (2015)"
 Serbia,2004,higher,6.9,"Peet, Fink and Fawzi (2015)"
 Serbia,2004,male,6.1,"Peet, Fink and Fawzi (2015)"
 Serbia,2004,female,9.8,"Peet, Fink and Fawzi (2015)"
-Serbia,2004,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Serbia,2004,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Serbia,2004,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Serbia,2004,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Serbia,2004,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Serbia,2013,overall,10,Popov (2013)
-Serbia,2013,Overall Average,8.8,Popov (2013)
 Singapore,1998,male,11.1,Sakellariou (2003)
 Singapore,1998,female,15.2,Sakellariou (2003)
-Singapore,1998,Male Average,7.9,Sakellariou (2003)
-Singapore,1998,Female Average,9.6,Sakellariou (2003)
 Singapore,2000,overall,13.2,Low et al (2004)
-Singapore,2000,Overall Average,8.8,Low et al (2004)
 Slovak Republic,1997,higher,11.124999999999998,"Filer, Jurajda, Planovsky (1999)"
 Slovak Republic,1997,male,8.1,"Filer, Jurajda, Planovsky (1999)"
-Slovak Republic,1997,Higher Average,12.9,"Filer, Jurajda, Planovsky (1999)"
-Slovak Republic,1997,Male Average,7.9,"Filer, Jurajda, Planovsky (1999)"
 Slovak Republic,2002,overall,6.1,"Flabbi, Paternostro and Tiongson (2007)"
-Slovak Republic,2002,Overall Average,8.8,"Flabbi, Paternostro and Tiongson (2007)"
 Slovenia,2002,overall,8.2,"Flabbi, Paternostro and Tiongson (2007)"
-Slovenia,2002,Overall Average,8.8,"Flabbi, Paternostro and Tiongson (2007)"
 South Africa,2008,overall,18.7,Salisbury (2016)
 South Africa,2008,male,18.1,Salisbury (2016)
 South Africa,2008,female,21.2,Salisbury (2016)
-South Africa,2008,Overall Average,8.8,Salisbury (2016)
-South Africa,2008,Male Average,7.9,Salisbury (2016)
-South Africa,2008,Female Average,9.6,Salisbury (2016)
 South Africa,2010,primary,6,Barouni and Broecke (2014)
 South Africa,2010,secondary,23,Barouni and Broecke (2014)
 South Africa,2010,higher,28,Barouni and Broecke (2014)
-South Africa,2010,Primary Average,7.8,Barouni and Broecke (2014)
-South Africa,2010,Secondary Average,10.5,Barouni and Broecke (2014)
-South Africa,2010,Higher Average,12.9,Barouni and Broecke (2014)
 South Korea,2002,overall,7.3,"Kwack, Lee and Choi (2007)"
 South Korea,2002,male,5.9,"Kwack, Lee and Choi (2007)"
 South Korea,2002,female,8.1,"Kwack, Lee and Choi (2007)"
-South Korea,2002,Overall Average,8.8,"Kwack, Lee and Choi (2007)"
-South Korea,2002,Male Average,7.9,"Kwack, Lee and Choi (2007)"
-South Korea,2002,Female Average,9.6,"Kwack, Lee and Choi (2007)"
 Spain,1994,secondary,3.6,García-Mainar and Montuenga-Gómez (2003)
 Spain,1994,higher,4.674999999999999,García-Mainar and Montuenga-Gómez (2003)
 Spain,1994,male,7.2,García-Mainar and Montuenga-Gómez (2003)
 Spain,1994,female,8.4,García-Mainar and Montuenga-Gómez (2003)
-Spain,1994,Secondary Average,10.5,García-Mainar and Montuenga-Gómez (2003)
-Spain,1994,Higher Average,12.9,García-Mainar and Montuenga-Gómez (2003)
-Spain,1994,Male Average,7.9,García-Mainar and Montuenga-Gómez (2003)
-Spain,1994,Female Average,9.6,García-Mainar and Montuenga-Gómez (2003)
 Spain,1994,secondary,3.6,"Harmon, Oosterbeek and Walker (2003)"
 Spain,1994,higher,4.674999999999999,"Harmon, Oosterbeek and Walker (2003)"
 Spain,1994,male,7.2,"Harmon, Oosterbeek and Walker (2003)"
 Spain,1994,female,8.4,"Harmon, Oosterbeek and Walker (2003)"
-Spain,1994,Secondary Average,10.5,"Harmon, Oosterbeek and Walker (2003)"
-Spain,1994,Higher Average,12.9,"Harmon, Oosterbeek and Walker (2003)"
-Spain,1994,Male Average,7.9,"Harmon, Oosterbeek and Walker (2003)"
-Spain,1994,Female Average,9.6,"Harmon, Oosterbeek and Walker (2003)"
 Spain,2001,overall,7.5,Arbak (2012)
-Spain,2001,Overall Average,8.8,Arbak (2012)
 Sri Lanka,2000,secondary,2.4,Himaz (2008)
 Sri Lanka,2000,higher,3.9,Himaz (2008)
-Sri Lanka,2000,Secondary Average,10.5,Himaz (2008)
-Sri Lanka,2000,Higher Average,12.9,Himaz (2008)
 Sri Lanka,2008,overall,8.9,World Bank (2011)
 Sri Lanka,2008,male,7.136331257215245,World Bank (2011)
 Sri Lanka,2008,female,11.63,World Bank (2011)
-Sri Lanka,2008,Overall Average,8.8,World Bank (2011)
-Sri Lanka,2008,Male Average,7.9,World Bank (2011)
-Sri Lanka,2008,Female Average,9.6,World Bank (2011)
 St. Lucia,2004,primary,3.5,Bellony and Reilly (2010)
 St. Lucia,2004,secondary,7.3,Bellony and Reilly (2010)
 St. Lucia,2004,higher,20.9,Bellony and Reilly (2010)
-St. Lucia,2004,Primary Average,7.8,Bellony and Reilly (2010)
-St. Lucia,2004,Secondary Average,10.5,Bellony and Reilly (2010)
-St. Lucia,2004,Higher Average,12.9,Bellony and Reilly (2010)
 Sudan,2009,overall,4.9,Rizk (2016)
 Sudan,2009,primary,3.1,Rizk (2016)
 Sudan,2009,primary,10,Rizk (2016)
@@ -985,12 +517,6 @@ Sudan,2009,higher,13,Rizk (2016)
 Sudan,2009,higher,15,Rizk (2016)
 Sudan,2009,male,4.5,Rizk (2016)
 Sudan,2009,female,6.6,Rizk (2016)
-Sudan,2009,Overall Average,8.8,Rizk (2016)
-Sudan,2009,Primary Average,7.8,Rizk (2016)
-Sudan,2009,Secondary Average,10.5,Rizk (2016)
-Sudan,2009,Higher Average,12.9,Rizk (2016)
-Sudan,2009,Male Average,7.9,Rizk (2016)
-Sudan,2009,Female Average,9.6,Rizk (2016)
 Sudan,2009,overall,4.9,Barouni and Broecke (2014)
 Sudan,2009,primary,10,Barouni and Broecke (2014)
 Sudan,2009,secondary,13.3,Barouni and Broecke (2014)
@@ -999,200 +525,99 @@ Sudan,2009,higher,13,Barouni and Broecke (2014)
 Sudan,2009,higher,15,Barouni and Broecke (2014)
 Sudan,2009,male,4.5,Barouni and Broecke (2014)
 Sudan,2009,female,6.6,Barouni and Broecke (2014)
-Sudan,2009,Overall Average,8.8,Barouni and Broecke (2014)
-Sudan,2009,Primary Average,7.8,Barouni and Broecke (2014)
-Sudan,2009,Secondary Average,10.5,Barouni and Broecke (2014)
-Sudan,2009,Higher Average,12.9,Barouni and Broecke (2014)
-Sudan,2009,Male Average,7.9,Barouni and Broecke (2014)
-Sudan,2009,Female Average,9.6,Barouni and Broecke (2014)
 Sudan,2009,primary,3.1,Barouni and Broecke (2014)
 Suriname,1992,overall,9.851285714285712,Horowitz and Schenzler (1999)
 Suriname,1992,male,11.38375,Horowitz and Schenzler (1999)
 Suriname,1992,female,7.808,Horowitz and Schenzler (1999)
-Suriname,1992,Overall Average,8.8,Horowitz and Schenzler (1999)
-Suriname,1992,Male Average,7.9,Horowitz and Schenzler (1999)
-Suriname,1992,Female Average,9.6,Horowitz and Schenzler (1999)
 Sweden,1991,male,5,Arai and Kjellstrom (1999); Banerjee and Duflo (2005)
 Sweden,1991,female,4,Arai and Kjellstrom (1999); Banerjee and Duflo (2005)
-Sweden,1991,Male Average,7.9,Arai and Kjellstrom (1999); Banerjee and Duflo (2005)
-Sweden,1991,Female Average,9.6,Arai and Kjellstrom (1999); Banerjee and Duflo (2005)
 Sweden,1995,overall,5.7,Psacharopoulos (1994)
-Sweden,1995,Overall Average,8.8,Psacharopoulos (1994)
 Sweden,2001,secondary,5,Gustavsson (2006)
 Sweden,2001,higher,4.8,Gustavsson (2006)
-Sweden,2001,Secondary Average,10.5,Gustavsson (2006)
-Sweden,2001,Higher Average,12.9,Gustavsson (2006)
 Switzerland,1995,male,9.1,Weber and Wolter (1999); Martins and Pereira (2004)
 Switzerland,1995,female,9,Weber and Wolter (1999); Martins and Pereira (2004)
-Switzerland,1995,Male Average,7.9,Weber and Wolter (1999); Martins and Pereira (2004)
-Switzerland,1995,Female Average,9.6,Weber and Wolter (1999); Martins and Pereira (2004)
 Switzerland,1998,overall,9,Martins and Pereira (2004)
-Switzerland,1998,Overall Average,8.8,Martins and Pereira (2004)
 Taiwan,1994,male,5.82,"Bourguignon, Fournier and Gurgand (2001)"
 Taiwan,1994,female,8.22,"Bourguignon, Fournier and Gurgand (2001)"
-Taiwan,1994,Male Average,7.9,"Bourguignon, Fournier and Gurgand (2001)"
-Taiwan,1994,Female Average,9.6,"Bourguignon, Fournier and Gurgand (2001)"
 Taiwan,1995,primary,-6.35,Baraka (1999)
 Taiwan,1995,secondary,3.483333333333333,Baraka (1999)
 Taiwan,1995,higher,9.100000000000001,Baraka (1999)
-Taiwan,1995,Primary Average,7.8,Baraka (1999)
-Taiwan,1995,Secondary Average,10.5,Baraka (1999)
-Taiwan,1995,Higher Average,12.9,Baraka (1999)
 Taiwan,1998,overall,19.01,Banerjee and Duflo (2005)
-Taiwan,1998,Overall Average,8.8,Banerjee and Duflo (2005)
 Tajikistan,2004,overall,3.6,"Peet, Fink and Fawzi (2015)"
 Tajikistan,2004,primary,3.9,"Peet, Fink and Fawzi (2015)"
 Tajikistan,2004,secondary,3.5,"Peet, Fink and Fawzi (2015)"
 Tajikistan,2004,higher,3.7,"Peet, Fink and Fawzi (2015)"
 Tajikistan,2004,male,3.3,"Peet, Fink and Fawzi (2015)"
 Tajikistan,2004,female,4.4,"Peet, Fink and Fawzi (2015)"
-Tajikistan,2004,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Tajikistan,2004,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Tajikistan,2004,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Tajikistan,2004,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Tajikistan,2004,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Tajikistan,2004,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Tanzania,2007,overall,11.1,"Peet, Fink and Fawzi (2015)"
 Tanzania,2007,male,9.2,"Peet, Fink and Fawzi (2015)"
 Tanzania,2007,female,14.6,"Peet, Fink and Fawzi (2015)"
-Tanzania,2007,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Tanzania,2007,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Tanzania,2007,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Tanzania,2011,primary,8,Barouni and Broecke (2014)
 Tanzania,2011,secondary,66,Barouni and Broecke (2014)
 Tanzania,2011,higher,39,Barouni and Broecke (2014)
-Tanzania,2011,Primary Average,7.8,Barouni and Broecke (2014)
-Tanzania,2011,Secondary Average,10.5,Barouni and Broecke (2014)
-Tanzania,2011,Higher Average,12.9,Barouni and Broecke (2014)
 Thailand,2005,male,10.7,Warunsiri and McNown (2010)
 Thailand,2005,female,12.9,Warunsiri and McNown (2010)
-Thailand,2005,Male Average,7.9,Warunsiri and McNown (2010)
-Thailand,2005,Female Average,9.6,Warunsiri and McNown (2010)
 Thailand,2010,overall,12.63,Tangtipongkul (2015)
 Thailand,2010,primary,1.8,Tangtipongkul (2015)
 Thailand,2010,secondary,5,Tangtipongkul (2015)
 Thailand,2010,higher,20.8,Tangtipongkul (2015)
-Thailand,2010,Overall Average,8.8,Tangtipongkul (2015)
-Thailand,2010,Primary Average,7.8,Tangtipongkul (2015)
-Thailand,2010,Secondary Average,10.5,Tangtipongkul (2015)
-Thailand,2010,Higher Average,12.9,Tangtipongkul (2015)
 The Gambia,2003,overall,6.8,Foltz and Gajigo (2012)
-The Gambia,2003,Overall Average,8.8,Foltz and Gajigo (2012)
 Timor-Leste,2004,primary,14.9,"Peet, Fink and Fawzi (2015)"
 Timor-Leste,2004,secondary,7.5,"Peet, Fink and Fawzi (2015)"
 Timor-Leste,2004,higher,6.2,"Peet, Fink and Fawzi (2015)"
 Timor-Leste,2004,male,4.7,"Peet, Fink and Fawzi (2015)"
 Timor-Leste,2004,female,4.9,"Peet, Fink and Fawzi (2015)"
-Timor-Leste,2004,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Timor-Leste,2004,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Timor-Leste,2004,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Timor-Leste,2004,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Timor-Leste,2004,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Timor-Leste,2007,overall,3.9,Santos (2014)
-Timor-Leste,2007,Overall Average,8.8,Santos (2014)
 Togo,2011,primary,8,Barouni and Broecke (2014)
 Togo,2011,secondary,13,Barouni and Broecke (2014)
 Togo,2011,higher,41,Barouni and Broecke (2014)
-Togo,2011,Primary Average,7.8,Barouni and Broecke (2014)
-Togo,2011,Secondary Average,10.5,Barouni and Broecke (2014)
-Togo,2011,Higher Average,12.9,Barouni and Broecke (2014)
 Trinidad and Tobago,1997,secondary,6,World Bank (2011)
 Trinidad and Tobago,1997,higher,21,World Bank (2011)
-Trinidad and Tobago,1997,Secondary Average,10.5,World Bank (2011)
-Trinidad and Tobago,1997,Higher Average,12.9,World Bank (2011)
 Tunisia,2011,overall,7,Rizk (2016)
 Tunisia,2011,primary,4.7,Rizk (2016)
 Tunisia,2011,secondary,1.2,Rizk (2016)
 Tunisia,2011,higher,9.7,Rizk (2016)
 Tunisia,2011,male,7,Rizk (2016)
 Tunisia,2011,female,7.3,Rizk (2016)
-Tunisia,2011,Overall Average,8.8,Rizk (2016)
-Tunisia,2011,Primary Average,7.8,Rizk (2016)
-Tunisia,2011,Secondary Average,10.5,Rizk (2016)
-Tunisia,2011,Higher Average,12.9,Rizk (2016)
-Tunisia,2011,Male Average,7.9,Rizk (2016)
-Tunisia,2011,Female Average,9.6,Rizk (2016)
 Turkey,2008,overall,11.8,Tansel and Daoud (2014)
 Turkey,2008,primary,4.8,Tansel and Daoud (2014)
 Turkey,2008,secondary,9.4,Tansel and Daoud (2014)
 Turkey,2008,higher,19.9,Tansel and Daoud (2014)
 Turkey,2008,male,10.9,Tansel and Daoud (2014)
 Turkey,2008,female,14.1,Tansel and Daoud (2014)
-Turkey,2008,Overall Average,8.8,Tansel and Daoud (2014)
-Turkey,2008,Primary Average,7.8,Tansel and Daoud (2014)
-Turkey,2008,Secondary Average,10.5,Tansel and Daoud (2014)
-Turkey,2008,Higher Average,12.9,Tansel and Daoud (2014)
-Turkey,2008,Male Average,7.9,Tansel and Daoud (2014)
-Turkey,2008,Female Average,9.6,Tansel and Daoud (2014)
 Uganda,2008,overall,11.9,"Peet, Fink and Fawzi (2015)"
 Uganda,2008,primary,8.2,"Peet, Fink and Fawzi (2015)"
 Uganda,2008,secondary,10.1,"Peet, Fink and Fawzi (2015)"
 Uganda,2008,higher,11.9,"Peet, Fink and Fawzi (2015)"
 Uganda,2008,male,12.1,"Peet, Fink and Fawzi (2015)"
 Uganda,2008,female,12.2,"Peet, Fink and Fawzi (2015)"
-Uganda,2008,Overall Average,8.8,"Peet, Fink and Fawzi (2015)"
-Uganda,2008,Primary Average,7.8,"Peet, Fink and Fawzi (2015)"
-Uganda,2008,Secondary Average,10.5,"Peet, Fink and Fawzi (2015)"
-Uganda,2008,Higher Average,12.9,"Peet, Fink and Fawzi (2015)"
-Uganda,2008,Male Average,7.9,"Peet, Fink and Fawzi (2015)"
-Uganda,2008,Female Average,9.6,"Peet, Fink and Fawzi (2015)"
 Ukraine,1996,higher,6.28,Natalie (2001)
-Ukraine,1996,Higher Average,12.9,Natalie (2001)
 Ukraine,2002,overall,4.5,Gorodnichenko and Klara (2005)
-Ukraine,2002,Overall Average,8.8,Gorodnichenko and Klara (2005)
 United Arab Emirates,2006,overall,7,"Squalli, Vellinga and Wilson (2008)"
-United Arab Emirates,2006,Overall Average,8.8,"Squalli, Vellinga and Wilson (2008)"
 United States,1998,male,10.1,Jaeger (2003)
 United States,1998,female,11,Jaeger (2003)
-United States,1998,Male Average,7.9,Jaeger (2003)
-United States,1998,Female Average,9.6,Jaeger (2003)
 United States,2000,overall,13.4,Polachek (2008)
-United States,2000,Overall Average,8.8,Polachek (2008)
 Uruguay,1989,male,9,Psacharopoulos (1994)
 Uruguay,1989,female,10.6,Psacharopoulos (1994)
-Uruguay,1989,Male Average,7.9,Psacharopoulos (1994)
-Uruguay,1989,Female Average,9.6,Psacharopoulos (1994)
 Uruguay,1990,overall,9.1,Kaboski (2003)
-Uruguay,1990,Overall Average,8.8,Kaboski (2003)
 Uzbekistan,1995,higher,12.3,Newell and Reilly (1999)
-Uzbekistan,1995,Higher Average,12.9,Newell and Reilly (1999)
 Venezuela,2002,primary,17,Patrinos and Sakellariou (2004)
 Venezuela,2002,secondary,19,Patrinos and Sakellariou (2004)
 Venezuela,2002,higher,13,Patrinos and Sakellariou (2004)
 Venezuela,2002,male,9.9,Patrinos and Sakellariou (2004)
 Venezuela,2002,female,12.7,Patrinos and Sakellariou (2004)
-Venezuela,2002,Primary Average,7.8,Patrinos and Sakellariou (2004)
-Venezuela,2002,Secondary Average,10.5,Patrinos and Sakellariou (2004)
-Venezuela,2002,Higher Average,12.9,Patrinos and Sakellariou (2004)
-Venezuela,2002,Male Average,7.9,Patrinos and Sakellariou (2004)
-Venezuela,2002,Female Average,9.6,Patrinos and Sakellariou (2004)
 Venezuela,2008,overall,6.4,Gonzales and Oyelere (2009)
-Venezuela,2008,Overall Average,8.8,Gonzales and Oyelere (2009)
 Vietnam,1997,male,3.7,Liu (2006)
 Vietnam,1997,female,4.4,Liu (2006)
-Vietnam,1997,Male Average,7.9,Liu (2006)
-Vietnam,1997,Female Average,9.6,Liu (2006)
 Vietnam,2014,overall,5.7,"Doan, Tuyen, and Quan (2016)"
 Vietnam,2014,primary,7.16,"Doan, Tuyen, and Quan (2016)"
 Vietnam,2014,secondary,5.033333333333333,"Doan, Tuyen, and Quan (2016)"
 Vietnam,2014,higher,14.042499999999997,"Doan, Tuyen, and Quan (2016)"
-Vietnam,2014,Overall Average,8.8,"Doan, Tuyen, and Quan (2016)"
-Vietnam,2014,Primary Average,7.8,"Doan, Tuyen, and Quan (2016)"
-Vietnam,2014,Secondary Average,10.5,"Doan, Tuyen, and Quan (2016)"
-Vietnam,2014,Higher Average,12.9,"Doan, Tuyen, and Quan (2016)"
 West Bank and Gaza,2011,overall,5.1,Rizk (2016)
 West Bank and Gaza,2011,primary,4.1,Rizk (2016)
 West Bank and Gaza,2011,secondary,6.5,Rizk (2016)
 West Bank and Gaza,2011,higher,7,Rizk (2016)
 West Bank and Gaza,2011,male,4.4,Rizk (2016)
 West Bank and Gaza,2011,female,7.3,Rizk (2016)
-West Bank and Gaza,2011,Overall Average,8.8,Rizk (2016)
-West Bank and Gaza,2011,Primary Average,7.8,Rizk (2016)
-West Bank and Gaza,2011,Secondary Average,10.5,Rizk (2016)
-West Bank and Gaza,2011,Higher Average,12.9,Rizk (2016)
-West Bank and Gaza,2011,Male Average,7.9,Rizk (2016)
-West Bank and Gaza,2011,Female Average,9.6,Rizk (2016)
 Zambia,1995,overall,10.65,Banerjee and Duflo (2005)
-Zambia,1995,Overall Average,8.8,Banerjee and Duflo (2005)
 Zimbabwe,1994,overall,5.57,Banerjee and Duflo (2005)
-Zimbabwe,1994,Overall Average,8.8,Banerjee and Duflo (2005)
