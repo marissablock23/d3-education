@@ -132,6 +132,10 @@ h6.stickyTitle {
   display: inline-block;
 }
 
+.checkbox-lollipop {
+  display: none;
+}
+
 .no-data {
   display: none;
 }

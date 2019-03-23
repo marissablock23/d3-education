@@ -929,8 +929,14 @@ function triggerAllCharts(list, country) {
 
   if(filteredSelection.length === 0 && filteredCross.length === 0){
     document.getElementById('no-data').style.display = 'inline-block';
+    document.getElementsByClassName('inline-charts')[0].style.display = 'none';
+    document.getElementsByClassName('inline-charts')[1].style.display = 'none';
+    document.getElementsByClassName('checkbox-lollipop')[0].style.display = 'none';
   } else {
     document.getElementById('no-data').style.display = 'none';
+    document.getElementsByClassName('inline-charts')[0].style.display = 'inline-block';
+    document.getElementsByClassName('inline-charts')[1].style.display = 'inline-block';
+    document.getElementsByClassName('checkbox-lollipop')[0].style.display = 'block';
     createBar(filteredSelection);
     createLollipopChart(filteredCross, filteredSelection);
   }
